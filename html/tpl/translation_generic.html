@@ -1,0 +1,31 @@
+<div class="{{prefix}}translation-content">
+  <div class="{{prefix}}original-main">{{original}}</div>
+
+  {{^notFound}}
+  <ul>
+  {{#translation}}
+    <li>
+      {{{value}}}
+      {{#likes}}
+      <span class="{{prefix}}translation-note">
+        +{{likes}}
+      </span>
+      {{/likes}}
+    </li>
+  {{/translation}}
+  </ul>
+  {{/notFound}}
+
+  {{#notFound}}
+    <div class="{{prefix}}text-center">Not Found</div>
+  {{/notFound}}
+
+  {{#moreURL}}
+  <div class="{{prefix}}translation-copyright">
+    {{#more}}
+      + {{more}} more:
+    {{/more}}
+    <a href="{{moreURL}}" target="_blank">{{moreAnchor}}</a>
+  </div>
+  {{/moreURL}}
+</div>

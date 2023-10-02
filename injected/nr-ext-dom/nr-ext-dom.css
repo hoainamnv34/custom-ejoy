@@ -1,0 +1,47 @@
+.nr-sentence-highlight-light{
+    background: #D2ECF2 !important;
+    color:#333333 !important; 
+    z-index: 1000;
+}
+
+.nr-word-highlight-light{
+    background-color:#184D58 !important;
+    color: #ffffff  !important;
+    z-index: 1000;
+}
+
+.nr-sentence-highlight-dark{
+    background: #F2DECC !important;
+    color:#333333 !important;
+    z-index: 1000;
+}
+
+.nr-word-highlight-dark{
+    background-color:#6A3D2E !important;
+    color:#ffffff !important;
+    z-index: 1000;
+}
+
+.nr-sentence-highlight-ice{
+    background: #3B4048 !important;
+    color:#ffffff !important;
+    z-index: 1000;
+}
+
+.nr-word-highlight-ice{
+    background-color:#F1E690 !important;
+    color:#333333 !important;
+    z-index: 1000;
+}
+
+.nr-sentence-highlight-warm{
+    background: #DBEDD4!important;
+    color:#333333!important;
+    z-index: 1000;
+}
+
+.nr-word-highlight-warm{
+    background-color:#48681E !important;
+    color:#ffffff !important;
+    z-index: 1000;
+}

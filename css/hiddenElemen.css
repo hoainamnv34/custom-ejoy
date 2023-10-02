@@ -1,0 +1,7 @@
+.ytp-pause-overlay, .ytp-show-watch-later-title,
+.html5-endscreen, .captions-text, .ytp-ce-element,
+.yt-uix-sessionlink, .ytp-title-channel-logo, .ytp-overflow-icon,
+.ytp-chrome-top-buttons
+{
+  display: none !important;
+}

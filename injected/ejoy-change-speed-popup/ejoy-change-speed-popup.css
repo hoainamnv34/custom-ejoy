@@ -1,0 +1,119 @@
+.ejoy-change-text-speech-popup{
+  /* background: #FFFFFF; */
+  /* box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2); */
+  /* border-radius: 5px; */
+  /* position: fixed; */
+  /* top: 0px;
+  left: 0px; */
+  display: flex;
+  padding: 16px;
+}
+
+.ejoy-slider-container{
+  background: #F0F0F0;
+  border-radius: 100px;
+  width: 16px;
+  height: 296px;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.ejoy-mile-stone-speed-container{
+  height: 296px;
+  flex-direction: column;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  margin-right: 8px;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.ejoy-slider-mile-stone{
+  color:#B3B3B3;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  left:0;
+}
+
+#ejoy-mile-stone-indicator{
+  color: #1DA1F2;
+  position: absolute;
+}
+
+.ejoy-speed-slider{
+    -webkit-appearance: none;
+    -webkit-transform: rotate(270deg);
+    transform: rotate(270deg);
+    position: absolute;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
+    padding: 0;
+    margin: 0;
+    left: 0;
+    top: 0;
+    height: 16px;
+    width: 296px;
+    top:296px;
+    background-color: transparent;
+    outline-offset: 0;
+}
+
+.ejoy-speed-slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use -webkit- (Chrome, Opera, Safari, Edge) and -moz- (Firefox) to override default look) */
+.ejoy-speed-slider::-webkit-slider-thumb {
+  -webkit-appearance: none; /* Override default look */
+  appearance: none;
+  width: 16px; /* Set a specific slider handle width */
+  height: 16px; /* Slider handle height */
+  background: #1DA1F2; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+.ejoy-speed-slider::-moz-range-thumb {
+  width: 16px; /* Set a specific slider handle width */
+  height: 16px; /* Slider handle height */
+  background: #1DA1F2; /* Green background */
+  cursor: pointer; /* Cursor on hover */
+}
+
+
+.ejoy-slider-container .ejoy-slider-ball{
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  background: #C4C4C4;
+  z-index: 2;
+  pointer-events: none;
+  line-height: 16px;
+}
+
+.ejoy-ball-container{
+  width: 16px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#fill-slider-ejoy{
+  background: #1DA1F2;
+  position: absolute;
+  bottom:0;
+  left:0;
+  right:0;
+}
+
+.ejoy-slider-container .ejoy-slider-ball.ejoy-active{
+  background: #FFFFFF;
+}

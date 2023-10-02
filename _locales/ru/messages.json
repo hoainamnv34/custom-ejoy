@@ -1,0 +1,830 @@
+{
+  "ext_description": {
+    "message": "Перевод субтитров на Netflix, Youtube, iFlix. Поиск в словаре. Изучение английского словаря в игровой форме."
+  },
+  "Popup_Size": {
+    "message": "Размер всплывающего окна"
+  },
+  "Default_Wordbook": {
+    "message": "Добавить в Wordbook"
+  },
+  "Translate_to": {
+    "message": "Перевести на"
+  },
+  "Popup_Setting": {
+    "message": "Настройки всплывающего окна"
+  },
+  "Immediately_Display": {
+    "message": "Показывать сразу же"
+  },
+  "Display_Icon": {
+    "message": "Показывать иконку"
+  },
+  "Dont_Display": {
+    "message": "Не показывать"
+  },
+  "Wordbooks": {
+    "message": "Словари"
+  },
+  "Your_account_is": {
+    "message": "На вашем аккаунте можно сохранить"
+  },
+  "Basic": {
+    "message": "Basic"
+  },
+  "Pro": {
+    "message": "Премиум"
+  },
+  "words_left_to_save": {
+    "message": "слов в этом месяце"
+  },
+  "Go_PRO_now": {
+    "message": "Go PRO"
+  },
+  "Basic_account": {
+    "message": "Базовый аккаунт"
+  },
+  "word_defined_today": {
+    "message": "слов сегодня определено"
+  },
+  "word_added_today": {
+    "message": "слов сегодня добавлено"
+  },
+  "Log_out": {
+    "message": "Log out"
+  },
+  "Connect_with_us_via": {
+    "message": "Связаться с нами в"
+  },
+  "Account": {
+    "message": "Аккаунт"
+  },
+  "Feedback": {
+    "message": "Отзывы"
+  },
+  "Email": {
+    "message": "Email"
+  },
+  "Your_feedback": {
+    "message": "Ваш отзыв"
+  },
+  "Send_feedback": {
+    "message": "Отправить отзыв"
+  },
+  "When_i_sellect_a_word_or_phase": {
+    "message": "Когда я выбираю слово или фразу"
+  },
+  "Display_icon_describe": {
+    "message": "Показать значок, что я могу кликнуть для отображения всплывающего окна"
+  },
+  "Immediately_display_popup": {
+    "message": "Отображать всплывающее окно сразу же"
+  },
+  "Dont_display_icon_or_popup": {
+    "message": "Не отображать иконку или всплывающее окно"
+  },
+  "Translation": {
+    "message": "Перевод"
+  },
+  "Definition": {
+    "message": "Определение"
+  },
+  "Slang": {
+    "message": "Сленг"
+  },
+  "sentence": {
+    "message": "наиболее распространено"
+  },
+  "noun": {
+    "message": "noun"
+  },
+  "adjective": {
+    "message": "adjective"
+  },
+  "pronoun": {
+    "message": "pronoun"
+  },
+  "verb": {
+    "message": "verb"
+  },
+  "adverb": {
+    "message": "adverb"
+  },
+  "auxiliary_verb": {
+    "message": "auxiliary verb"
+  },
+  "preposition": {
+    "message": "preposition"
+  },
+  "conjunction": {
+    "message": "conjunction"
+  },
+  "Limited": {
+    "message": "Ограничено"
+  },
+  "Go_PRO_Alert": {
+    "message": "Хм... вы достигли лимита. Перейдите на PRO-аккаунт, чтобы убрать ограничения."
+  },
+  "Buy_pro": {
+    "message": "Buy PRO"
+  },
+  "Go_Login": {
+    "message": "Login"
+  },
+  "Login_Require_Alert": {
+    "message": "Пожалуйста, авторизуйтесь, чтобы сохранить это слово!"
+  },
+  "Login_please": {
+    "message": "Login please!"
+  },
+  "Ooops": {
+    "message": "Oops!!!"
+  },
+  "Cant_Define_Alert": {
+    "message": "Точных совпадений не найдено."
+  },
+  "Dont_have_an_account": {
+    "message": "Ещё не зарегистрированы?"
+  },
+  "Signin": {
+    "message": "Sign in"
+  },
+  "Signup": {
+    "message": "Sign up"
+  },
+  "feedback_footer_info": {
+    "message": "Один аккаунт eJOY можно использовать на нескольких платформах."
+  },
+  "Thanks_for_your_feedback": {
+    "message": "Благодарим за ваш отзыв!"
+  },
+  "We_will_reply_soon": {
+    "message": "Вскоре мы ответим вам."
+  },
+  "Back": {
+    "message": "Back"
+  },
+  "About_us": {
+    "message": "About us"
+  },
+  "Key_shortcuts": {
+    "message": "Горячие клавиши"
+  },
+  "Next_sentence": {
+    "message": "Следующее предложение"
+  },
+  "Prev_sentence": {
+    "message": "Предыдущее предложение"
+  },
+  "Turn_on_off_substitle": {
+    "message": "Отключить/включить субтитры"
+  },
+  "Next": {
+    "message": "Далее"
+  },
+  "Prev": {
+    "message": "Назад"
+  },
+  "seconds": {
+    "message": "секунд"
+  },
+  "Play_pause": {
+    "message": "Воспроизведение/пауза"
+  },
+  "About_us_content": {
+    "message": "Вам нравится eJOY? Пожалуйста, уделите минутку и оцените нас"
+  },
+  "Chrome_Web_Store": {
+    "message": "Chrome Web Store"
+  },
+  "Thank_you": {
+    "message": "Спасибо!"
+  },
+  "eJOY_English_for_Netflix": {
+    "message": "eJOY English for Netflix"
+  },
+  "Setting": {
+    "message": "Настройки"
+  },
+  "Look_up": {
+    "message": "Просмотреть"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Text_to_translate": {
+    "message": "Начните писать, чтобы найти"
+  },
+  "more": {
+    "message": "больше"
+  },
+  "Close": {
+    "message": "Закрыть"
+  },
+  "Add": {
+    "message": "Добавить"
+  },
+  "Added": {
+    "message": "Добавлено"
+  },
+  "Add_to_wordbook": {
+    "message": "Добавить в словарь"
+  },
+  "Speak": {
+    "message": "Проговорить"
+  },
+  "You_need_LOGIN_first": {
+    "message": "Сначала нужно АВТОРИЗОВАТЬСЯ"
+  },
+  "Error": {
+    "message": "Ошибка"
+  },
+  "Err_Not_PRO": {
+    "message": "У вас Базовый аккаунт. Перейдите на PRO, чтобы добавить больше слов"
+  },
+  "Successful": {
+    "message": "Успешно"
+  },
+  "Login_Successfully": {
+    "message": "Вы вошли в систему"
+  },
+  "unknown": {
+    "message": "N/A"
+  },
+  "Game_home": {
+    "message": "Game Center"
+  },
+  "time_left": {
+    "message": "часов до окончания"
+  },
+  "Daily_goal": {
+    "message": "Ежедневная цель"
+  },
+  "days": {
+    "message": "дней"
+  },
+  "word_added": {
+    "message": "Добавленные слова"
+  },
+  "Type_what_you_can_hear": {
+    "message": "Напишите, что вы слышите"
+  },
+  "write_in_here": {
+    "message": "писать сюда"
+  },
+  "Try_again": {
+    "message": "Попробуйте ещё раз"
+  },
+  "Done": {
+    "message": "Готово"
+  },
+  "Show_hint": {
+    "message": "Показать подсказку"
+  },
+  "word_info": {
+    "message": "информация о слове"
+  },
+  "Correct_anwser": {
+    "message": "Правильный ответ"
+  },
+  "Correct_anwsers": {
+    "message": "Правильные ответы"
+  },
+  "Log_in": {
+    "message": "Log in"
+  },
+  "Sign_up": {
+    "message": "Sign up"
+  },
+  "login_desc": {
+    "message": "Войдите и наслаждайтесь невероятными играми для изучения Английского"
+  },
+  "Your_point": {
+    "message": "Your XP"
+  },
+  "revised_words": {
+    "message": "Просмотренные слова"
+  },
+  "Speed": {
+    "message": "Скорость"
+  },
+  "Total_point": {
+    "message": "Total XP"
+  },
+  "SPOILER": {
+    "message": "СПОЙЛЕР"
+  },
+  "I_want_to_play_agian": {
+    "message": "Играть в другую игру"
+  },
+  "day": {
+    "message": "день"
+  },
+  "streak": {
+    "message": "В ударе"
+  },
+  "More_words": {
+    "message": "Больше слов"
+  },
+  "I_have_reviewed": {
+    "message": "Я просмотрел"
+  },
+  "Balance": {
+    "message": "50/50"
+  },
+  "More_priority": {
+    "message": "Больше"
+  },
+  "new_words": {
+    "message": "новые слова"
+  },
+  "About_to_review": {
+    "message": ""
+  },
+  "words": {
+    "message": "слов"
+  },
+  "word": {
+    "message": "слово"
+  },
+  "need_reviewing": {
+    "message": "нужно повторить"
+  },
+  "not_word_for_play": {
+    "message": "НЕДОСТАТОЧНО слов, чтобы играть!"
+  },
+  "Start": {
+    "message": "Играть"
+  },
+  "Change_the_word_priority": {
+    "message": "Предпочтения по словам"
+  },
+  "reviewing": {
+    "message": "игры"
+  },
+  "balance": {
+    "message": "50/50"
+  },
+  "review": {
+    "message": "просмотреть"
+  },
+  "difficulty": {
+    "message": "сложность"
+  },
+  "fluency": {
+    "message": "владение"
+  },
+  "Edit_Definition": {
+    "message": "Изменить определение"
+  },
+  "Save": {
+    "message": "Сохранить"
+  },
+  "OK": {
+    "message": "OK"
+  },
+  "delete_definition": {
+    "message": "Вы уверены, что хотите удалить это определение?"
+  },
+  "delete_term": {
+    "message": "Вы уверены, что хотите удалить это слово?"
+  },
+  "reset_term": {
+    "message": "Вы уверены, что хотите сбросить это слово?"
+  },
+  "Wordbank": {
+    "message": "Wordbank"
+  },
+  "Word_store": {
+    "message": "Words Store"
+  },
+  "guess_word": {
+    "message": "Угадайте слово"
+  },
+  "Keyboard_shortcut": {
+    "message": "Сочетания клавиш"
+  },
+  "mute": {
+    "message": "Убрать звук"
+  },
+  "key_shortcut": {
+    "message": "Горячие клавиши"
+  },
+  "Choose_option": {
+    "message": "Выберите ответ из таблицы"
+  },
+  "submit_anwsers_desc": {
+    "message": "Отправить ответ"
+  },
+  "replay_audio": {
+    "message": "Повторить аудио/видео"
+  },
+  "show_hint": {
+    "message": "Показать подсказку"
+  },
+  "navigate_through_hint": {
+    "message": "Чтобы выбрать подсказку"
+  },
+  "Title": {
+    "message": "Заголовок"
+  },
+  "Active_book": {
+    "message": "По умолчанию"
+  },
+  "Wordbook_Cover": {
+    "message": "Обложка Wordbook"
+  },
+  "change": {
+    "message": "изменить"
+  },
+  "Upload": {
+    "message": "Загрузить"
+  },
+  "cancel": {
+    "message": "Отменить"
+  },
+  "Dashboard": {
+    "message": "Консоль"
+  },
+  "Tour_guide": {
+    "message": "инструкция"
+  },
+  "Delete": {
+    "message": "Удалить"
+  },
+  "Welcome_to": {
+    "message": "Welcome to"
+  },
+  "eJOY_Game_Center": {
+    "message": "eJOY Game Center"
+  },
+  "Play_now": {
+    "message": "Начать игру"
+  },
+  "to_review_today": {
+    "message": "для сегодняшнего просмотра"
+  },
+  "notify_take_tour_title": {
+    "message": "Воспользуйтесь туром, когда пожелаете"
+  },
+  "I_got_it": {
+    "message": "Понятно!"
+  },
+  "desc_sample_in_video": {
+    "message": "Искать слово в"
+  },
+  "Start_tour": {
+    "message": "Начать тур"
+  },
+  "Skip_tour": {
+    "message": "Пропустить тур"
+  },
+  "Let_us_show_you_a_tour_around": {
+    "message": "Позвольте показать вам здесь всё"
+  },
+  "demo_desc_step_1": {
+    "message": "Нажмите, чтобы узнать значение"
+  },
+  "demo_desc_step_2": {
+    "message": "Нажмите, чтобы добавить слова в Wordbook"
+  },
+  "demo_desc_step_3": {
+    "message": "Нажмите, чтобы добавить слова на Youtube"
+  },
+  "demo_desc_step_4": {
+    "message": "Нажмите, чтобы добавить слова на Netflix"
+  },
+  "custom": {
+    "message": "Настройте"
+  },
+  "demo_desc_step_5": {
+    "message": "Настройте внешний вид eJOY и пройдите в Игровой Центр"
+  },
+  "demo_desc_step_6": {
+    "message": "Игровой Центр помогает вам учить вокабуляр в контексте. Попробовать!"
+  },
+  "demo_desc_step_7": {
+    "message": "В Игровом Центре вы сможете играть в различные игры."
+  },
+  "demo_desc_step_8": {
+    "message": "Добавить новые слова из видео на eJOY GO или из Магазина Слов"
+  },
+  "How_to_add_more_words": {
+    "message": "Как добавить больше слов"
+  },
+  "Seem_so_empty_here": {
+    "message": "Здесь как-то пусто."
+  },
+  "You_need_at_least_7_words_to_play_game": {
+    "message": ""
+  },
+  "Today_review": {
+    "message": "Обзор за сегодня"
+  },
+  "To_review": {
+    "message": "Ранее просмотренные"
+  },
+  "New_word": {
+    "message": "Новые слова"
+  },
+  "slogan_eJOY": {
+    "message": "English immersion with JOY"
+  },
+  "Home": {
+    "message": "Home"
+  },
+  "Play_game": {
+    "message": "Играть"
+  },
+  "Cant_deactive": {
+    "message": "Невозможно деактивировать"
+  },
+  "Wordbook_Settings": {
+    "message": "Настройки Wordbook"
+  },
+  "Create_Wordbook": {
+    "message": "Создать новый словарь"
+  },
+  "You_must_start_with_letter": {
+    "message": "Начинать необходимо с буквы"
+  },
+  "Remove_special_character": {
+    "message": "Удалите все пробелы и специальные символы, кроме нижнего подчёркивания."
+  },
+  "From_3_to_50_letter": {
+    "message": "От 3 до 50 символов"
+  },
+  "Streak": {
+    "message": "В ударе"
+  },
+  "Mastered": {
+    "message": "изучено"
+  },
+  "Mo": {
+    "message": "Пн"
+  },
+  "Tu": {
+    "message": "Вт"
+  },
+  "We": {
+    "message": "Ср"
+  },
+  "Th": {
+    "message": "Чт"
+  },
+  "Fr": {
+    "message": "Пт"
+  },
+  "Sa": {
+    "message": "Сб"
+  },
+  "Su": {
+    "message": "Вс"
+  },
+  "Ranking": {
+    "message": "Рейтинги"
+  },
+  "Crop_image": {
+    "message": "Обрезать изображение"
+  },
+  "Preview": {
+    "message": "Предпросмотр"
+  },
+  "Crop": {
+    "message": "Обрезать"
+  },
+  "Wordbook_list": {
+    "message": "Список словарей"
+  },
+  "Next_review_in": {
+    "message": "Следующий пересмотр через"
+  },
+  "version": {
+    "message": "Версия"
+  },
+  "In_progress": {
+    "message": "изучаются"
+  },
+  "xp": {
+    "message": "XP"
+  },
+  "no_word_to_review": {
+    "message": "Отсутствуют слова для рассмотрения."
+  },
+  "no_new_word": {
+    "message": "Новые слова отсутствуют"
+  },
+  "Popular_word_note": {
+    "message": "Популярное слово в обиходе и на экзаменах."
+  },
+  "Goal_Setting": {
+    "message": "Установка целей"
+  },
+  "Goal_Setting_desc": {
+    "message": "Установите ежедневные цели, достигайте их каждый день, и выигрывайте бонусы!"
+  },
+  "Your_Time_Zone": {
+    "message": "Часовой пояс"
+  },
+  "min": {
+    "message": "min"
+  },
+  "not_word_step_1": {
+    "message": "Недостаточно слов для настройки данной игры. Вот несколько советов, как получить больше слов"
+  },
+  "not_word_step_2": {
+    "message": "Вы можете добавить слова из видеороликов Netflix или Youtube…"
+  },
+  "not_word_step_3": {
+    "message": "С любых сайтов, где разрешено выделять текст"
+  },
+  "not_word_step_4": {
+    "message": "Используя поиск"
+  },
+  "not_word_step_5": {
+    "message": "Или в Магазине Слов"
+  },
+  "tooltip_to_review": {
+    "message": "Уже играли ранее"
+  },
+  "tooltip_new_word": {
+    "message": "Ещё не играли"
+  },
+  "tooltip_your_xp": {
+    "message": "Ваше количество XP за эту игру. Как подсчитать"
+  },
+  "tooltip_revised_word_line_1": {
+    "message": "Когда вы заканчиваете просмотр слова, оно отображается здесь с очками."
+  },
+  "tooltip_revised_word_line_2": {
+    "message": "Очки показывают, насколько беглыми вы были в этой игре."
+  },
+  "tooltip_active_wordbook": {
+    "message": "Выбрать словарь"
+  },
+  "tooltip_create_wordbook": {
+    "message": "Создать новый словарь"
+  },
+  "tooltip_setting_wordbook": {
+    "message": "Настройки словаря"
+  },
+  "tooltip_setting": {
+    "message": "Изменить внешний вид eJOY"
+  },
+  "tooltip_loop_up": {
+    "message": "Искать слово/фразу"
+  },
+  "tooltip_game_center": {
+    "message": "Играть в игры со словами"
+  },
+  "Weekly_status": {
+    "message": "Недельный статус"
+  },
+  "I_want_to_play_with": {
+    "message": "Я хочу играть с"
+  },
+  "tooltip_toggle_star": {
+    "message": "Пометить как важное"
+  },
+  "tooltip_refresh_word": {
+    "message": "Просмотреть заново"
+  },
+  "tooltip_exclusive_word": {
+    "message": "Убрать из списка"
+  },
+  "tooltip_review": {
+    "message": "Количество просмотров"
+  },
+  "tooltip_difficulty": {
+    "message": "Насколько сложно было выучить это слово"
+  },
+  "tooltip_fluency": {
+    "message": "Насколько свободно вы пользуетесь этим словом"
+  },
+  "Edit": {
+    "message": "Редактировать"
+  },
+  "EOF": {
+    "message": "Удалить"
+  },
+  "Helps": {
+    "message": "Помощь"
+  },
+  "Tutorial": {
+    "message": "Руководство"
+  },
+  "Rate_me_on_Chrome_Store": {
+    "message": "Оценить в Chrome Store"
+  },
+  "eGo": {
+    "message": "eJOY Go"
+  },
+  "no_word": {
+    "message": "Отсутствуют слова для игры."
+  },
+  "delete_wordbook": {
+    "message": "Вы уверены, что хотите удалить этот словарь?"
+  },
+  "wordbook_is_exist": {
+    "message": "Название должно быть уникальным"
+  },
+  "Word_link": {
+    "message": "Ссылка на слово"
+  },
+  "Tools": {
+    "message": "Инструменты"
+  },
+  "Resize_image": {
+    "message": "Масштабировать изображение"
+  },
+  "notify_create_wb_success": {
+    "message": "Словарь #{0} успешно создан."
+  },
+  "Not_fair": {
+    "message": "Не справедливо!"
+  },
+  "Not_fair_desc": {
+    "message": "Недостимое время"
+  },
+  "Upload_image": {
+    "message": "Загрузить изображение"
+  },
+  "Subscription_will_renew_on": {
+    "message": "Подписка будет продлена"
+  },
+  "ask_like_me": {
+    "message": "Вам нравится изучать английские слова посредством игр, не так ли?"
+  },
+  "noti_rate_me": {
+    "message": "Поставьте eJOY 5 звёздочек, чтобы сделать проект ещё лучше."
+  },
+  "feedback_ask": {
+    "message": "Вы бы могли оставить нам отзыв, чтобы наш проект становился лучше?"
+  },
+  "Not_yet": {
+    "message": "Пока нет"
+  },
+  "I_like_it": {
+    "message": "I like it"
+  },
+  "Ok_5_stars": {
+    "message": "Ok, 5 stars"
+  },
+  "Not_now": {
+    "message": "Не сейчас"
+  },
+  "Submit": {
+    "message": "Оценить"
+  },
+  "I_want_to": {
+    "message": "Я хочу..."
+  },
+  "eJoy_extension": {
+    "message": "У eJOY есть обновление для вас"
+  },
+  "diff_time": {
+    "message": "Разница во времени"
+  },
+  "diff_time_noti": {
+    "message": "ОГО! Время вашей СИСТЕМЫ отличается от вашего ЛОКАЛЬНОГО времени. Пожалуйста, поменяйте его."
+  },
+  "notify_missing_charater": {
+    "message": "Пожалуйста, переключитесь на английскую раскладку"
+  },
+  "you_choose": {
+    "message": "Вы выбираете"
+  },
+  "word_from": {
+    "message": "Слово из"
+  },
+  "select_terms_to_play": {
+    "message": "Выбрать слова для игры"
+  },
+  "max": {
+    "message": "max"
+  },
+  "desc_play_game_without_word": {
+    "message": "Вы просмотрели все слова. Можно играть в другие игры для дальнейшего изучения, но очки начисляться не будут."
+  },
+  "auto_pronunciation": {
+    "message": "Произносить автоматически"
+  },
+  "correct_answers": {
+    "message": "Правильные ответы"
+  },
+  "rearrange_the_block": {
+    "message": "Перегруппировать блок"
+  },
+  "other": {
+    "message": "другие"
+  },
+  "Auto_open_game_centre": {
+    "message": "Автоматически открывать Игровой Центр"
+  },
+  "tooltip_to_auto_desc": {
+    "message": "eJOY будет открывать Игровой Центр в новой вкладке при открытии браузера"
+  },
+  "Cant_add_special_char": {
+    "message": "Невозможно добавить специальные символы"
+  }
+}

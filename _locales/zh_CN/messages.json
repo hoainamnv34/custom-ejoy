@@ -1,0 +1,827 @@
+{
+  "ext_description": {
+    "message": "翻譯Netflix, Youtube, iFlix上的字幕，查字典，藉由遊戲學習英語字彙"
+  },
+  "Popup_Size": {
+    "message": "弹出大小"
+  },
+  "Default_Wordbook": {
+    "message": "添加到Wordbook"
+  },
+  "Translate_to": {
+    "message": "翻译成"
+  },
+  "Popup_Setting": {
+    "message": "弹出设定"
+  },
+  "Immediately_Display": {
+    "message": "立即显示"
+  },
+  "Display_Icon": {
+    "message": "显示图标"
+  },
+  "Dont_Display": {
+    "message": "不要显示"
+  },
+  "Wordbooks": {
+    "message": "Wordbooks"
+  },
+  "Your_account_is": {
+    "message": "你的账户是"
+  },
+  "Basic": {
+    "message": "Basic"
+  },
+  "Pro": {
+    "message": "Pro"
+  },
+  "words_left_to_save": {
+    "message": "本月剩余可储存的字数"
+  },
+  "Go_PRO_now": {
+    "message": "Go PRO"
+  },
+  "Basic_account": {
+    "message": "基本账户"
+  },
+  "word_defined_today": {
+    "message": "本日定义字数"
+  },
+  "word_added_today": {
+    "message": "本日添加字数"
+  },
+  "Log_out": {
+    "message": "Log out"
+  },
+  "Connect_with_us_via": {
+    "message": "与我们连接"
+  },
+  "Account": {
+    "message": "账户"
+  },
+  "Feedback": {
+    "message": "反馈"
+  },
+  "Email": {
+    "message": "Email"
+  },
+  "Your_feedback": {
+    "message": "你的反馈"
+  },
+  "Send_feedback": {
+    "message": "发送反馈"
+  },
+  "When_i_sellect_a_word_or_phase": {
+    "message": "当我选择一个字或词组时"
+  },
+  "Display_icon_describe": {
+    "message": "我可以点击以显示弹出的显示图标"
+  },
+  "Immediately_display_popup": {
+    "message": "立即显示弹出"
+  },
+  "Dont_display_icon_or_popup": {
+    "message": "不要显示图标或弹出"
+  },
+  "Translation": {
+    "message": "翻译"
+  },
+  "Definition": {
+    "message": "定义"
+  },
+  "Slang": {
+    "message": "俚语"
+  },
+  "sentence": {
+    "message": "最常见的"
+  },
+  "noun": {
+    "message": "noun"
+  },
+  "adjective": {
+    "message": "adjective"
+  },
+  "pronoun": {
+    "message": "pronoun"
+  },
+  "verb": {
+    "message": "verb"
+  },
+  "adverb": {
+    "message": "adverb"
+  },
+  "auxiliary_verb": {
+    "message": "auxiliary verb"
+  },
+  "preposition": {
+    "message": "preposition"
+  },
+  "conjunction": {
+    "message": "conjunction"
+  },
+  "Limited": {
+    "message": "有限"
+  },
+  "Go_PRO_Alert": {
+    "message": "嗯……你已经到达极限。升级到专业版移除所有限制。"
+  },
+  "Buy_pro": {
+    "message": "Buy PRO"
+  },
+  "Go_Login": {
+    "message": "Login"
+  },
+  "Login_Require_Alert": {
+    "message": "请先登录以拯救这个世界！"
+  },
+  "Login_please": {
+    "message": "Login please!"
+  },
+  "Ooops": {
+    "message": "Oops!!!"
+  },
+  "Cant_Define_Alert": {
+    "message": "找不到完全匹配的。"
+  },
+  "Dont_have_an_account": {
+    "message": "没有账户吗？"
+  },
+  "Signin": {
+    "message": "Sign in"
+  },
+  "Signup": {
+    "message": "Sign up"
+  },
+  "feedback_footer_info": {
+    "message": "一个eJOY账户可以跨平台使用。"
+  },
+  "Thanks_for_your_feedback": {
+    "message": "感谢你的反馈！"
+  },
+  "We_will_reply_soon": {
+    "message": "我们会尽快回复。"
+  },
+  "Back": {
+    "message": "Back"
+  },
+  "About_us": {
+    "message": "About us"
+  },
+  "Key_shortcuts": {
+    "message": "快捷键"
+  },
+  "Next_sentence": {
+    "message": "下一个句子"
+  },
+  "Prev_sentence": {
+    "message": "上一个句子"
+  },
+  "Turn_on_off_substitle": {
+    "message": "开启/关闭字幕"
+  },
+  "Next": {
+    "message": "下一个"
+  },
+  "Prev": {
+    "message": "上一个"
+  },
+  "seconds": {
+    "message": "秒"
+  },
+  "Play_pause": {
+    "message": "播放/暂停"
+  },
+  "About_us_content": {
+    "message": "喜欢eJOY吗？请你花一点时间为我们评价于"
+  },
+  "Chrome_Web_Store": {
+    "message": "Chrome Web Store"
+  },
+  "Thank_you": {
+    "message": "谢谢"
+  },
+  "eJOY_English_for_Netflix": {
+    "message": "eJOY English for Netflix"
+  },
+  "Setting": {
+    "message": "设定"
+  },
+  "Look_up": {
+    "message": "查询"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Text_to_translate": {
+    "message": "输入以查询"
+  },
+  "more": {
+    "message": "更多"
+  },
+  "Close": {
+    "message": "关闭"
+  },
+  "Add": {
+    "message": "添加"
+  },
+  "Added": {
+    "message": "已添加"
+  },
+  "Add_to_wordbook": {
+    "message": "添加到wordbook"
+  },
+  "Speak": {
+    "message": "说话"
+  },
+  "You_need_LOGIN_first": {
+    "message": "你需要先登录"
+  },
+  "Error": {
+    "message": "错误"
+  },
+  "Err_Not_PRO": {
+    "message": "你的账户是基本账户，前往专业版以添加更多字数"
+  },
+  "Successful": {
+    "message": "成功"
+  },
+  "Login_Successfully": {
+    "message": "登录成功"
+  },
+  "unknown": {
+    "message": "N/A"
+  },
+  "Game_home": {
+    "message": "Game Center"
+  },
+  "time_left": {
+    "message": "完成的剩余时间"
+  },
+  "Daily_goal": {
+    "message": "每日目标"
+  },
+  "days": {
+    "message": "天"
+  },
+  "word_added": {
+    "message": "已添加的字数"
+  },
+  "Type_what_you_can_hear": {
+    "message": "输入你听到的"
+  },
+  "write_in_here": {
+    "message": "在此书写"
+  },
+  "Try_again": {
+    "message": "重试"
+  },
+  "Done": {
+    "message": "完成"
+  },
+  "Show_hint": {
+    "message": "显示提示"
+  },
+  "word_info": {
+    "message": "文字信息"
+  },
+  "Correct_anwser": {
+    "message": "正确答案"
+  },
+  "Correct_anwsers": {
+    "message": "正确答案"
+  },
+  "Log_in": {
+    "message": "Log in"
+  },
+  "Sign_up": {
+    "message": "Sign up"
+  },
+  "login_desc": {
+    "message": "登录并享受好玩的游戏学习英语"
+  },
+  "Your_point": {
+    "message": "Your XP"
+  },
+  "revised_words": {
+    "message": "修订的文字"
+  },
+  "Speed": {
+    "message": "速度"
+  },
+  "Total_point": {
+    "message": "Total XP"
+  },
+  "SPOILER": {
+    "message": "破坏者"
+  },
+  "I_want_to_play_agian": {
+    "message": "进行另一个游戏"
+  },
+  "day": {
+    "message": "天"
+  },
+  "streak": {
+    "message": "条纹"
+  },
+  "More_words": {
+    "message": "更多字数"
+  },
+  "I_have_reviewed": {
+    "message": "我已经复习了"
+  },
+  "Balance": {
+    "message": "50/50"
+  },
+  "More_priority": {
+    "message": "更多"
+  },
+  "new_words": {
+    "message": "新字"
+  },
+  "About_to_review": {
+    "message": ""
+  },
+  "words": {
+    "message": "字"
+  },
+  "word": {
+    "message": "字"
+  },
+  "need_reviewing": {
+    "message": "要复习"
+  },
+  "not_word_for_play": {
+    "message": "字数不足无法开始游戏！"
+  },
+  "Start": {
+    "message": "开始"
+  },
+  "Change_the_word_priority": {
+    "message": "喜爱的字"
+  },
+  "reviewing": {
+    "message": "游戏"
+  },
+  "balance": {
+    "message": "50/50"
+  },
+  "review": {
+    "message": "复习"
+  },
+  "difficulty": {
+    "message": "难度"
+  },
+  "fluency": {
+    "message": "流利"
+  },
+  "Edit_Definition": {
+    "message": "编辑定义"
+  },
+  "Save": {
+    "message": "储存"
+  },
+  "OK": {
+    "message": "OK"
+  },
+  "delete_definition": {
+    "message": "你是否确定要删除此定义？"
+  },
+  "delete_term": {
+    "message": "你是否确定要删除这个字？"
+  },
+  "reset_term": {
+    "message": "你是否确定要删除重设这个字？"
+  },
+  "Wordbank": {
+    "message": "Wordbank"
+  },
+  "Word_store": {
+    "message": "Words Store"
+  },
+  "guess_word": {
+    "message": "猜测该文字"
+  },
+  "Keyboard_shortcut": {
+    "message": "键盘快捷键"
+  },
+  "mute": {
+    "message": "静音"
+  },
+  "key_shortcut": {
+    "message": "快捷键"
+  },
+  "Choose_option": {
+    "message": "在复选题中选择一个答案"
+  },
+  "submit_anwsers_desc": {
+    "message": "提交答案"
+  },
+  "replay_audio": {
+    "message": "重播音频/视频"
+  },
+  "show_hint": {
+    "message": "显示提示"
+  },
+  "navigate_through_hint": {
+    "message": "选择一个提示"
+  },
+  "Title": {
+    "message": "标题"
+  },
+  "Active_book": {
+    "message": "Active book"
+  },
+  "Wordbook_Cover": {
+    "message": "Wordbook的封面"
+  },
+  "change": {
+    "message": "更换"
+  },
+  "Upload": {
+    "message": "上载"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "Dashboard": {
+    "message": "控制面板"
+  },
+  "Tour_guide": {
+    "message": "Tour guide"
+  },
+  "Delete": {
+    "message": "删除"
+  },
+  "eJOY_Game_Center": {
+    "message": "eJOY Game Center"
+  },
+  "Play_now": {
+    "message": "现在开始"
+  },
+  "to_review_today": {
+    "message": "本日复习"
+  },
+  "notify_take_tour_title": {
+    "message": "随时都可以参加导览"
+  },
+  "I_got_it": {
+    "message": "知道了"
+  },
+  "desc_sample_in_video": {
+    "message": "查询文字于"
+  },
+  "Start_tour": {
+    "message": "开始导览"
+  },
+  "Skip_tour": {
+    "message": "略过导览"
+  },
+  "Let_us_show_you_a_tour_around": {
+    "message": "让我们带你到处参观"
+  },
+  "demo_desc_step_1": {
+    "message": "点击获取意思"
+  },
+  "demo_desc_step_2": {
+    "message": "点击添加文字到word book"
+  },
+  "demo_desc_step_3": {
+    "message": "点击添加文字到Youtube"
+  },
+  "demo_desc_step_4": {
+    "message": "点击添加文字到Netflix"
+  },
+  "custom": {
+    "message": "自定义"
+  },
+  "demo_desc_step_5": {
+    "message": "自定义eJOY显示并导航到游戏中心"
+  },
+  "demo_desc_step_6": {
+    "message": "游戏中心能帮助你在文本中学习生词。来试试看吧！"
+  },
+  "demo_desc_step_7": {
+    "message": "你将会在游戏中心内进行任意游戏。"
+  },
+  "demo_desc_step_8": {
+    "message": "从eJOY GO的视频或是文字商店（Words Store）中添加新字"
+  },
+  "How_to_add_more_words": {
+    "message": "如何添加更多文字"
+  },
+  "Seem_so_empty_here": {
+    "message": "这里看起来有点空。"
+  },
+  "You_need_at_least_7_words_to_play_game": {
+    "message": ""
+  },
+  "Today_review": {
+    "message": "本日复习"
+  },
+  "To_review": {
+    "message": "之前复习"
+  },
+  "New_word": {
+    "message": "新字"
+  },
+  "slogan_eJOY": {
+    "message": "English immersion with JOY"
+  },
+  "Home": {
+    "message": "Home"
+  },
+  "Play_game": {
+    "message": "开始游戏"
+  },
+  "Cant_deactive": {
+    "message": "无法设定为不活跃"
+  },
+  "Wordbook_Settings": {
+    "message": "Wordbook设定"
+  },
+  "Create_Wordbook": {
+    "message": "创建一个新的wordbook"
+  },
+  "You_must_start_with_letter": {
+    "message": "你必须以字母开始"
+  },
+  "Remove_special_character": {
+    "message": "移除所有空格和除_底线之外的特殊字符。"
+  },
+  "From_3_to_50_letter": {
+    "message": "3-50个字符"
+  },
+  "Streak": {
+    "message": "Streak"
+  },
+  "Mastered": {
+    "message": "Mastered"
+  },
+  "Mo": {
+    "message": "Mo"
+  },
+  "Tu": {
+    "message": "Tu"
+  },
+  "We": {
+    "message": "We"
+  },
+  "Th": {
+    "message": "Th"
+  },
+  "Fr": {
+    "message": "Fr"
+  },
+  "Sa": {
+    "message": "Sa"
+  },
+  "Su": {
+    "message": "Su"
+  },
+  "Ranking": {
+    "message": "排名"
+  },
+  "Crop_image": {
+    "message": "裁剪图片"
+  },
+  "Preview": {
+    "message": "预览"
+  },
+  "Crop": {
+    "message": "裁剪"
+  },
+  "Wordbook_list": {
+    "message": "Wordbook列表"
+  },
+  "Next_review_in": {
+    "message": "下一个复习在"
+  },
+  "version": {
+    "message": "版本"
+  },
+  "In_progress": {
+    "message": "学习"
+  },
+  "xp": {
+    "message": "XP"
+  },
+  "no_word_to_review": {
+    "message": "没有可以复习的文字。"
+  },
+  "no_new_word": {
+    "message": "没有新字"
+  },
+  "Popular_word_note": {
+    "message": "日常使用和考试中的热门文字。"
+  },
+  "Goal_Setting": {
+    "message": "目标设定"
+  },
+  "Goal_Setting_desc": {
+    "message": "设定每日目标 - 每日达成目标有额外奖励！"
+  },
+  "Your_Time_Zone": {
+    "message": "Your Time Zone"
+  },
+  "min": {
+    "message": "min"
+  },
+  "not_word_step_1": {
+    "message": "你的字数不足无法开启游戏。这里是一些提示让你有更多字数"
+  },
+  "not_word_step_2": {
+    "message": "你可以从Netflix或Youtube的视频中添加字数……"
+  },
+  "not_word_step_3": {
+    "message": "从任何你可以选择文字的网站中"
+  },
+  "not_word_step_4": {
+    "message": "使用查询"
+  },
+  "not_word_step_5": {
+    "message": "或使用文字商店（word store）"
+  },
+  "tooltip_to_review": {
+    "message": "曾经玩过"
+  },
+  "tooltip_new_word": {
+    "message": "从未玩过"
+  },
+  "tooltip_your_xp": {
+    "message": "你在游戏中的总XP。如何计算"
+  },
+  "tooltip_revised_word_line_1": {
+    "message": "每当你完成复习一个字，它会变成点数显示在这里。"
+  },
+  "tooltip_revised_word_line_2": {
+    "message": "点数显示了你在这个游戏中的文字流利程度。"
+  },
+  "tooltip_active_wordbook": {
+    "message": "选择一个word book"
+  },
+  "tooltip_create_wordbook": {
+    "message": "创建一个新的word book"
+  },
+  "tooltip_setting_wordbook": {
+    "message": "Wordbook设定"
+  },
+  "tooltip_setting": {
+    "message": "更改eJOY显示的方式"
+  },
+  "tooltip_loop_up": {
+    "message": "查询一个字/词组"
+  },
+  "tooltip_game_center": {
+    "message": "用文字玩游戏"
+  },
+  "Weekly_status": {
+    "message": "每周状态"
+  },
+  "I_want_to_play_with": {
+    "message": "我要玩游戏"
+  },
+  "tooltip_toggle_star": {
+    "message": "标记为重要"
+  },
+  "tooltip_refresh_word": {
+    "message": "再次复习"
+  },
+  "tooltip_exclusive_word": {
+    "message": "从列表中移除"
+  },
+  "tooltip_review": {
+    "message": "复习的数目"
+  },
+  "tooltip_difficulty": {
+    "message": "你多努力地学习这个字"
+  },
+  "tooltip_fluency": {
+    "message": "你多流利地使用这个字"
+  },
+  "Edit": {
+    "message": "编辑"
+  },
+  "EOF": {
+    "message": "删除"
+  },
+  "Helps": {
+    "message": "帮助"
+  },
+  "Tutorial": {
+    "message": "教程"
+  },
+  "Rate_me_on_Chrome_Store": {
+    "message": "在Chrome商店评价我"
+  },
+  "eGo": {
+    "message": "eJOY Go"
+  },
+  "no_word": {
+    "message": "没有文字可以玩"
+  },
+  "delete_wordbook": {
+    "message": "你是否确定要删除此wordbook?"
+  },
+  "wordbook_is_exist": {
+    "message": "名字一定要独特"
+  },
+  "Word_link": {
+    "message": "文字连接"
+  },
+  "Tools": {
+    "message": "工具"
+  },
+  "Resize_image": {
+    "message": "调整图片大小"
+  },
+  "notify_create_wb_success": {
+    "message": "Word book #{0} 已经创建。"
+  },
+  "Not_fair": {
+    "message": "不公平!"
+  },
+  "Not_fair_desc": {
+    "message": "你的时间无效。"
+  },
+  "Upload_image": {
+    "message": "上载图片"
+  },
+  "Subscription_will_renew_on": {
+    "message": "订阅会更新于"
+  },
+  "ask_like_me": {
+    "message": "你真的很喜欢用游戏学习英语生词，是吗？"
+  },
+  "noti_rate_me": {
+    "message": "评价我们5颗星，帮助eJOY变得更棒。"
+  },
+  "feedback_ask": {
+    "message": "你是否可以给我们一些反馈，让我们能更好地服务你？"
+  },
+  "Not_yet": {
+    "message": "还没"
+  },
+  "I_like_it": {
+    "message": "I like it"
+  },
+  "Ok_5_stars": {
+    "message": "Ok, 5 stars"
+  },
+  "Not_now": {
+    "message": "不是现在"
+  },
+  "Submit": {
+    "message": "提交"
+  },
+  "I_want_to": {
+    "message": "我想要……"
+  },
+  "eJoy_extension": {
+    "message": "eJOY有更新消息"
+  },
+  "diff_time": {
+    "message": "时间差异"
+  },
+  "diff_time_noti": {
+    "message": "我的天！你的系统时间和本地时间差异好大。请更换！"
+  },
+  "notify_missing_charater": {
+    "message": "请把你的键盘换成英语的"
+  },
+  "you_choose": {
+    "message": "你选择"
+  },
+  "word_from": {
+    "message": "文字来自"
+  },
+  "select_terms_to_play": {
+    "message": "选择文字进行游戏"
+  },
+  "max": {
+    "message": "max"
+  },
+  "desc_play_game_without_word": {
+    "message": "你已完成所有文字的复习。进行更多游戏以准备更多复习，但是这不会加分。"
+  },
+  "auto_pronunciation": {
+    "message": "自动发音"
+  },
+  "correct_answers": {
+    "message": "正确答案"
+  },
+  "rearrange_the_block": {
+    "message": "重组区块"
+  },
+  "other": {
+    "message": "其他"
+  },
+  "Auto_open_game_centre": {
+    "message": "自动开启的游戏中心"
+  },
+  "tooltip_to_auto_desc": {
+    "message": "eJOY将会在你打开浏览器时，在新的选项卡中开启游戏中心"
+  },
+  "Cant_add_special_char": {
+    "message": "无法添加特殊符号"
+  }
+}

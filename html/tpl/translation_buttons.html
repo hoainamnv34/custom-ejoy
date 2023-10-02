@@ -1,0 +1,18 @@
+<div class="{{prefix}}translator-btns" data-text="{{text}}">
+  {{#list}}
+  <a href="#" class="{{prefix}}translator-btn {{#active}}{{prefix}}translator-btn-active{{/active}}" data-service="{{id}}">
+    {{name}}
+  </a>
+  {{/list}}
+</div>
+
+<div class="{{prefix}}translation-spinner {{^showSpinner}}{{prefix}}hidden{{/showSpinner}}">
+  <div class="{{prefix}}translation-spinner-overlay"></div>
+  <img src="{{{ceURL}}}img/spinner32.gif"/>
+</div>
+
+<div>
+  {{#error}}
+  Error: {{error}}
+  {{/error}}
+</div>

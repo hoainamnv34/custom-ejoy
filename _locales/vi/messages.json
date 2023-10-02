@@ -1,0 +1,4097 @@
+{
+  "ext_description": {
+    "message": "eJOY eXtension - Công cụ học tiếng Anh qua phim và video số 1."
+  },
+  "Popup_Size": {
+    "message": "Kích thước Pop-up"
+  },
+  "Default_Wordbook": {
+    "message": "Thêm vào sổ từ"
+  },
+  "Translate_from": {
+    "message": "Dịch từ"
+  },
+  "Translate_to": {
+    "message": "Dịch sang"
+  },
+  "Popup_Setting": {
+    "message": "Cài đặt Pop-up"
+  },
+  "Immediately_Display": {
+    "message": "Hiển thị ngay"
+  },
+  "Display_Icon": {
+    "message": "Hiển thị biểu tượng"
+  },
+  "Dont_Display": {
+    "message": "Không hiển thị"
+  },
+  "Wordbooks": {
+    "message": "Sổ Từ"
+  },
+  "Your_account_is": {
+    "message": "Tài khoản của bạn là"
+  },
+  "Basic": {
+    "message": "Basic"
+  },
+  "Pro": {
+    "message": "Pro"
+  },
+  "words_left_to_save": {
+    "message": "từ còn lại để lưu trong tháng này"
+  },
+  "Go_PRO_now": {
+    "message": "Nâng cấp lên PRO"
+  },
+  "Basic_account": {
+    "message": "Tài khoản Basic"
+  },
+  "word_defined_today": {
+    "message": "từ được tra hôm nay"
+  },
+  "word_added_today": {
+    "message": "từ được lưu hôm nay"
+  },
+  "Log_out": {
+    "message": "Đăng xuất"
+  },
+  "Connect_with_us_via": {
+    "message": "Kết nối với eJOY qua"
+  },
+  "Account": {
+    "message": "Tài khoản"
+  },
+  "Feedback": {
+    "message": "Phản hồi"
+  },
+  "Email": {
+    "message": "Email"
+  },
+  "Your_feedback": {
+    "message": "Phản hồi của bạn"
+  },
+  "Send_feedback": {
+    "message": "Gửi phản hồi"
+  },
+  "When_i_sellect_a_word_or_phase": {
+    "message": "khi tôi chọn một từ hoặc cụm từ"
+  },
+  "Display_icon_describe": {
+    "message": "Hiển thị biểu tượng eJOY trước"
+  },
+  "display_lang": {
+    "message": "Ngôn ngữ hiển thị"
+  },
+  "Immediately_display_popup": {
+    "message": "Ngay lập tức hiển thị popup từ điển"
+  },
+  "Dont_display_icon_or_popup": {
+    "message": "Không hiển thị biểu tượng hay popup từ điển"
+  },
+  "Translation": {
+    "message": "Dịch"
+  },
+  "Definition": {
+    "message": "Định nghĩa"
+  },
+  "Slang": {
+    "message": "Từ lóng"
+  },
+  "sentence": {
+    "message": "thông dụng nhất"
+  },
+  "noun": {
+    "message": "danh từ"
+  },
+  "adjective": {
+    "message": "tính từ"
+  },
+  "pronoun": {
+    "message": "đại từ"
+  },
+  "verb": {
+    "message": "động từ"
+  },
+  "adverb": {
+    "message": "trạng từ"
+  },
+  "auxiliary_verb": {
+    "message": "trợ động từ"
+  },
+  "preposition": {
+    "message": "giới từ"
+  },
+  "conjunction": {
+    "message": "liên từ"
+  },
+  "Limited": {
+    "message": "Limited"
+  },
+  "Go_PRO_Alert": {
+    "message": "Hmm... Số từ vựng được lưu miễn phí trong tháng đã hết. Nâng cấp lên PRO để sử dụng không giới hạn mọi tính năng."
+  },
+  "Buy_pro": {
+    "message": "Nâng cấp lên PRO"
+  },
+  "Go_Login": {
+    "message": "Đăng nhập"
+  },
+  "Login_Require_Alert": {
+    "message": "Vui lòng đăng nhập để lưu từ"
+  },
+  "Login_please": {
+    "message": "Vui lòng đăng nhập!"
+  },
+  "syncing_content": {
+    "message": "Dữ liệu đang được đồng bộ, vui lòng đợi."
+  },
+  "Ooops": {
+    "message": "Úi.Tiếc quá!!!"
+  },
+  "Cant_Define_Alert": {
+    "message": "Không tìm thấy định nghĩa nào khớp."
+  },
+  "Dont_have_an_account": {
+    "message": "Bạn chưa có tài khoản ?"
+  },
+  "Signin": {
+    "message": "Đăng nhập"
+  },
+  "Signup": {
+    "message": "Đăng ký"
+  },
+  "feedback_footer_info": {
+    "message": "Một tài khoản có thể sử dụng trên các ứng dụng khác nhau của eJOY."
+  },
+  "Thanks_for_your_feedback": {
+    "message": "Cảm ơn phản hồi của bạn."
+  },
+  "We_will_reply_soon": {
+    "message": "Chúng tôi sẽ trả lời bạn sớm."
+  },
+  "Back": {
+    "message": "Quay về"
+  },
+  "About_us": {
+    "message": "Về chúng tôi"
+  },
+  "Key_shortcuts": {
+    "message": "Các phím tắt"
+  },
+  "Next_sentence": {
+    "message": "Câu tiếp theo"
+  },
+  "Prev_sentence": {
+    "message": "Câu trước"
+  },
+  "Turn_on_off_substitle": {
+    "message": "Bật/tắt phụ đề"
+  },
+  "Next": {
+    "message": "Tiếp"
+  },
+  "Prev": {
+    "message": "Trước"
+  },
+  "seconds": {
+    "message": "giây"
+  },
+  "Play_pause": {
+    "message": "Phát/ Tạm dừng"
+  },
+  "About_us_content": {
+    "message": "Bạn có hài lòng với eJOY không? Hãy động viên eJOY trên"
+  },
+  "Chrome_Web_Store": {
+    "message": "Cửa hàng Chrome nhé."
+  },
+  "Thank_you": {
+    "message": "Cảm ơn bạn"
+  },
+  "eJOY_English_for_Netflix": {
+    "message": "eJOY English trên Netflix"
+  },
+  "Setting": {
+    "message": "Cài đặt"
+  },
+  "Look_up": {
+    "message": "Tra từ"
+  },
+  "Login": {
+    "message": "Đăng nhập"
+  },
+  "Text_to_translate": {
+    "message": "Tra từ"
+  },
+  "more": {
+    "message": "nghĩa khác"
+  },
+  "Close": {
+    "message": "Đóng"
+  },
+  "Add": {
+    "message": "Lưu"
+  },
+  "Added": {
+    "message": "Đã lưu"
+  },
+  "Add_to_wordbook": {
+    "message": "Lưu vào sổ từ"
+  },
+  "Speak": {
+    "message": "Nói"
+  },
+  "You_need_LOGIN_first": {
+    "message": "Bạn cần đăng nhập trước"
+  },
+  "Error": {
+    "message": "Lỗi"
+  },
+  "Err_Not_PRO": {
+    "message": "Tài khoản của bạn là tài khoản Basic. Nâng cấp lên PRO để lưu thêm từ"
+  },
+  "Successful": {
+    "message": "Thành công"
+  },
+  "Login_Successfully": {
+    "message": "Đăng nhập thành công"
+  },
+  "unknown": {
+    "message": "N/A"
+  },
+  "Game_home": {
+    "message": "Game Center"
+  },
+  "time_left": {
+    "message": "giờ còn lại để hoàn thành mục tiêu"
+  },
+  "Daily_goal": {
+    "message": "Mục tiêu hằng ngày"
+  },
+  "days": {
+    "message": "ngày"
+  },
+  "word_added": {
+    "message": "Từ đã lưu"
+  },
+  "Type_what_you_can_hear": {
+    "message": "Điền vào chỗ trống những từ bạn nghe được"
+  },
+  "write_in_here": {
+    "message": "Trả lời ở đây"
+  },
+  "Try_again": {
+    "message": "Thử lại"
+  },
+  "Done": {
+    "message": "Hoàn thành"
+  },
+  "Show_hint": {
+    "message": "Gợi ý"
+  },
+  "word_info": {
+    "message": "thông tin về từ"
+  },
+  "Correct_anwser": {
+    "message": "Đáp án đúng"
+  },
+  "Correct_anwsers": {
+    "message": "Những câu trả lời đúng"
+  },
+  "Log_in": {
+    "message": "Đăng nhập"
+  },
+  "Sign_up": {
+    "message": "Đăng ký"
+  },
+  "login_desc": {
+    "message": "Đăng nhập để chơi game học tiếng Anh"
+  },
+  "Your_point": {
+    "message": "Điểm của bạn"
+  },
+  "revised_words": {
+    "message": "Từ đã được ôn lại"
+  },
+  "Speed": {
+    "message": "Tốc độ"
+  },
+  "Total_point": {
+    "message": "Tổng điểm"
+  },
+  "SPOILER": {
+    "message": "SPOILER"
+  },
+  "I_want_to_play_agian": {
+    "message": "Chơi game tiếp"
+  },
+  "day": {
+    "message": "ngày"
+  },
+  "streak": {
+    "message": "streak"
+  },
+  "More_words": {
+    "message": "nhiều từ cũ"
+  },
+  "I_have_reviewed": {
+    "message": ""
+  },
+  "Balance": {
+    "message": "50/50"
+  },
+  "More_priority": {
+    "message": "nhiều từ mới"
+  },
+  "new_words": {
+    "message": ""
+  },
+  "About_to_review": {
+    "message": "Sổ từ cần ôn lại"
+  },
+  "words": {
+    "message": "từ"
+  },
+  "word": {
+    "message": "từ"
+  },
+  "need_reviewing": {
+    "message": "Cần ôn lại"
+  },
+  "not_word_for_play": {
+    "message": "Không đủ từ để chơi game"
+  },
+  "Start": {
+    "message": "Bắt đầu"
+  },
+  "Change_the_word_priority": {
+    "message": "Lựa chọn từ"
+  },
+  "reviewing": {
+    "message": "trò chơi"
+  },
+  "balance": {
+    "message": "50/50"
+  },
+  "review": {
+    "message": "Đã ôn lại"
+  },
+  "difficulty": {
+    "message": "độ khó"
+  },
+  "fluency": {
+    "message": "độ thành thạo"
+  },
+  "Edit_Definition": {
+    "message": "Sửa định nghĩa"
+  },
+  "Save": {
+    "message": "Lưu"
+  },
+  "OK": {
+    "message": "OK"
+  },
+  "delete_definition": {
+    "message": "Bạn thực sự muốn xoá định nghĩa này?"
+  },
+  "delete_term": {
+    "message": "Bạn thực sự muốn xoá từ này?"
+  },
+  "reset_term": {
+    "message": "Bạn thực sự muốn khởi động lại từ này?"
+  },
+  "Wordbank": {
+    "message": "Sổ từ vựng"
+  },
+  "Word_store": {
+    "message": "Thư viện từ"
+  },
+  "guess_word": {
+    "message": "Đoán từ"
+  },
+  "Keyboard_shortcut": {
+    "message": "Phím tắt"
+  },
+  "mute": {
+    "message": "Tắt tiếng"
+  },
+  "key_shortcut": {
+    "message": "Phím tắt"
+  },
+  "Choose_option": {
+    "message": "Chọn đáp án"
+  },
+  "submit_anwsers_desc": {
+    "message": "Trả lời"
+  },
+  "replay_audio": {
+    "message": "Phát lại audio/video"
+  },
+  "show_hint": {
+    "message": "Hiển thị gợi ý (Word contructor)"
+  },
+  "navigate_through_hint": {
+    "message": "Chọn ô chữ gợi ý (Word contructor)"
+  },
+  "Title": {
+    "message": "Tên"
+  },
+  "Active_book": {
+    "message": "Sổ từ mặc định"
+  },
+  "Wordbook_Cover": {
+    "message": "Bìa sổ từ"
+  },
+  "Exclude_from_daily_review": {
+    "message": "Không ôn tập với sổ từ này"
+  },
+  "change": {
+    "message": "thay đổi"
+  },
+  "Upload": {
+    "message": "Tải lên"
+  },
+  "cancel": {
+    "message": "Huỷ bỏ"
+  },
+  "Dashboard": {
+    "message": "Trang chính"
+  },
+  "Tour_guide": {
+    "message": "Hướng dẫn sử dụng"
+  },
+  "Delete": {
+    "message": "Xoá"
+  },
+  "Welcome_to": {
+    "message": "Chào mừng bạn đến với"
+  },
+  "eJOY_Game_Center": {
+    "message": "eJOY Game Center"
+  },
+  "Play_now": {
+    "message": "Chơi ngay"
+  },
+  "to_review_today": {
+    "message": "cần ôn lại hôm nay"
+  },
+  "notify_take_tour_title": {
+    "message": "Bạn có thể xem hướng dẫn ở đây bất cứ lúc nào"
+  },
+  "I_got_it": {
+    "message": "Đã hiểu"
+  },
+  "desc_sample_in_video": {
+    "message": "Tra từ khi xem video trên"
+  },
+  "Start_tour": {
+    "message": "Xem hướng dẫn"
+  },
+  "Skip_tour": {
+    "message": "Bỏ qua hướng dẫn"
+  },
+  "Let_us_show_you_a_tour_around": {
+    "message": "Hãy cùng tìm hiểu cách sử dụng eJOY"
+  },
+  "demo_desc_step_1": {
+    "message": "Click để xem nghĩa"
+  },
+  "demo_desc_step_2": {
+    "message": "Click để lưu từ vào sổ từ."
+  },
+  "demo_desc_step_3": {
+    "message": "Click để tra từ trên YouTube."
+  },
+  "demo_desc_step_4": {
+    "message": "Click để tra từ trên Netflix."
+  },
+  "custom": {
+    "message": "Tuỳ chỉnh"
+  },
+  "demo_desc_step_5": {
+    "message": "Tuỳ chỉnh eJOY và chuyển đến Game Center"
+  },
+  "demo_desc_step_6": {
+    "message": "Game Center giúp bạn học từ mới theo ngữ cảnh. Hãy thử chơi ngay"
+  },
+  "demo_desc_step_7": {
+    "message": "Chơi ngẫu nhiên các game trong Game Center"
+  },
+  "demo_desc_step_8": {
+    "message": "Đã đến lúc học thêm các từ mới khác. Xem video hoặc vào Word Store để lưu thêm từ nhé!"
+  },
+  "How_to_add_more_words": {
+    "message": "Tìm hiểu cách thêm từ mới để chơi game ở đây"
+  },
+  "Seem_so_empty_here": {
+    "message": "Sổ từ đang trống."
+  },
+  "You_need_at_least_7_words_to_play_game": {
+    "message": "Hãy thêm từ mới vào để chơi game nhé."
+  },
+  "Today_review": {
+    "message": "Từ cần ôn lại hôm nay"
+  },
+  "To_review": {
+    "message": "Cần ôn lại"
+  },
+  "New_word": {
+    "message": "Từ mới"
+  },
+  "slogan_eJOY": {
+    "message": "English immersion with JOY"
+  },
+  "Home": {
+    "message": "Trang chủ"
+  },
+  "Play_game": {
+    "message": "Chơi game"
+  },
+  "Cant_deactive": {
+    "message": "Không thể gỡ mặc định"
+  },
+  "Wordbook_Settings": {
+    "message": "Cài đặt sổ từ"
+  },
+  "Create_Wordbook": {
+    "message": "Tạo sổ từ mới"
+  },
+  "You_must_start_with_letter": {
+    "message": "Cần bắt đầu bằng một chữ cái"
+  },
+  "Remove_special_character": {
+    "message": "Không dùng khoảng trống và các ký tự đặc biệt, ngoại trừ dấu_gạch_dưới."
+  },
+  "From_3_to_50_letter": {
+    "message": "Từ 3-50 chữ cái"
+  },
+  "Streak": {
+    "message": "Streak"
+  },
+  "Mastered": {
+    "message": "Thành thạo"
+  },
+  "Mo": {
+    "message": "T2"
+  },
+  "Tu": {
+    "message": "T3"
+  },
+  "We": {
+    "message": "T4"
+  },
+  "Th": {
+    "message": "T5"
+  },
+  "Fr": {
+    "message": "T6"
+  },
+  "Sa": {
+    "message": "T7"
+  },
+  "Su": {
+    "message": "CN"
+  },
+  "Ranking": {
+    "message": "Xếp hạng"
+  },
+  "Crop_image": {
+    "message": "Cắt ảnh"
+  },
+  "Preview": {
+    "message": "Xem trước"
+  },
+  "Crop": {
+    "message": "Cắt"
+  },
+  "Wordbook_list": {
+    "message": "Danh sách sổ từ"
+  },
+  "Next_review_in": {
+    "message": "Ôn lại sau"
+  },
+  "Not_studied_yet": {
+    "message": "Chưa học"
+  },
+  "Next_review_is_NOW": {
+    "message": "Cần học bây giờ"
+  },
+  "version": {
+    "message": "Phiên bản"
+  },
+  "In_progress": {
+    "message": "Đang học"
+  },
+  "xp": {
+    "message": "XP"
+  },
+  "no_word_to_review": {
+    "message": "Không có từ để ôn lại."
+  },
+  "no_new_word": {
+    "message": "Không có từ mới"
+  },
+  "Popular_word_note": {
+    "message": "Các từ phổ biển trong đời sống và kì thi."
+  },
+  "Goal_Setting": {
+    "message": "Đặt mục tiêu"
+  },
+  "Goal_Setting_desc": {
+    "message": "Đặt mục tiêu hàng ngày và hoàn thành mục tiêu để được thưởng streak!"
+  },
+  "Your_Time_Zone": {
+    "message": "Múi giờ"
+  },
+  "min": {
+    "message": "phút"
+  },
+  "tooltip_to_review": {
+    "message": "Từ vựng đã ôn trước đó"
+  },
+  "tooltip_new_word": {
+    "message": "Từ vựng mới, chưa ôn lần nào"
+  },
+  "tooltip_your_xp": {
+    "message": "Tổng điểm đạt được trong game này. Cách tính điểm"
+  },
+  "tooltip_revised_word_line_1": {
+    "message": "Khi bạn trả lời đúng các câu hỏi của 1 từ vựng, từ đó và điểm số sẽ hiện ở dưới đây."
+  },
+  "tooltip_revised_word_line_2": {
+    "message": "Số điểm thể hiện mức độ thành thạo từ trong game này."
+  },
+  "tooltip_active_wordbook": {
+    "message": "Chọn sổ từ"
+  },
+  "tooltip_create_wordbook": {
+    "message": "Tạo sổ từ mới"
+  },
+  "tooltip_setting_wordbook": {
+    "message": "Thiết lập sổ từ"
+  },
+  "tooltip_setting": {
+    "message": "Thay đổi cách hiển thị eJOY"
+  },
+  "tooltip_loop_up": {
+    "message": "Tra từ/ cụm từ"
+  },
+  "tooltip_game_center": {
+    "message": "Chơi game với từ vựng"
+  },
+  "Weekly_status": {
+    "message": "Trạng thái streak"
+  },
+  "I_want_to_play_with": {
+    "message": "Chơi game với"
+  },
+  "tooltip_toggle_star": {
+    "message": "Ưu tiên học từ này"
+  },
+  "tooltip_refresh_word": {
+    "message": "Học lại từ này"
+  },
+  "tooltip_exclusive_word": {
+    "message": "Không học từ này"
+  },
+  "tooltip_review": {
+    "message": "Số lần đã học từ"
+  },
+  "tooltip_difficulty": {
+    "message": "Độ khó của từ đối với bạn"
+  },
+  "tooltip_fluency": {
+    "message": "Độ thành thạo sử dụng từ của bạn"
+  },
+  "Edit": {
+    "message": "Sửa"
+  },
+  "EOF": {
+    "message": "Xoá"
+  },
+  "Helps": {
+    "message": "Giúp đỡ"
+  },
+  "Help": {
+    "message": "Giúp đỡ"
+  },
+  "Tutorial": {
+    "message": "Hướng dẫn"
+  },
+  "Rate_me_on_Chrome_Store": {
+    "message": "Đánh giá trên Chrome Store"
+  },
+  "eGo": {
+    "message": "eJOY Go"
+  },
+  "no_word": {
+    "message": "Không có từ để chơi"
+  },
+  "wordbook_is_exist": {
+    "message": "Tên này đã bị trùng"
+  },
+  "Word_link": {
+    "message": "Liên kết từ"
+  },
+  "Tools": {
+    "message": "Công cụ"
+  },
+  "Upload_image": {
+    "message": "Thay ảnh"
+  },
+  "Resize_image": {
+    "message": "Thay đổi kích thước ảnh"
+  },
+  "notify_create_wb_success": {
+    "message": "Tạo thành công sổ từ mới #{0}."
+  },
+  "Not_fair": {
+    "message": "Không chơi xấu!"
+  },
+  "Not_fair_desc": {
+    "message": "Bạn không được đổi ngày để chơi đâu."
+  },
+  "Subscription_will_renew_on": {
+    "message": "Gói PRO hiện tại sẽ gia hạn vào"
+  },
+  "ask_like_me": {
+    "message": "Bạn thích cách học từ vựng này phải không?"
+  },
+  "noti_rate_me": {
+    "message": "Tuyệt! Hãy đánh giá 5 sao để tiếp thêm năng lượng cho team eJOY phát triển tiếp các tính năng hữu ích nhé."
+  },
+  "feedback_ask": {
+    "message": "Góp ý cho eJOY để chúng mình cải thiện các tính năng nhé."
+  },
+  "Not_yet": {
+    "message": "Để sau"
+  },
+  "I_like_it": {
+    "message": "Rất thích"
+  },
+  "Ok_5_stars": {
+    "message": "Ok, 5 sao"
+  },
+  "Not_now": {
+    "message": "Để sau nhé"
+  },
+  "Submit": {
+    "message": "Góp ý"
+  },
+  "Submit_option": {
+    "message": "Gửi"
+  },
+  "I_want_to": {
+    "message": "Tôi muốn...."
+  },
+  "eJoy_extension": {
+    "message": "Cập nhật mới"
+  },
+  "diff_time": {
+    "message": "Khác biệt thời gian"
+  },
+  "diff_time_noti": {
+    "message": "OMG! Giờ trên máy tính của bạn khác với giờ ở khu vực bạn. Hãy chỉnh lại đã nhé."
+  },
+  "notify_missing_charater": {
+    "message": "Bạn vui lòng để chế độ gõ phím là tiếng Anh"
+  },
+  "you_choose": {
+    "message": "Từ bạn đã chọn"
+  },
+  "word_from": {
+    "message": "Chọn sổ từ"
+  },
+  "select_terms_to_play": {
+    "message": "Chọn từ để chơi game"
+  },
+  "max": {
+    "message": "tối đa"
+  },
+  "desc_play_game_without_word": {
+    "message": "Chưa có từ vựng nào cần ôn lại trong sổ từ này. Bạn có thể tiếp tục chơi game để rèn luyện từ nhưng bạn sẽ không được tính điểm thành thạo và điểm XP cho lượt chơi này."
+  },
+  "desc_play_game_without_word_in_home": {
+    "message": "Bạn đã học hết các từ vựng cần ôn trong ngày hôm nay. Hãy tìm thêm từ mới và lưu vào sổ từ để tiếp tục chơi game nhé."
+  },
+  "auto_pronunciation": {
+    "message": "Tự động phát âm"
+  },
+  "correct_answers": {
+    "message": "Câu trả lời đúng"
+  },
+  "rearrange_the_block": {
+    "message": "Sắp xếp lại câu"
+  },
+  "other": {
+    "message": "Cài đặt khác"
+  },
+  "Auto_open_game_centre": {
+    "message": "Tự động mở Game center"
+  },
+  "tooltip_to_auto_desc": {
+    "message": "eJOY sẽ tự động mở game center ở tab mới khi bạn khởi động trình duyệt"
+  },
+  "Ends_at": {
+    "message": "Ngày hết hạn"
+  },
+  "days_left": {
+    "message": "ngày còn lại"
+  },
+  "pro_acc": {
+    "message": "Tài khoản pro"
+  },
+  "free_added_word_per_month": {
+    "message": "từ được thêm miễn phí/tháng"
+  },
+  "Upgrade_now": {
+    "message": "Nâng cấp ngay"
+  },
+  "Extend_premium": {
+    "message": "Gia hạn"
+  },
+  "Account_setting": {
+    "message": "Cài đặt tài khoản"
+  },
+  "Synced": {
+    "message": "Đã đồng bộ"
+  },
+  "Syncing": {
+    "message": "Đang đồng bộ"
+  },
+  "Sync": {
+    "message": "Đồng bộ"
+  },
+  "done": {
+    "message": "Xong"
+  },
+  "Movie_Training": {
+    "message": "Học với phim"
+  },
+  "Sync_time": {
+    "message": "Thời gian đồng bộ"
+  },
+  "realtime": {
+    "message": "liên tục"
+  },
+  "show_definition": {
+    "message": "Hiển thị định nghĩa trước"
+  },
+  "text_desc_sync": {
+    "message": "Đồng bộ! có thể mất vài phút"
+  },
+  "When_i_active_pronun": {
+    "message": "Khi tra từ hoặc cụm từ:"
+  },
+  "Active": {
+    "message": "Bật"
+  },
+  "active_pronun_describe": {
+    "message": "Tự động phát âm từ/ cụm từ"
+  },
+  "de_active": {
+    "message": "Tắt"
+  },
+  "de_active_pronun_describe": {
+    "message": "Không phát âm từ/ cụm từ"
+  },
+  "When_show_definition": {
+    "message": "Khi tra từ hoặc cụm từ:"
+  },
+  "active_definition_describe": {
+    "message": "Hiển thị Định nghĩa đầu tiên"
+  },
+  "de_active_definition_describe": {
+    "message": "Hiển thị Dịch đầu tiên"
+  },
+  "report": {
+    "message": "Báo lỗi"
+  },
+  "success": {
+    "message": "Hoàn thành"
+  },
+  "report_success": {
+    "message": "Cảm ơn bạn đã gửi thông báo lỗi video cho eJOY"
+  },
+  "Pausing_game": {
+    "message": "Đang dừng game."
+  },
+  "Resume_game": {
+    "message": "Tiếp tục"
+  },
+  "Play_with_speaking_games": {
+    "message": "Thêm chế độ luyện nói"
+  },
+  "Speak_the_sentence": {
+    "message": "Nói cả câu"
+  },
+  "Speak_the_word": {
+    "message": "Phát âm từ mới"
+  },
+  "skip": {
+    "message": "Bỏ qua"
+  },
+  "Speak_now": {
+    "message": "Bắt đầu nói"
+  },
+  "fill_in_the_blank": {
+    "message": "Điền vào chỗ trống"
+  },
+  "tooltip_to_speaking_desc": {
+    "message": "Nói cả câu: Luyện nói và chấm điểm cả câu."
+  },
+  "tooltip_to_one_word_desc": {
+    "message": "Phát âm từ mới: Luyện nói và chấm điểm cho từ mới."
+  },
+  "Full_sentence": {
+    "message": "Nói cả câu"
+  },
+  "One_word": {
+    "message": "Phát âm từ mới"
+  },
+  "No_browser_support": {
+    "message": "Trình duyệt của bạn không tương thích."
+  },
+  "Permission_desc": {
+    "message": "Bạn vui lòng cho phép eJOY sử dụng microphone của bạn theo hướng dẫn sau."
+  },
+  "Permission_is_blocked": {
+    "message": "Không sử dụng được microphone."
+  },
+  "Please_download_the_latest_chrome": {
+    "message": "Bạn vui lòng cập nhật lên phiên bản trình duyệt mới nhất."
+  },
+  "Speaking_game": {
+    "message": "Game phát âm"
+  },
+  "tooltip_swap_word": {
+    "message": "Copy / Chuyển sang sổ từ khác"
+  },
+  "add_word": {
+    "message": "Thêm"
+  },
+  "add_wordbook_title_popup": {
+    "message": "Chọn sổ từ"
+  },
+  "holder_search": {
+    "message": "Tìm kiếm"
+  },
+  "sort_by": {
+    "message": "Lọc kết quả theo"
+  },
+  "Name": {
+    "message": "A-Z"
+  },
+  "Date_modified": {
+    "message": "Ngày chỉnh sửa"
+  },
+  "Date_created": {
+    "message": "Ngày tạo"
+  },
+  "Status": {
+    "message": "Trạng thái học từ"
+  },
+  "New_wordbook": {
+    "message": "Sổ từ mới"
+  },
+  "Word_Bank": {
+    "message": "Sổ từ vựng"
+  },
+  "translate": {
+    "message": "Dịch"
+  },
+  "inlineTranslate": {
+    "message": "Inline Translation (Alt + select)"
+  },
+  "popup": {
+    "message": "Pop-up tra từ"
+  },
+  "filter_by": {
+    "message": "Lọc theo"
+  },
+  "advTranslator": {
+    "message": "Dịch nâng cao"
+  },
+  "inlineTranslator": {
+    "message": "Dịch trong đoạn"
+  },
+  "definition": {
+    "message": "Nghĩa"
+  },
+  "slang": {
+    "message": "Nghĩa lóng"
+  },
+  "definition_setting": {
+    "message": "Ưu tiên hiển thị nghĩa"
+  },
+  "on": {
+    "message": "Bật"
+  },
+  "off": {
+    "message": "Tắt"
+  },
+  "Translation_history": {
+    "message": "Lịch sử tra từ"
+  },
+  "wordstore": {
+    "message": "Kho từ vựng"
+  },
+  "My_wordbank": {
+    "message": "Sổ từ của tôi"
+  },
+  "history": {
+    "message": "Lịch sử tra"
+  },
+  "Source_text": {
+    "message": "Văn bản gốc"
+  },
+  "google": {
+    "message": "Google"
+  },
+  "microsoft": {
+    "message": "Microsoft"
+  },
+  "tooltipTranslateSentence": {
+    "message": "Sắp xếp theo câu"
+  },
+  "link": {
+    "message": "Nguồn văn bản"
+  },
+  "delete": {
+    "message": "Xoá"
+  },
+  "Dictionary": {
+    "message": "Từ điển"
+  },
+  "Copied": {
+    "message": "Đã sao chép"
+  },
+  "ipa": {
+    "message": "IPA"
+  },
+  "tooltip_sayit": {
+    "message": "Xem các video có chứa cụm từ mà bạn đang tra cứu."
+  },
+  "tooltip_icon_plus": {
+    "message": "Tạo và lưu nghĩa theo ý hiểu của bạn"
+  },
+  "tooltip_adv_trans": {
+    "message": "Mở cửa sổ Dịch nâng cao"
+  },
+  "tooltip_play_game": {
+    "message": "Số từ cần ôn lại"
+  },
+  "tooltip_speeking": {
+    "message": "Bật/ tắt chơi game speak"
+  },
+  "tooltip_review_word": {
+    "message": "Xem danh sách từ cần ôn"
+  },
+  "tooltip_point_value": {
+    "message": "Số điểm bạn đã đạt được."
+  },
+  "tooltip_point_total": {
+    "message": "Số điểm cần đạt để lên level."
+  },
+  "tooltip_streak_icon": {
+    "message": "Số ngày liên tục hoàn thành mục tiêu"
+  },
+  "tooltip_word_icon": {
+    "message": "Số từ vựng đã lưu"
+  },
+  "tooltip_master_icon": {
+    "message": "Số từ vựng đã thành thạo"
+  },
+  "tooltip_review_word_detail": {
+    "message": "Xem các từ vựng sẽ chơi trong lượt chơi này"
+  },
+  "tooltip_priority": {
+    "message": "Chọn thứ tự ưu tiên của từ vựng khi chơi game"
+  },
+  "tooltip_word_progress_icon": {
+    "message": "Phần trăm độ thành thạo từ:"
+  },
+  "tooltip_status_text_New_word": {
+    "message": "Số lượng từ mới."
+  },
+  "tooltip_status_text_need_reviewing": {
+    "message": "Số lượng từ cần được ôn tập hôm nay."
+  },
+  "tooltip_status_text_In_progress": {
+    "message": "Số lượng từ đã ôn tập."
+  },
+  "tooltip_status_text_Mastered": {
+    "message": "số lượng từ vựng thành thạo."
+  },
+  "tooltip_status_wb1_title": {
+    "message": "Thế nào là sổ từ vựng mặc định?"
+  },
+  "tooltip_status_wb1_content": {
+    "message": "Khi bạn đặt một sổ từ là sổ từ vựng mặc định thì các từ mới bạn lưu (Add) đều được đưa vào đó."
+  },
+  "tooltip_status_wb2_title": {
+    "message": "Cách tạo một sổ từ vựng mới?"
+  },
+  "tooltip_status_wb2_content1": {
+    "message": "Tại màn hình game center, click chuột vào “Dashboard”"
+  },
+  "tooltip_status_wb2_content2": {
+    "message": "Click chuột vào New wordbook"
+  },
+  "tooltip_status_wb2_content21": {
+    "message": "để tạo mới"
+  },
+  "tooltip_status_wb3_title": {
+    "message": "Cách cài đặt một sổ từ làm sổ từ mặc định."
+  },
+  "tooltip_status_wb3_content1": {
+    "message": "Chọn sổ từ mà bạn muốn đặt làm mặc định"
+  },
+  "tooltip_status_wb3_content2": {
+    "message": "Chọn “Setting” "
+  },
+  "tooltip_status_wb3_content3": {
+    "message": "Chuyển sang chế độ ON cho phần Sổ từ vựng mặc định (Active book)"
+  },
+  "tooltip_status_wb4_title": {
+    "message": "Cách sao chép/ chuyển một từ vựng từ sổ từ vựng này sang sổ từ vựng khác."
+  },
+  "tooltip_status_wb4_content1": {
+    "message": "Click chọn từ vựng bạn cần sao chép hoặc di chuyển"
+  },
+  "tooltip_status_wb4_content2": {
+    "message": "Bấm biểu tượng"
+  },
+  "tooltip_status_wb4_content3": {
+    "message": "Chọn sổ từ bạn muốn chuyển/ sao chép tới"
+  },
+  "tooltip_status_wb5_title": {
+    "message": "Tìm kiếm từ vựng đã lưu trong sổ từ vựng."
+  },
+  "tooltip_status_wb6_title": {
+    "message": "Cách xoá một sổ từ vựng."
+  },
+  "tooltip_status_wb6_content1": {
+    "message": "Chọn sổ từ vựng mà bạn muốn xoá"
+  },
+  "tooltip_status_wb7_title": {
+    "message": "Thông tin từ vựng."
+  },
+  "tooltip_status_wb7_content1": {
+    "message": "eJOY giúp bạn tính toán và hiển thị kết quả học tập của từng từ vựng, từ đó bạn sẽ tự lập kế hoạch ưu tiên học những từ vựng khó. Có 4 thông tin khác nhau về từ:"
+  },
+  "tooltip_status_wb7_content2": {
+    "message": "Độ thành thạo: Cho biết bạn đã luyện tập từ vựng thành thục đến đâu trong phần bài tập Daily Challenge. Bạn trả lời câu hỏi chính xác và nhanh sẽ làm tăng điểm thành thạo."
+  },
+  "tooltip_status_wb7_content3": {
+    "message": "Bạn càng có nhiều câu trả lời đúng và bạn trả lời càng nhanh thì độ lưu loát càng cao."
+  },
+  "tooltip_status_wb7_content4": {
+    "message": "Độ khó: cho biết bạn học từ này khó khăn thế nào. Bạn càng trả lời sai nhiều trong bài tập Daily Challenge thì độ khó càng tăng."
+  },
+  "tooltip_status_wb7_content5": {
+    "message": "Số lần đã học từ: Số lần bạn đã ôn tập từ."
+  },
+  "tooltip_status_wb7_content6": {
+    "message": "Liên kết tywf: cho biết nguồn gốc của từ cấu thành từ những gốc nào."
+  },
+  "tooltip_status_wb8_title": {
+    "message": "Cách thay đổi nghĩa của từ."
+  },
+  "tooltip_status_wb8_content1": {
+    "message": "Bấm vào từ/cụm từ cần thay đổi nghĩa"
+  },
+  "tooltip_status_wb8_content2": {
+    "message": "Bấm “Sửa“"
+  },
+  "tooltip_status_wb8_content21": {
+    "message": "để thay đổi nghĩa của từ"
+  },
+  "tooltip_status_wb8_content3": {
+    "message": "Bấm “Xong“ để lưu nghĩa mới"
+  },
+  "howToUse": {
+    "message": "Cách sử dụng eJOY"
+  },
+  "howToUseAllFeatures": {
+    "message": "Cách sử dụng eJOY"
+  },
+  "wordbook_title_tutorial": {
+    "message": "Cách dùng Wordbook"
+  },
+  "source": {
+    "message": "Nguồn"
+  },
+  "Full_Setting": {
+    "message": "Cài đặt"
+  },
+  "General": {
+    "message": "Cài đặt chung"
+  },
+  "New": {
+    "message": "Mới"
+  },
+  "translator": {
+    "message": "Công cụ dịch"
+  },
+  "Favourit_and_Level": {
+    "message": "Chủ đề, Trình độ"
+  },
+  "Notify": {
+    "message": "Thông báo"
+  },
+  "set_language_desc": {
+    "message": "Cài đặt ngôn ngữ"
+  },
+  "language_source": {
+    "message": "Chọn ngôn ngữ gốc"
+  },
+  "language_target": {
+    "message": "Chọn ngôn ngữ dịch"
+  },
+  "color_inline": {
+    "message": "Chọn màu"
+  },
+  "Input_color": {
+    "message": "Mã màu"
+  },
+  "Set_Color": {
+    "message": "Thay đổi (dành cho PRO)"
+  },
+  "Common_setting": {
+    "message": "Cài đặt chung"
+  },
+  "Favourite_And_Level_full": {
+    "message": "Chủ đề ưa thích & Trình độ tiếng Anh"
+  },
+  "Favourite_setting": {
+    "message": "Chủ đề ưa thích"
+  },
+  "Level_setting": {
+    "message": "Trình độ tiếng Anh"
+  },
+  "Notify_setting": {
+    "message": "Cài đặt thông báo"
+  },
+  "Notify_Game": {
+    "message": "Thông báo"
+  },
+  "Auto_open_game_center": {
+    "message": "Tự động bật Game Center khi khởi động Chrome"
+  },
+  "Show_streak_notify": {
+    "message": "Nhắc lịch luyện tập"
+  },
+  "pro_title_text": {
+    "message": "Bạn vui lòng lên PRO để thực hiện chức năng này."
+  },
+  "notify_change_level_and_topic": {
+    "message": "Chủ đề và trình độ tiếng Anh đã được thay đổi"
+  },
+  "notify_change_lang": {
+    "message": "Ngôn ngữ đã được thay đổi"
+  },
+  "save_color": {
+    "message": "Màu sắc đã được thay đổi"
+  },
+  "general_successfully": {
+    "message": "Cài đặt chung đã được thay đổi"
+  },
+  "Saved_successfully": {
+    "message": "Lưu thành công"
+  },
+  "topic_and_level_desc": {
+    "message": "eJOY sẽ gợi ý bạn chơi game với các video thuộc chủ đề yêu thích của bạn và tương ứng với trình độ tiếng Anh của bạn"
+  },
+  "Phrasebook": {
+    "message": "Phrasebook"
+  },
+  "phrases": {
+    "message": "cụm từ"
+  },
+  "phrase": {
+    "message": "cụm từ"
+  },
+  "Cancel": {
+    "message": "Hủy"
+  },
+  "Clear": {
+    "message": "Xoá"
+  },
+  "HighlightAndAdd": {
+    "message": "Bôi đậm & Lưu"
+  },
+  "New_feature": {
+    "message": "Tính năng mới"
+  },
+  "desc_phrase_feature": {
+    "message": "Chọn cụm từ & lưu ngữ cảnh"
+  },
+  "max_text_to_add": {
+    "message": "Độ dài văn bản không quá"
+  },
+  "creasingly_irritated_by": {
+    "message": "creasingly irritated by"
+  },
+  "sources_who_have": {
+    "message": "sources who have"
+  },
+  "Select_text_to_highlight": {
+    "message": "Chọn văn bản để bôi đậm"
+  },
+  "How_to_add_more_phrase": {
+    "message": "Phrasebook  là sổ tay lưu trữ"
+  },
+  "Your_long_text": {
+    "message": "các cụm từ, câu văn tiếng Anh mà bạn muốn ghi nhớ."
+  },
+  "learn_more": {
+    "message": "Xem thêm"
+  },
+  "Next_word": {
+    "message": "Từ tiếp theo"
+  },
+  "Start_playing": {
+    "message": "Bắt đầu chơi"
+  },
+  "ClickImageOrPress": {
+    "message": "Bấm vào ảnh hoặc ấn"
+  },
+  "toFlip": {
+    "message": "để lật mặt sau của thẻ"
+  },
+  "space": {
+    "message": "Phím cách"
+  },
+  "Add_to": {
+    "message": "Thêm vào"
+  },
+  "ReviewWord": {
+    "message": "Từ vựng cần ôn"
+  },
+  "Would_you_like_to_review_your_words_first": {
+    "message": "Bạn muốn xem lại các từ vựng trước khi chơi game?"
+  },
+  "Go_ahead": {
+    "message": "Xem lại từ"
+  },
+  "Game_start_in": {
+    "message": "Trò chơi bắt đầu trong"
+  },
+  "404": {
+    "message": "Tài khoản này đã bị xoá"
+  },
+  "206": {
+    "message": "Đăng nhập thất bại. Bạn vui lòng đăng nhập lại."
+  },
+  "endingIn": {
+    "message": "Chỉ còn"
+  },
+  "titleOffer": {
+    "message": "Vì bạn chăm chỉ"
+  },
+  "Get_offer_now": {
+    "message": "Nhận quà ngay"
+  },
+  "titleOfferPro1": {
+    "message": "TÀI KHOẢN PRO CỦA BẠN SẼ HẾT HẠN TRONG"
+  },
+  "titleOfferProZero": {
+    "message": "Oops, Tài khoản PRO của bạn đã hết hạn..."
+  },
+  "DAYS": {
+    "message": "NGÀY"
+  },
+  "DAY": {
+    "message": "NGÀY"
+  },
+  "We_have_pro": {
+    "message": "ĐỪNG GIÁN ĐOẠN VIỆC HỌC VỚI"
+  },
+  "We_have_pro_zero": {
+    "message": "HỌC TIẾP NGAY VỚI ƯU ĐÃI"
+  },
+  "We_have": {
+    "message": "eJOY tặng riêng bạn"
+  },
+  "Access_your_deal_here": {
+    "message": "Nhận quà tại đây"
+  },
+  "a": {
+    "message": "một"
+  },
+  "GIFT": {
+    "message": "ƯU ĐÃI"
+  },
+  "for_YOU": {
+    "message": "đặc biệt"
+  },
+  "speakAll": {
+    "message": "Đọc cả câu"
+  },
+  "Go_PRO_title": {
+    "message": "Tính năng này bị giới hạn."
+  },
+  "Go_PRO": {
+    "message": "Nâng cấp tài khoản PRO"
+  },
+  "title_go_pro": {
+    "message": "để học tiếng Anh không giới hạn trên eJOY:"
+  },
+  "name_item1": {
+    "message": "Lưu từ không giới hạn"
+  },
+  "name_item2": {
+    "message": "Học không giới hạn các bài học EPIC"
+  },
+  "name_item3": {
+    "message": "Kết nối không giới hạn với các video Youtube"
+  },
+  "name_item4": {
+    "message": "Học offline với eJOY App trên điện thoại"
+  },
+  "tooltip_print_wordbook": {
+    "message": "In sổ từ"
+  },
+  "tooltip_import_wordbook": {
+    "message": "Nhập từ"
+  },
+  "Last_review_date": {
+    "message": "Ngày ôn gần nhất"
+  },
+  "Mastered_words": {
+    "message": "Từ thành thạo"
+  },
+  "Reviewed_words": {
+    "message": "Từ đã ôn"
+  },
+  "Trouble_words": {
+    "message": "Từ khó"
+  },
+  "Synnonym": {
+    "message": "Từ đồng nghĩa"
+  },
+  "Example": {
+    "message": "Ví dụ"
+  },
+  "Collocation": {
+    "message": "Kết hợp từ"
+  },
+  "n_a": {
+    "message": "Không áp dụng"
+  },
+  "extremely_rare": {
+    "message": "Cực kỳ hiếm gặp"
+  },
+  "rare": {
+    "message": "Hiếm gặp"
+  },
+  "uncommon": {
+    "message": "Ít phổ biến"
+  },
+  "common": {
+    "message": "Phổ biến"
+  },
+  "essentials": {
+    "message": "Cần thiết"
+  },
+  "Popup_Adv_Setting": {
+    "message": "Cài đặt Dịch nâng cao"
+  },
+  "notEmpty": {
+    "message": "Trường \"Định nghĩa\" không thể bỏ trống."
+  },
+  "edit_example": {
+    "message": "Sửa ví dụ"
+  },
+  "game_sound_effect": {
+    "message": "Âm thanh game"
+  },
+  "name": {
+    "message": "A-Z"
+  },
+  "mp": {
+    "message": "Độ thành thạo"
+  },
+  "dateCreated": {
+    "message": "Ngày tạo"
+  },
+  "settings": {
+    "message": "Cài đặt"
+  },
+  "eJOY_eXtension_title": {
+    "message": "eJOY eXtension"
+  },
+  "Personal_settings": {
+    "message": "Cài đặt ưa thích"
+  },
+  "Personal_settings_ai": {
+    "message": "Cài đặt cá nhân"
+  },
+  "Preferred_Target_language": {
+    "message": "Ngôn ngữ muốn học"
+  },
+  "Preferred_Native_language": {
+    "message": "Ngôn ngữ dịch sang"
+  },
+  "Preferred_speed": {
+    "message": "Tốc độ"
+  },
+  "Current_Target_language": {
+    "message": "Ngôn ngữ muốn học theo phim"
+  },
+  "Current_Native_language": {
+    "message": "Ngôn ngữ dịch sang theo phim"
+  },
+  "Subtitle": {
+    "message": "Phụ đề"
+  },
+  "Blur_subtitle": {
+    "message": "Làm mờ phụ đề"
+  },
+  "Subtitles_size": {
+    "message": "Cỡ chữ"
+  },
+  "Subtitles_type": {
+    "message": "Màu chữ"
+  },
+  "Subtitle_native": {
+    "message": "Phụ đề được dịch"
+  },
+  "Blur_subtitle_native": {
+    "message": "Làm mờ phụ đề"
+  },
+  "Subtitles_size_native": {
+    "message": "Cỡ chữ"
+  },
+  "Subtitles_type_native": {
+    "message": "Màu chữ"
+  },
+  "Show_Transliterations": {
+    "message": "Hiển thị phiên âm"
+  },
+  "Subtitles_size_text_top": {
+    "message": "Cỡ chữ"
+  },
+  "Subtitles_type_text_top": {
+    "message": "Màu chữ"
+  },
+  "Subtitles_size_text_bot": {
+    "message": "Cỡ chữ"
+  },
+  "Subtitles_type_text_bot": {
+    "message": "Màu chữ"
+  },
+  "Playback_speech": {
+    "message": "Tốc độ"
+  },
+  "normal": {
+    "message": "Bình thường"
+  },
+  "Auto_Pause": {
+    "message": "Tự động dừng"
+  },
+  "Show_subtitle_after": {
+    "message": "Hiển thị phụ đề sau: "
+  },
+  "auto_pause_hidden_sub": {
+    "message": "Phụ đề hiển thị chậm"
+  },
+  "Pause_on_Mouse_hover": {
+    "message": "Dừng phim khi chuột chạm phụ đề"
+  },
+  "On_Left_Click": {
+    "message": "Click chuột trái"
+  },
+  "On_Right_Click": {
+    "message": "Click chuột phải"
+  },
+  "Highlight_saved_words": {
+    "message": "Đánh dấu từ đã lưu"
+  },
+  "copied": {
+    "message": "Đã sao chép"
+  },
+  "native_sub": {
+    "message": "Phụ đề dịch sang"
+  },
+  "transliterate_top": {
+    "message": "Phiên âm"
+  },
+  "transliterate_bot": {
+    "message": "Dịch nhanh"
+  },
+  "subtiltes": {
+    "message": "Phụ đề"
+  },
+  "saved_items": {
+    "message": "Phụ đề ghi nhớ"
+  },
+  "shot_cut_keys": {
+    "message": "Phím tắt"
+  },
+  "Essential": {
+    "message": "Thường dùng"
+  },
+  "prev_time": {
+    "message": "Quay về câu trước"
+  },
+  "Turn_on_off_core_ui_control": {
+    "message": "Hiện/Ẩn thanh điều khiển"
+  },
+  "play_pause": {
+    "message": "Phát/dừng"
+  },
+  "next_time": {
+    "message": "Chuyển sang câu tiếp"
+  },
+  "toggle_playback_rate_favourite": {
+    "message": "Xem với tốc độ ưa thích "
+  },
+  "Turn_on_off_blur_first_sub": {
+    "message": "Bật/Tắt trạng thái mờ phụ đề trên"
+  },
+  "playback_rate_add_0_1": {
+    "message": "Tăng tốc độ thêm 0.1 lần"
+  },
+  "Turn_on_off_auto_pause": {
+    "message": "Bật/Tắt chế độ tự động dừng"
+  },
+  "Turn_on_off_blur_second_sub": {
+    "message": "Bật/Tắt trạng thái làm mờ phụ đề dưới"
+  },
+  "playback_rate_minus_0_1": {
+    "message": "Giảm tốc độ xuống 0.1 lần"
+  },
+  "Turn_on_off_site_bar_sub": {
+    "message": "Mở/ Đóng toàn bộ phụ đề"
+  },
+  "save_remove_bookmark": {
+    "message": "Lưu/Xóa câu thoại"
+  },
+  "Turn_in_out_main_sub": {
+    "message": "Phụ đề hiện trên / dưới màn hình phim"
+  },
+  "replay_sub": {
+    "message": "Lặp lại 1 câu"
+  },
+  "Show_close_bottom_sub": {
+    "message": "Phụ đề hiện trên / dưới màn hình phim"
+  },
+  "copy_sub": {
+    "message": "Copy câu phụ đề"
+  },
+  "translate_full_sub": {
+    "message": "Dịch câu phụ đề"
+  },
+  "none": {
+    "message": "Không hiển thị"
+  },
+  "romaji": {
+    "message": "Romaji"
+  },
+  "hiragana": {
+    "message": "Hiragana"
+  },
+  "target_sub": {
+    "message": "Phụ đề ngôn ngữ học"
+  },
+  "audio_extension_bar": {
+    "message": "Audio"
+  },
+  "tooltip_audio_bar_extension": {
+    "message": "Audio"
+  },
+  "Show_control_bar": {
+    "message": "Hiển thị thanh điều khiển"
+  },
+  "hide_control_bar": {
+    "message": "Ẩn thanh điều khiển"
+  },
+  "copy_icon_tooltip": {
+    "message": "Sao chép câu"
+  },
+  "save_bookmark_icon_tooltip": {
+    "message": "Đánh dấu câu"
+  },
+  "translate_icon_tooltip": {
+    "message": "Dịch câu"
+  },
+  "Preferred_Target_language_tooltip": {
+    "message": "Chọn ngôn ngữ bạn muốn học"
+  },
+  "Preferred_Native_language_tooltip": {
+    "message": "Chọn ngôn ngữ bạn muốn dịch sang, có thể là ngôn ngữ mẹ đẻ của bạn"
+  },
+  "Preferred_speed_tooltip": {
+    "message": "Chọn tốc độ ưa thích. Khi bấm phím tắt [R], tốc độ của phim sẽ chuyển sang tốc độ ưa thích. Bấm phím tắt lần nữa, tốc độ sẽ quay về tốc độ trước đó của phim. "
+  },
+  "Current_Target_language_tooltip": {
+    "message": "Đây là ngôn ngữ được chọn mặc định theo ngôn ngữ bạn muốn học. Nếu phim Netflix không có phụ đề cho ngôn ngữ bạn muốn học, bạn có thể chọn ngôn ngữ khác để học."
+  },
+  "Current_Native_language_tooltip": {
+    "message": "Đây là ngôn ngữ được chọn mặc định theo ngôn ngữ bạn muốn dịch sang. Nếu phim Netflix hỗ trợ dịch sang ngôn ngữ này, bạn sẽ nhìn thấy ở phần phụ đề dưới. Nếu không, bạn cần ấn (Alt + T) hoặc (J) để xem phụ đề dịch tự động."
+  },
+  "Subtitle_tooltip": {
+    "message": "Bât/Tắt phụ đề"
+  },
+  "Blur_subtitle_tooltip": {
+    "message": "Bật/Tắt làm mờ phụ đề. Sử dụng phím tắt W hoặc N"
+  },
+  "Subtitles_size_tooltip": {
+    "message": "Chọn cỡ chữ phù hợp"
+  },
+  "Subtitles_type_tooltip": {
+    "message": "Chọn màu chữ phù hợp"
+  },
+  "Subtitle_native_tooltip": {
+    "message": "Bật/Tắt phụ đề"
+  },
+  "Blur_subtitle_native_tooltip": {
+    "message": "Bật/Tắt làm mờ phụ đề. Sử dụng phím tắt T hoặc N"
+  },
+  "Subtitles_size_native_tooltip": {
+    "message": "Chọn cỡ chữ phù hợp"
+  },
+  "Subtitles_type_native_tooltip": {
+    "message": "Chọn màu chữ phù hợp"
+  },
+  "phonetic_tooltip": {
+    "message": "Chọn phiên âm"
+  },
+  "phonetic_font_size_tooltip": {
+    "message": "Chọn cỡ chữ phù hợp"
+  },
+  "phonetic_font_type_tooltip": {
+    "message": "Chọn màu chữ phù hợp"
+  },
+  "quick_lookUp_font_size_tooltip": {
+    "message": "Chọn cỡ chữ phù hợp cho dịch nhanh"
+  },
+  "quick_lookUp_font_type_tooltip": {
+    "message": "Chọn màu chữ phù hợp cho dịch nhanh"
+  },
+  "Other_Settings": {
+    "message": "Cài đặt khác"
+  },
+  "Playback_speech_tooltip": {
+    "message": "Chọn tốc độ xem phim"
+  },
+  "Pause_on_Mouse_hover_tooltip": {
+    "message": "Dừng phim khi chuột chạm phụ đề"
+  },
+  "Auto_Pause_tooltip": {
+    "message": "Tự động dừng phim ở cuối mỗi câu thoại. Bạn có thể cài đặt phụ đề hiển thị chậm."
+  },
+  "Show_subtitle_after_tooltip": {
+    "message": "Chọn thời gian dừng phim mà chưa hiển thị phụ đề. Sau khoảng thời gian này, phụ đề sẽ hiển thị. "
+  },
+  "auto_pause_hidden_sub_tooltip": {
+    "message": "Lựa chọn phụ đề hiển thị chậm, không hiển thị lúc xem phim, hiển thị khi phim được dừng"
+  },
+  "Preview_Sub": {
+    "message": "Xem trước"
+  },
+  "target_sub_title_tooltip": {
+    "message": "Cài đặt phụ đề trên. Ngôn ngữ cho phụ đề trên được tự động thiết lập là ngôn ngữ bạn muốn học."
+  },
+  "native_sub_title_tooltip": {
+    "message": "Cài đặt phụ đề dưới. Ngôn ngữ cho phụ đề dưới được tự động thiết lập là ngôn ngữ bạn muốn dịch sang."
+  },
+  "phonetic_title_tooltip": {
+    "message": "Cài đặt hiển thị phiên âm cho phụ đề tiếng Anh."
+  },
+  "quick_loopup_title_tooltip": {
+    "message": "Cài đặt hiển thị dịch nhanh."
+  },
+  "Auto_scroll": {
+    "message": "Tự động cuộn trang"
+  },
+  "speak": {
+    "message": "Giọng đọc"
+  },
+  "speed": {
+    "message": "Tốc độ đọc"
+  },
+  "ccPanel": {
+    "message": "Thanh hiển thị phụ đề đọc và cài đặt đánh dấu"
+  },
+  "text_read_selection_menu": {
+    "message": "Yêu cầu máy đọc"
+  },
+  "free_voice": {
+    "message": "Miễn phí"
+  },
+  "preview_voice": {
+    "message": "Nghe thử"
+  },
+  "voice_speed": {
+    "message": "Tốc độ đọc"
+  },
+  "preview_speed": {
+    "message": "Nghe thử"
+  },
+  "text_cc_panel": {
+    "message": "Thanh phụ đề đọc "
+  },
+  "text_read_bar": {
+    "message": "Hiển thị phụ đề đọc trên thanh điều khiển Audio reader"
+  },
+  "text_show_cc_above_read_bar": {
+    "message": "Hiển thị trên thanh điều khiển"
+  },
+  "text_show_cc_read_bar": {
+    "message": "Hiện thị trong thanh điều khiển"
+  },
+  "text_no_show_cc_read_bar": {
+    "message": "Không hiển thị"
+  },
+  "text_text_highlight_desc": {
+    "message": "Đánh dấu câu, từ đang được đọc"
+  },
+  "text_sentence_word": {
+    "message": "Câu và từ"
+  },
+  "text_sentence_only": {
+    "message": "Chỉ đánh dấu câu"
+  },
+  "text_word_only": {
+    "message": "Chỉ đánh dấu từ"
+  },
+  "text_none": {
+    "message": "Không đánh dấu"
+  },
+  "text_highlight_color": {
+    "message": "Màu đánh dấu"
+  },
+  "text_color_light": {
+    "message": "North Pole"
+  },
+  "text_color_dark": {
+    "message": "Capuccino"
+  },
+  "text_color_ice": {
+    "message": "Space"
+  },
+  "text_color_warm": {
+    "message": "Spring"
+  },
+  "text_dyslexia_fonts": {
+    "message": "Kiểu chữ Dyslexia"
+  },
+  "text_dyslexia_fonts_desc": {
+    "message": "Hiển thị kiểu chữ thân thiện với người học bị chứng khó đọc "
+  },
+  "text_auto_scroll_setting": {
+    "message": "Tự động cuộn trang"
+  },
+  "text_auto_scroll_setting_desc": {
+    "message": "Tự động cuộn trang khi nghe đọc"
+  },
+  "text_select_text_and_read": {
+    "message": "Chọn văn bản và click vào biểu tượng Đọc để nghe đọc"
+  },
+  "text_show_read_icon": {
+    "message": "Hiển thị biểu tượng Đọc"
+  },
+  "text_only_when_selected": {
+    "message": "chỉ khi số lượng kí tự được chọn nhiều hơn"
+  },
+  "text_10_char": {
+    "message": "10 kí tự"
+  },
+  "text_20_char": {
+    "message": "20 kí tự"
+  },
+  "text_40_char": {
+    "message": "40 kí tự"
+  },
+  "text_60_char": {
+    "message": "60 kí tự"
+  },
+  "text_80_char": {
+    "message": "80 kí tự"
+  },
+  "text_100_char": {
+    "message": "100 kí tự"
+  },
+  "text_characters": {
+    "message": "kí tự"
+  },
+  "text_read_selection_options": {
+    "message": "Các thiết lập khác"
+  },
+  "text_when_using_read_selection": {
+    "message": "Khi đọc văn bản"
+  },
+  "text_read_to_page_end": {
+    "message": "Đọc đến hết trang"
+  },
+  "text_only_read_selected": {
+    "message": "Chỉ đọc đoạn văn bản được chọn"
+  },
+  "readFromContextMenu": {
+    "message": "Đọc từ đoạn này"
+  },
+  "stopReaderTooltip": {
+    "message": "Dừng/Đọc lại"
+  },
+  "readingSpeedTooltip": {
+    "message": "Chọn tốc độ đọc"
+  },
+  "previousSentenceTooltip": {
+    "message": "Đọc lại câu trước"
+  },
+  "nextSentenceTooltip": {
+    "message": "Đọc câu tiếp theo"
+  },
+  "settingTooltip": {
+    "message": "Cài đặt"
+  },
+  "switchControlBarTooltip": {
+    "message": "Phóng to thanh điều khiển "
+  },
+  "zoomInTooltip": {
+    "message": "Thu nhỏ thanh điển khiển"
+  },
+  "text_edit_hotkey": {
+    "message": "Chỉnh sửa phím tắt dùng để kích hoạt các chức năng nghe đọc, tạm dừng, đọc câu trước, câu tiếp theo hay thay đổi các tùy chọn đọc."
+  },
+  "text_click_edit_hot_key": {
+    "message": "Bấm nút "
+  },
+  "text_edit_hot_key": {
+    "message": "‘Chỉnh sửa phím tắt’"
+  },
+  "text_shortcut_setting": {
+    "message": " để xem và thay đổi cài đặt phím tắt"
+  },
+  "hotkeys": {
+    "message": "Chỉnh sửa phím tắt"
+  },
+  "text_hotkey_menu": {
+    "message": "Phím tắt "
+  },
+  "text_hot_key_change_speaker": {
+    "message": "Phím tắt để đổi giọng đọc"
+  },
+  "text_pressing": {
+    "message": "Bấm phím tắt"
+  },
+  "text_speaker_preset": {
+    "message": "‘Speaker’"
+  },
+  "text_hot_key_cycle": {
+    "message": " để thay đổi giữa Giọng 1 và Giọng 2."
+  },
+  "text_first_choice_speaker": {
+    "message": "1. Giọng 1:"
+  },
+  "text_second_choice_speaker": {
+    "message": "2. Giọng 2:"
+  },
+  "free_voice_preset": {
+    "message": "Giọng miễn phí: "
+  },
+  "premium_voice_preset": {
+    "message": "Giọng đọc hay: "
+  },
+  "plus_voice_preset": {
+    "message": "Giọng đọc cao cấp: "
+  },
+  "text_hot_key_setting": {
+    "message": "Phím tắt"
+  },
+  "Auto_Pause_in_home": {
+    "message": "Tự dừng"
+  },
+  "Reveal_sub": {
+    "message": "Hiển thị nhanh phụ đề"
+  },
+  "Reveal_sub_bottom": {
+    "message": "Xem nhanh phụ đề dưới"
+  },
+  "Reveal_sub_top": {
+    "message": "Xem nhanh phụ đề trên"
+  },
+  "Reveal_sub_both": {
+    "message": "Xem nhanh các phụ đề"
+  },
+  "Show_part_of_speech": {
+    "message": "Từ loại"
+  },
+  "Auto_pronounce": {
+    "message": "Phát âm tự động"
+  },
+  "quick_lookUp_POS_tooltip": {
+    "message": "Hiện từ loại của từ khi chạm chuột vào từ "
+  },
+  "quick_lookUp_auto_proun_tooltip": {
+    "message": "Tự động đọc phát âm từ khi chạm chuột vào từ"
+  },
+  "Current_settings": {
+    "message": "Cài đặt cho phim đang xem"
+  },
+  "listening_title_short_cut": {
+    "message": "Nghe"
+  },
+  "select_sub_from_left": {
+    "message": "Chọn từ vựng từ bên trái"
+  },
+  "select_sub_from_right": {
+    "message": "Chọn từ vựng từ bên phải"
+  },
+  "open_trans_sub": {
+    "message": "Hiện popup tra từ"
+  },
+  "on_off_auto_pronounce": {
+    "message": "Bật/ Tắt phát âm tự động"
+  },
+  "on_off_POS": {
+    "message": "Bật/ Tắt hiện từ loại"
+  },
+  "Show_close_full_sub": {
+    "message": "Hiện/ Ẩn toàn bộ phụ đề"
+  },
+  "arow_next_10s": {
+    "message": "Nhảy tiếp 5 giây"
+  },
+  "arow_prev_10s": {
+    "message": "Tua lại 5 giây"
+  },
+  "arrow_top_up_sound": {
+    "message": "Tăng âm lượng"
+  },
+  "arrow_top_down_sound": {
+    "message": "Giảm âm lượng"
+  },
+  "full_screen": {
+    "message": "Xem toàn màn hình"
+  },
+  "hoverPopupAudioButton": {
+    "message": "Đọc từ đây"
+  },
+  "helpTooltip": {
+    "message": "Cách sử dụng Audio Reader"
+  },
+  "playPauseTooltip": {
+    "message": "Chạy/ Dừng"
+  },
+  "hide_full_sub": {
+    "message": "Ẩn toàn bộ phụ đề"
+  },
+  "show_full_sub": {
+    "message": "Hiện toàn bộ phụ đề"
+  },
+  "print_tooltip": {
+    "message": "Xuất file"
+  },
+  "save_phrase_book": {
+    "message": "Lưu vào phrasebook"
+  },
+  "title_pop_multi_lang": {
+    "message": "Không thể lưu từ này"
+  },
+  "content_pop_multi_lang": {
+    "message": "Nếu bạn muốn ngôn ngữ khác ngoài tiếng Anh hãy cài đặt tiện ích"
+  },
+  "btn_pop_multi_lang": {
+    "message": "eJOY đa ngôn ngữ"
+  },
+  "delete_bookmark": {
+    "message": "Xóa phụ đề ghi nhớ"
+  },
+  "reveal_info_tooltip": {
+    "message": "Phụ đề đang được làm mờ. Ấn phím (N) để hiển thị lại phụ đề."
+  },
+  "reset": {
+    "message": "Khởi động lại"
+  },
+  "reset_tooltip": {
+    "message": "Cài đặt lại về trạng thái thiết lập ban đầu. Những thiết lập của bạn sẽ bị xoá vĩnh viễn."
+  },
+  "text_show_read_selection": {
+    "message": "Hiển thị biểu tượng 'Read Selection'"
+  },
+  "Auto_Pause_tooltip_in_video": {
+    "message": "Tự động dừng phim ở cuối mỗi câu thoại. Bạn có thể cài đặt phụ đề hiển thị chậm."
+  },
+  "Lifetime_Learner": {
+    "message": "Thành viên học trọn đời"
+  },
+  "item1TitlePopupGoPro": {
+    "message": "Lưu từ vựng không giới hạn"
+  },
+  "item1DescPopupGoPro": {
+    "message": "Vốn từ vựng càng nhiều, giao tiếp càng trôi chảy"
+  },
+  "item2TitlePopupGoPro": {
+    "message": "Youtube Connect"
+  },
+  "item2DescPopupGoPro": {
+    "message": "Thỏa thích học tiếng Anh với video YouTube trên eJOY "
+  },
+  "item3TitlePopupGoPro": {
+    "message": "Truy cập tất cả khóa học"
+  },
+  "item3DescPopupGoPro": {
+    "message": "Không chỉ học tiếng Anh, bạn còn học kiến thức kinh doanh, kỹ năng mềm... "
+  },
+  "item4TitlePopupGoPro": {
+    "message": "Mở Khóa Tất Cả Game Pro trên App"
+  },
+  "item4DescPopupGoPro": {
+    "message": "6 game cơ bản, 5 PRO Game, game được cập nhật liên tục"
+  },
+  "item5TitlePopupGoPro": {
+    "message": "Truy cập không giới hạn eJOY Reader App"
+  },
+  "item5DescPopupGoPro": {
+    "message": "Học tiếng Anh qua tin tức. Tra và lưu từ. Đồng bộ với eJOY App."
+  },
+  "item6TitlePopupGoPro": {
+    "message": "Truy cập eJOY EPIC trên Web "
+  },
+  "item6DescPopupGoPro": {
+    "message": "'+1.200 video thực tế để luyện ngữ pháp, nghe hiểu và từ vựng."
+  },
+  "item7TitlePopupGoPro": {
+    "message": "Đa thiết bị "
+  },
+  "item7DescPopupGoPro": {
+    "message": "1 tài khoản Pro - truy cập không giới hạn trên các thiết bị"
+  },
+  "item8TitlePopupGoPro": {
+    "message": "Học Offline"
+  },
+  "item8DescPopupGoPro": {
+    "message": "Lưu video về eJOY App. Học mọi lúc, mọi nơi không cần Internet "
+  },
+  "titlePopupNotTranslate": {
+    "message": "Không đọc được trang này"
+  },
+  "descPopupNotTranslate": {
+    "message": "Vui lòng chọn Cài đặt, ở mục Không thể đọc hoặc thay đổi dữ liệu trang web, chọn Trên tất cả các trang web."
+  },
+  "CheckSetting": {
+    "message": "Mở Cài đặt"
+  },
+  "or": {
+    "message": "hoặc"
+  },
+  "feedbackBug": {
+    "message": "báo lỗi"
+  },
+  "forUs": {
+    "message": "để chúng mình kiểm tra lại."
+  },
+  "convertYoutube": {
+    "message": "Kết nối video với eJOY Go"
+  },
+  "Alphabet": {
+    "message": "A-Z"
+  },
+  "All_words": {
+    "message": "Tất cả từ vựng"
+  },
+  "start_recording": {
+    "message": "Bắt đầu thu âm (Speak)"
+  },
+  "stop_recording": {
+    "message": "Ngừng thu âm (Speak)"
+  },
+  "next_speak": {
+    "message": "Câu tiếp (Speak)"
+  },
+  "skip_speak": {
+    "message": "Bỏ qua (Speak)"
+  },
+  "item1TitlePopupGoProNew": {
+    "message": "<span style=\"color: #FF7700;\">Nâng cấp lên PRO để</span><br> Lưu Từ Vựng Không Giới Hạn"
+  },
+  "item1DescPopupGoProNew": {
+    "message": "1 tài khoản Pro - lưu từ , cụm từ không giới hạn trên Netflix, YouTube, blog... với eJOY eXtension, eJOY App và eJOY Reader"
+  },
+  "item2TitlePopupGoProNew": {
+    "message": "Kết Nối Video YouTube Không Giới Hạn"
+  },
+  "item2DescPopupGoProNew": {
+    "message": "Thỏa thích học tiếng Anh với video YouTube trên eJOY"
+  },
+  "item3TitlePopupGoProNew": {
+    "message": "Truy Cập Tất Cả Các Khóa Học"
+  },
+  "item3DescPopupGoProNew": {
+    "message": "Không chỉ tiếng Anh, bạn còn học kiến thức kinh doanh, kỹ năng mềm..."
+  },
+  "item4TitlePopupGoProNew": {
+    "message": "Truy Cập eJOY EPIC trên Web"
+  },
+  "item4DescPopupGoProNew": {
+    "message": "+1.200 video thực tế để luyện ngữ pháp, luyện nghe hiểu, từ vựng"
+  },
+  "item5TitlePopupGoProNew": {
+    "message": "Mở Khóa Tất Cả Video Trên App"
+  },
+  "item5DescPopupGoProNew": {
+    "message": "Lộ trình 7 bước học qua video. Nâng trình Nghe - Nói - Từ vựng."
+  },
+  "item6TitlePopupGoProNew": {
+    "message": "Mở Khóa Tất Cả Game Pro Trên App"
+  },
+  "item6DescPopupGoProNew": {
+    "message": "6 game cơ bản, 5 PRO Game"
+  },
+  "item7TitlePopupGoProNew": {
+    "message": "Học Tiếng Anh Qua Tin Tức Trên eJOY Reader"
+  },
+  "item7DescPopupGoProNew": {
+    "message": "Tra và lưu từ vựng khi đọc báo. Đồng bộ dữ liệu từ vựng với eJOY để ôn tập"
+  },
+  "item8TitlePopupGoProNew": {
+    "message": "Học Trên Mọi Thiết Bị"
+  },
+  "item8DescPopupGoProNew": {
+    "message": "1 tài khoản Pro - Truy cập không giới hạn 5 nền tảng của eJOY. Học mọi lúc, mọi nơi trên mọi thiết bị"
+  },
+  "Speaker": {
+    "message": "Game nói"
+  },
+  "All": {
+    "message": "Tất cả các sổ"
+  },
+  "activeBook": {
+    "message": "Sổ từ mặc định"
+  },
+  "On": {
+    "message": "Bật"
+  },
+  "Off": {
+    "message": "Tắt"
+  },
+  "on_board_title": {
+    "message": "Cài Đặt Ban Đầu"
+  },
+  "on_board_desc": {
+    "message": "Cài đặt ban đầu giúp eJOY hoạt động theo đúng cách bạn muốn. Bạn có thể thay đổi những cài đặt này trong mục Settings/ Cài đặt hoặc khi bấm chuột phải."
+  },
+  "on_board_Display_settings": {
+    "message": "Cài đặt hiển thị"
+  },
+  "on_board_Popup_display_mode": {
+    "message": "Chế độ hiển thị pop-up"
+  },
+  "on_board_Popup_display_mode_desc": {
+    "message": "Bạn muốn eJOY mở cửa sổ tra từ như thế nào? Mở ngay lập tức hay hiển thị biểu tượng?"
+  },
+  "on_board_Popup_size": {
+    "message": "Kích cỡ pop-up"
+  },
+  "on_board_Popup_size_desc": {
+    "message": "Lựa chọn kích cỡ cửa sổ tra từ eJOY"
+  },
+  "on_board_Language_pair": {
+    "message": "Cặp ngôn ngữ"
+  },
+  "on_board_Language_pair_desc": {
+    "message": "Chọn tiếng Anh là ngôn ngữ gốc của văn bản, tiếng Việt là ngôn ngữ đích bạn muốn dịch sang."
+  },
+  "on_board_Source_Language": {
+    "message": "Ngôn ngữ gốc"
+  },
+  "on_board_Target_Language": {
+    "message": "Ngôn ngữ đích"
+  },
+  "on_board_default_ext_title": {
+    "message": "Cài đặt tiện ích tra từ mặc định"
+  },
+  "on_board_default_ext_title_desc": {
+    "message": "Khi bạn cài cả 2 tiện ích  eJOY và GlotDojo, bạn sẽ cần lựa chọn 1 tiện ích làm mặc định. Điều này sẽ tránh được những mâu thuẫn không đáng có xảy ra khi sử dụng 2 tiện ích."
+  },
+  "on_board_default_ext_video": {
+    "message": "Tiện ích được sử dụng khi tra trên video"
+  },
+  "on_board_default_ext_web": {
+    "message": "Tiện ích mặc định khi tra trên văn bản"
+  },
+  "glot": {
+    "message": "GlotDojo"
+  },
+  "ejoy": {
+    "message": "eJOY English"
+  },
+  "glotejoy": {
+    "message": "eJOY English & GlotDojo"
+  },
+  "glotDesc": {
+    "message": "là tiện ích tra từ đa ngôn ngữ, được lập trình bởi eJOY Learning. GlotDojo được tối ưu cho các bạn học đa ngôn ngữ, đặc biệt là học tiếng Trung hoặc tiếng Nhật."
+  },
+  "ejoyDesc": {
+    "message": "là tiện ích tra từ tiếng Anh, được lập trình bởi eJOY Learning. eJOY English được tối ưu cho các bạn học tiếng Anh."
+  },
+  "Back_to_welcome_page": {
+    "message": "Quay lại Welcome"
+  },
+  "Saved": {
+    "message": "Đã Lưu"
+  },
+  "small": {
+    "message": "Nhỏ"
+  },
+  "medium": {
+    "message": "Vừa"
+  },
+  "large": {
+    "message": "Lớn"
+  },
+  "translationToolTip": {
+    "message": "Bạn có thể viết giải thích hoặc ghi chú ngữ pháp ở phần này."
+  },
+  "countToolTip": {
+    "message": "Số ký tự của văn bản"
+  },
+  "titlePopupGoogleBlock": {
+    "message": "Ôi! Có lỗi xảy ra"
+  },
+  "descPopupGoogleBlock": {
+    "message": "Để tiếp tục tra từ bằng Google translation API, Google yêu cầu xác thực bạn là người, không phải là robot. Bạn vui lòng bấm nút để đến trang xác thực của Google."
+  },
+  "Go_to_Google_verification": {
+    "message": "Đến trang xác thực Google"
+  },
+  "ReviewPhrase": {
+    "message": "Câu/ cụm từ chuẩn bị ôn"
+  },
+  "Next_phrase": {
+    "message": "Câu tiếp"
+  },
+  "Would_you_like_to_review_your_phrases_first": {
+    "message": "Bạn có muốn xem lại các câu/ cụm từ trước khi chơi game?"
+  },
+  "Explanations": {
+    "message": "Giải thích"
+  },
+  "hide": {
+    "message": "Ẩn"
+  },
+  "placeholderCreateWb": {
+    "message": "Đặt tên sổ"
+  },
+  "Set_to_activebook": {
+    "message": "Đặt làm sổ mặc định"
+  },
+  "Create": {
+    "message": "Tạo mới"
+  },
+  "save_to": {
+    "message": "Lưu vào"
+  },
+  "customSubtitles": {
+    "message": "Tải phụ đề lên"
+  },
+  "subtitleLookup": {
+    "message": "Tích hợp trang video"
+  },
+  "defaultExt": {
+    "message": "Tiện ích Mặc định"
+  },
+  "Actions": {
+    "message": "Tác vụ"
+  },
+  "Function_Level": {
+    "message": "Mức hỗ trợ"
+  },
+  "tooltipEnableVideoLookup": {
+    "message": "Cho phép tra phụ đề trên trang"
+  },
+  "tooltipPopupPosition": {
+    "message": "Vị trí của pop-up khi tra từ"
+  },
+  "tooltipPhraseLookup": {
+    "message": "Cho phép nhận diện và tra theo cụm từ/từ ghép."
+  },
+  "tooltipFunctionLevel": {
+    "message": "Mức độ hỗ trợ các tính năng trên trang"
+  },
+  "tooltipActions": {
+    "message": "Chỉnh sửa hoặc xóa"
+  },
+  "targetSub": {
+    "message": "Dịch phụ đề"
+  },
+  "videoLookup": {
+    "message": "Tích hợp video site"
+  },
+  "elemClass": {
+    "message": "Element Class"
+  },
+  "Phrase_lookup": {
+    "message": "Tra theo cụm từ"
+  },
+  "popup_position": {
+    "message": "Vị trí pop-up"
+  },
+  "url": {
+    "message": "URL"
+  },
+  "left": {
+    "message": "Trái"
+  },
+  "top": {
+    "message": "Trên"
+  },
+  "domain": {
+    "message": "Tên miền"
+  },
+  "tooltipDomain": {
+    "message": "Trang bạn muốn tra phụ đề"
+  },
+  "statusPresetTooltip": {
+    "message": "Chọn 1 Thiết Lập làm Thiết Lập mặc định."
+  },
+  "orderPresetTooltip": {
+    "message": "Thứ tự các Thiết lập"
+  },
+  "actionPresetTooltip": {
+    "message": "Sửa, tạo bản sao hoặc xóa Thiết lập"
+  },
+  "subtitles": {
+    "message": "Phụ đề"
+  },
+  "enable": {
+    "message": "Bật"
+  },
+  "elemClassTooltip": {
+    "message": "Xem video hướng dẫn ở dưới để biết cách tìm thông tin Element Class."
+  },
+  "EDIT_QUICK_LOOKUP": {
+    "message": "Chỉnh sửa trang video "
+  },
+  "ADD_NEW_QUICK_LOOKUP": {
+    "message": "Tích hợp trang video mới"
+  },
+  "updateText": {
+    "message": "Cập nhật"
+  },
+  "Delete_confirm": {
+    "message": "Xác nhận Gỡ bỏ"
+  },
+  "Delete_desc": {
+    "message": "Bạn có chắc bạn muốn gỡ bỏ tích hợp vào trang web này?"
+  },
+  "yes": {
+    "message": "Gỡ bỏ"
+  },
+  "Function_Settings": {
+    "message": "Tính năng thường dùng"
+  },
+  "Extra_functions": {
+    "message": "Tính năng bổ sung"
+  },
+  "Pause_on_hover": {
+    "message": "Dừng khi trỏ chuột"
+  },
+  "Saved_subtitles": {
+    "message": "Phụ Đề Yêu Thích"
+  },
+  "NativeSub": {
+    "message": "Phụ đề gốc"
+  },
+  "Scan_with_Middle_mouse": {
+    "message": "Quét nghĩa với chuột giữa"
+  },
+  "Scan_with_hotkey": {
+    "message": "Quét với phím tắt"
+  },
+  "showProgressBar": {
+    "message": "Hiện tiến độ"
+  },
+  "translationLanguage": {
+    "message": "Dịch sang"
+  },
+  "learningService": {
+    "message": "Dịch vụ học"
+  },
+  "subtitlesSize": {
+    "message": "Kích cỡ phụ đề"
+  },
+  "subtitlesDelay": {
+    "message": "Đẩy nhanh/chậm phụ đề"
+  },
+  "showSubsBackground": {
+    "message": "Màu nền phụ đề"
+  },
+  "selectFile": {
+    "message": "Chọn file"
+  },
+  "customSubtitlesLoaded": {
+    "message": "🦄 Đã tải lên xong phụ đề"
+  },
+  "speedToolTipId": {
+    "message": "Thay đổi tốc độ nói của video"
+  },
+  "show_progress_bar_tooltip": {
+    "message": "Hiện thanh thời lượng phụ đề"
+  },
+  "auto_Pause_Play_tooltip": {
+    "message": "Video tự động chạy trở lại sau khi ngừng, không cần bấm phím cách."
+  },
+  "play_subtitle_after_tooltip": {
+    "message": "Khoảng thời gian từ lúc ngưng đến lúc video chạy tiếp"
+  },
+  "auto_hidden_sub_tooltip": {
+    "message": "Kéo dài thời gian hiện phụ đề tới khi câu tiếp theo xuất hiện."
+  },
+  "Subtitle_Settings": {
+    "message": "Cài đặt phụ đề"
+  },
+  "alwayOnDisplay": {
+    "message": "Dịch tự động"
+  },
+  "alway_on_display_tooltip": {
+    "message": "Bật/tắt phụ đề dịch tự động bằng Google từ Phụ đề gốc."
+  },
+  "Scan_with_hotkeyTooltip": {
+    "message": "Vừa nhấn giữ phím tắt vừa trỏ chuột vào từng từ để quét nghĩa từ."
+  },
+  "popupAdvDisplayMode": {
+    "message": "Hiển thị dịch văn bản "
+  },
+  "popupAdvDisplayModeTooltip": {
+    "message": "Chọn chế độ hiển thị dịch văn bản"
+  },
+  "auto_hide_sub": {
+    "message": "Thay đổi thời lượng hiện phụ đề"
+  },
+  "auto_pause_play": {
+    "message": "Xem tiếp sau khi dừng"
+  },
+  "play_subtitle_after": {
+    "message": "Xem tiếp sau"
+  },
+  "printSubtitles": {
+    "message": "In phụ đề"
+  },
+  "resyncSubsTooltip": {
+    "message": "Đẩy nhanh/làm chậm lại phụ đề."
+  },
+  "customSubtitlesTooltip": {
+    "message": "Tải lên phụ đề của bạn"
+  },
+  "shortKeyTooltip": {
+    "message": "Danh sách phím tắt"
+  },
+  "printTooltip": {
+    "message": "In phụ đề"
+  },
+  "saveSubtitlesTooltip": {
+    "message": "Xem các câu phụ đề đã lưu"
+  },
+  "Show_Transliterations_video": {
+    "message": "Hiện phiên âm"
+  },
+  "Current_Native_language_tooltip_video": {
+    "message": "Ngôn ngữ gốc hiện tại"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "Current_Target_language_tooltip_video": {
+    "message": "Ngôn ngữ dịch hiện tại"
+  },
+  "transliterate_bot_video": {
+    "message": "Dịch nhanh"
+  },
+  "transliterate_top_video": {
+    "message": "Phiên âm"
+  },
+  "target_sub_video": {
+    "message": "Phụ đề trên"
+  },
+  "native_sub_video": {
+    "message": "Phụ đề dưới"
+  },
+  "Select_subtitle": {
+    "message": "Chọn phụ đề"
+  },
+  "note_desc": {
+    "message": "Chú ý: Sau khi thay đổi tiện ích mặc định, bạn cần F5 trang web đang dùng để cài đặt có hiệu lực."
+  },
+  "title_error_next_game": {
+    "message": "Không thể đọc video"
+  },
+  "Essentials_title_shortcut": {
+    "message": "Thường dùng"
+  },
+  "Subtitles_title_shortcut": {
+    "message": "Phụ đề"
+  },
+  "read_subtitle_sentence": {
+    "message": "Đọc câu phụ đề"
+  },
+  "AboutUs": {
+    "message": "Về chúng tôi"
+  },
+  "title_skip_video": {
+    "message": "Bỏ qua video"
+  },
+  "desc_skip_video": {
+    "message": "Bạn có muốn bỏ qua video này?"
+  },
+  "SubmitVideoSupport": {
+    "message": "Thêm"
+  },
+  "ejoySetting": {
+    "message": "Cài đặt"
+  },
+  "enableEjoyInContent": {
+    "message": "Bật/ Tắt eJOY trên trang này"
+  },
+  "Kind_of_pronunciation_first": {
+    "message": "Ưu tiên giọng phát âm trước"
+  },
+  "printing_button_desc": {
+    "message": "Hiện nút \"In\" trong chế độ đọc"
+  },
+  "mail_button_desc": {
+    "message": "Hiện nút \"Gửi email\" trong chế độ đọc"
+  },
+  "save_button_desc": {
+    "message": "Hiện nút \"Lưu\" trong chế độ đọc"
+  },
+  "fullscreen_button_desc": {
+    "message": "Hiện nút \"Toàn màn hình\" trong chế độ đọc"
+  },
+  "speech_button_desc": {
+    "message": "Hiện nút \"Đọc văn bản\" trong chế độ đọc"
+  },
+  "toggle_button_desc": {
+    "message": "Hiện nút \"Ẩn/hiện hình ảnh\" trong chế độ đọc"
+  },
+  "toggle_design_button_desc": {
+    "message": "Hiện nút \"Sửa văn bản\" trong chế độ đọc"
+  },
+  "Interface_Shortcuts": {
+    "message": "Phím tắt"
+  },
+  "Print_Action": {
+    "message": "In"
+  },
+  "Save_Action": {
+    "message": "Lưu"
+  },
+  "Email_Action": {
+    "message": "Gửi email"
+  },
+  "Fullscreen_Action": {
+    "message": "Toàn màn hình"
+  },
+  "Design_Mode_Action": {
+    "message": "Sửa văn bản"
+  },
+  "Speech_Action": {
+    "message": "Đọc văn bản"
+  },
+  "Previous_Action": {
+    "message": "Đọc đoạn trước"
+  },
+  "Next_Action": {
+    "message": "Đọc đoạn tiếp"
+  },
+  "Play_Pause_Action": {
+    "message": "Tiếp tục/Dừng đọc"
+  },
+  "Images_Action": {
+    "message": "Ẩn/Hiện hình ảnh"
+  },
+  "Previous_Page": {
+    "message": "Kéo lên"
+  },
+  "Next_Page": {
+    "message": "Kéo xuống"
+  },
+  "Link_Opening": {
+    "message": "Mở link"
+  },
+  "Link_Opening_desc": {
+    "message": "Cho phép mở link trong chế độ Đọc"
+  },
+  "delay_paragraphs": {
+    "message": "Dừng giữa các đoạn (tính bằng phần nghìn giây)"
+  },
+  "desc_error_next_game": {
+    "message": "Có lỗi xảy ra với video. Bạn vui lòng bấm nút chuyển tiếp sang câu tiếp."
+  },
+  "show_full_sub_hover_tooltip": {
+    "message": "Hiển thị toàn bộ phụ đề bên phải màn hình"
+  },
+  "settings_more": {
+    "message": "Cài đặt nâng cao"
+  },
+  "ImageGoogle": {
+    "message": "Ảnh từ Google"
+  },
+  "ImgGIF": {
+    "message": "Ảnh từ GIPHY"
+  },
+  "Choosed": {
+    "message": "Đã chọn"
+  },
+  "select_img_url": {
+    "message": "Chọn từ URL"
+  },
+  "select_img_gg": {
+    "message": "Chọn từ Google"
+  },
+  "select_img_giphy": {
+    "message": "Chọn từ GIPHY"
+  },
+  "select_img_pc": {
+    "message": "Tải lên từ máy tính"
+  },
+  "change_image": {
+    "message": "Đổi hình ảnh"
+  },
+  "Paste_URL_in_here": {
+    "message": "Dán URL vào đây"
+  },
+  "Insert": {
+    "message": "Chèn"
+  },
+  "Click_in_here": {
+    "message": "Bấm vào đây"
+  },
+  "today": {
+    "message": "Hôm nay"
+  },
+  "yesterday": {
+    "message": "Hôm qua"
+  },
+  "this_week": {
+    "message": "Tuần này"
+  },
+  "Word_progress": {
+    "message": "Độ thành thạo từ"
+  },
+  "Organize_wordbook": {
+    "message": "Sắp xếp sổ từ"
+  },
+  "Select_All": {
+    "message": "Chọn tất cả"
+  },
+  "UnSelect_All": {
+    "message": "Bỏ chọn tất cả"
+  },
+  "moveAll": {
+    "message": "Chép/ Chuyển sang sổ từ khác"
+  },
+  "support_extension_bar": {
+    "message": "Hỗ trợ"
+  },
+  "tooltip_support_bar_extension": {
+    "message": "Hỗ trợ"
+  },
+  "eJOY_English": {
+    "message": "eJOY English"
+  },
+  "Rate_extension": {
+    "message": "Đánh giá eJOY"
+  },
+  "Rate_extension_desc": {
+    "message": "Hãy giúp chúng tôi sáng tạo thêm nhiều tính năng hữu ích cho bạn! Bình chọn cho Glot"
+  },
+  "Rate_5_stars": {
+    "message": "Đánh giá 5 sao cho eJOY"
+  },
+  "Community": {
+    "message": "Cộng đồng"
+  },
+  "FAQ": {
+    "message": "FAQ"
+  },
+  "Feedback_bug": {
+    "message": "Báo cáo lỗi"
+  },
+  "Chat_with_us": {
+    "message": "Chat với chúng tôi"
+  },
+  "desc_about_us": {
+    "message": "eJOY extension là một sản phẩm trong hệ sinh thái ứng dụng học tiếng Anh do eJOY Learning phát triển. Là một công ty khởi nghiệp của những người đam mê ngoại ngữ và sáng tạo, chúng tôi luôn cố gắng hết mình để tạo ra các sản phẩm giúp việc học tiếng Anh trở nên thú vị. Có hơn 100,000 người  người đang sử dụng eJOY extension để tự cải thiện kĩ năng tiếng Anh khi xem phim, đọc báo mỗi ngày."
+  },
+  "cancelMove": {
+    "message": "Thoát"
+  },
+  "on_off": {
+    "message": "Bật/Tắt"
+  },
+  "label_target_sub": {
+    "message": "Bật phụ đề <b>trên</b>"
+  },
+  "label_native_sub": {
+    "message": "Bật phụ đề <b>dưới</b>"
+  },
+  "label_translation_sub": {
+    "message": "Bật phụ đề dịch tự động"
+  },
+  "setting_full": {
+    "message": "Cài đặt đầy đủ"
+  },
+  "openSaveSubtitlesTooltip": {
+    "message": "Hiện phụ đề"
+  },
+  "Added_Successful": {
+    "message": "Đã thêm thành công"
+  },
+  "Updated_Successful": {
+    "message": "Cập nhật thành công"
+  },
+  "Go_Pro_2": {
+    "message": "Nâng cấp để mở khóa tính năng PRO"
+  },
+  "Go_Pro_gift": {
+    "message": "Dành Riêng Cho Bạn - GIẢM 50%"
+  },
+  "login_title_1": {
+    "message": "Chào mừng đến Game Center!"
+  },
+  "login_title_2": {
+    "message": "Đăng nhập lại để ôn từ vựng"
+  },
+  "login_title_has_login": {
+    "message": "Tạo tài khoản để mở khóa tính năng"
+  },
+  "login_desc_has_login_1": {
+    "message": "Thêm từ này vào Sổ từ"
+  },
+  "login_desc_has_login_2": {
+    "message": "Ôn tập từ với trò chơi"
+  },
+  "login_popup_title": {
+    "message": "Tạo tài khoản để thêm từ này"
+  },
+  "login_popup_has_login_title": {
+    "message": "Có vẻ như bạn đã đăng xuất rồi!"
+  },
+  "login_popup_desc_1": {
+    "message": "Ôn tập các từ đã thêm với trò chơi!"
+  },
+  "login_popup_desc_2": {
+    "message": "Đồng bộ dữ liệu từ"
+  },
+  "login_popup_has_login_desc": {
+    "message": "Để lưu từ này, hãy đăng nhập lại."
+  },
+  "Already_have_an_account": {
+    "message": "Đã có tài khoản?"
+  },
+  "Sign_back_in": {
+    "message": "Đăng nhập lại"
+  },
+  "And_more": {
+    "message": "Thêm nữa"
+  },
+  "reader_print_title_desc": {
+    "message": "In trong chế độ Đọc"
+  },
+  "reader_email_title_desc": {
+    "message": "Nội dung email"
+  },
+  "reader_save_title_desc": {
+    "message": "Lưu dưới dạng HTML"
+  },
+  "reader_fullscreen_title_desc": {
+    "message": "Chuyển sang dạng đọc toàn màn hình"
+  },
+  "reader_toggle_title_desc": {
+    "message": "Chế độ Văn bản"
+  },
+  "reader_toggle_title_desc_1": {
+    "message": "Khi sử dụng chế độ này, bạn có thể sửa hoặc xóa trên văn bản như trong Microsoft Word."
+  },
+  "reader_toggle_title_desc_2": {
+    "message": "Bật/tắt tính năng In đậm."
+  },
+  "reader_toggle_title_desc_3": {
+    "message": "Bật/tắt tính năng In nghiêng."
+  },
+  "reader_toggle_title_desc_4": {
+    "message": "Bật/tắt tính năng Gạch dưới."
+  },
+  "reader_article_title_desc": {
+    "message": "Đọc văn bản này"
+  },
+  "reader_article_title_desc_1": {
+    "message": "Để đọc từ một đoạn nhất định, nhấn chuột vào đầu đoạn đó và bấm nút này. "
+  },
+  "reader_image_title_desc": {
+    "message": "Hiện hình ảnh"
+  },
+  "reader_highlight_title_desc": {
+    "message": "Làm trước "
+  },
+  "reader_User_Action": {
+    "message": "Hành động"
+  },
+  "reader_close": {
+    "message": "Đóng chế độ Đọc"
+  },
+  "reader_open_settings": {
+    "message": "Mở cài đặt chế độ Đọc"
+  },
+  "reader_Type_controls": {
+    "message": "Cài đặt chữ"
+  },
+  "reader_btn_plus_minus_controls": {
+    "message": "Nút +/- chỉ áp dụng với ảnh rộng trên 32px. Tải lại trang để áp dụng."
+  },
+  "reader_btn_prev_controls": {
+    "message": "về trang trước"
+  },
+  "reader_btn_next_controls": {
+    "message": "sang trang tiếp theo"
+  },
+  "hidden_desc_show_action": {
+    "message": "Không thể sửa hay xóa các trang web được tích hợp sẵn."
+  },
+  "How_to_add_new_site_glot": {
+    "message": "Cách tích hợp một trang video mới"
+  },
+  "How_to_add_new_site_desc": {
+    "message": "Sử dụng phím tắt \"<\" , \">\" để tra từ với pop-up trên trang bạn tích hợp thủ công"
+  },
+  "How_to_add_new_class": {
+    "message": "Cách lấy Element class"
+  },
+  "hiddenDisplayAP": {
+    "message": "Hiển thị \"Tạm dừng\" trên màn hình"
+  },
+  "tooltipAlwayOnDisplay": {
+    "message": "Phụ đề trên video tại trang này sẽ được dịch tự động"
+  },
+  "domain_placeholder": {
+    "message": "Nhập tên miền"
+  },
+  "class_placeholder": {
+    "message": "Dán element class vào đây"
+  },
+  "banner_ejoy_title": {
+    "message": "Quét mã QR code để tải ngay"
+  },
+  "banner_ejoy_desc": {
+    "message": "Tải ứng dụng eJOY để đồng bộ và học từ mới mọi lúc, mọi nơi"
+  },
+  "banner_ejoy_btn": {
+    "message": "Tìm hiểu thêm về eJOY App"
+  },
+  "banner_ejoy_account_desc": {
+    "message": "Quét mã QR để tải ứng dụng eJOY và tiếp tục học trên diện thoại"
+  },
+  "banner_ejoy_account_btn": {
+    "message": "Xem thêm về ứng dụng eJOY"
+  },
+  "banner_support_desc": {
+    "message": "Tải ứng dụng eJOY để đồng bộ & ôn từ mọi lúc, mọi nơi"
+  },
+  "banner_support_btn": {
+    "message": "Xem thêm về eJOY English App"
+  },
+  "banner_gamecenter_desc": {
+    "message": "Quét mã QR để cài đặt ứng dụng eJOY và ôn tập mọi lúc, mọi nơi"
+  },
+  "banner_gamecenter_btn": {
+    "message": "Xem thêm về ứng dụng eJOY"
+  },
+  "Disable_websites": {
+    "message": "Các trang web vô hiệu"
+  },
+  "Disable_websites_desc": {
+    "message": "Bạn đã vô hiệu tiện ích eJOY trên những website này"
+  },
+  "Main_subtitles": {
+    "message": "Phụ đề chính"
+  },
+  "Auto_subtitle": {
+    "message": "Phụ đề dịch tự động"
+  },
+  "exam_Auto_subtitle": {
+    "message": "Đây là phụ đề dịch tự động"
+  },
+  "exam_main_subtitle": {
+    "message": "Đây là phụ đề chính"
+  },
+  "Apply_now": {
+    "message": "Áp dụng"
+  },
+  "Apply_now_all_desc": {
+    "message": "Áp dụng định dạng này lên tất cả các trang web tích hợp thủ công"
+  },
+  "Updated_all_style_Successful": {
+    "message": "Đã cập nhật tất cả thành công"
+  },
+  "FORMAT_SUB": {
+    "message": "HIỂN THỊ PHỤ ĐỀ"
+  },
+  "local_pdf_title":{
+    "message": "Bạn đang xem file trong máy tính"
+  },
+  "local_pdf_description":{
+    "message": "Chỉ các file PDF online mới tương thích với tính năng dịch PDF của eJOY. Để dịch được file trong máy tính của bạn, hãy tải file này lên trang PDF Translator của eJOY."
+  },
+  "go_to_pdf_translator":{
+    "message": "Mở trang Dịch PDF"
+  },
+  "goToPDF": {
+    "message": "Dịch PDF"
+  },
+  "pdf_translator":{
+    "message": "Dịch PDF"
+  },
+  "eJOY_in": {
+    "message": "eJOY trên"
+  },
+  "Daily_challenge_setting": {
+    "message": "Cài đặt Daily Challenge"
+  },
+  "Word_priority": {
+    "message": "Ưu tiên từ vựng"
+  },
+  "text_text_highlight": {
+    "message": "Đánh dấu văn bản"
+  },
+  "delete_wordbook": {
+    "message": "Bạn có chắc chắn xóa sổ từ này?"
+  },
+  "eJOY_not_supported_website": {
+    "message": "eJOY không được hỗ trợ trên trang này"
+  },
+  "all": {
+    "message": "Tất cả"
+  },
+  "Choose_wordbook_to_revise": {
+    "message": "Chọn sổ từ để ôn lại"
+  },
+  "show_phonetic": {
+    "message": "Phiên âm"
+  },
+  "Word_family": {
+    "message": "Họ từ"
+  },
+  "disable": {
+    "message": "Tắt"
+  },
+  "ReaderView": {
+    "message": "Reader"
+  },
+  "Initial_settings": {
+    "message": "Cài đặt ban đầu"
+  },
+  "Auto_Paused_notify": {
+    "message": "Tạm dừng"
+  },
+  "Auto_Paused_notify_desc": {
+    "message": "Nhấn PHÍM CÁCH để xem tiếp hoặc Alt + Shift + P để tắt chế độ Tạm dừng"
+  },
+  "inline_pdf_title": {
+    "message": "Bạn muốn dịch với Inline translation?"
+  },
+  "inline_pdf_description": {
+    "message": "Hiện tại, để có thể sử dụng Inline translation, vui lòng bật chế độ Reader view của eJOY eXtension nhé!"
+  },
+  "inline_pdf_reader_view": {
+    "message": "Bật Reader view"
+  },
+  "Fully_integrated_sites": {
+    "message": "Trang tích hợp đầy đủ"
+  },
+  "Partly_integrated_sites": {
+    "message": "Trang tích hợp một phần"
+  },
+  "Manually_integrated_sites": {
+    "message": "Trang tích hợp thủ công"
+  },
+  "Fully_integrated_sites_desc": {
+    "message": "Đây là những trang eJOY tích hợp sẵn với (gần) đầy đủ các tính năng."
+  },
+  "Partly_integrated_sites_desc": {
+    "message": "Đây là những trang do eJOY tích hợp sẵn cho phép tra từ và bật Dịch tự động."
+  },
+  "Manually_integrated_sites_desc": {
+    "message": "Đây là những trang video mà bạn tự thêm. Bạn có thể tra từ và bật Dịch tự động như với trang tích hợp một phần."
+  },
+  "integrated_Search": {
+    "message": "Tìm kiếm (e.g netflix.com)"
+  },
+  "Manually_integrated_sites_desc_not_found": {
+    "message": "Bạn chưa tích hợp trang video nào"
+  },
+  "Manually_integrated_sites_desc_faq": {
+    "message": "Xem cách tích hợp thủ công "
+  },
+  "Add_new": {
+    "message": "Thêm"
+  },
+  "Sign_up_for_free": {
+    "message": "Tạo tài khoản miễn phí để lưu từ này"
+  },
+  "Lifetime_Learner_desc": {
+    "message": "We learn as we play!"
+  },
+  "toolTipDesc": {
+    "message": "Bấm biểu tượng này để bật phụ đề song ngữ khi bạn xem video."
+  },
+  "toolTipAdd": {
+    "message": "Thêm từ này vào sổ từ của bạn"
+  },
+  "toolTipReviewWords": {
+    "message": "Ôn tập các từ đã lưu với game"
+  },
+  "reviewWords": {
+    "message": "Chơi game"
+  },
+  "Turn_on_off_main_substitle": {
+    "message": "Bật/Tắt phụ đề trên"
+  },
+  "Turn_on_off_second_substitle": {
+    "message": "Bật/Tắt phụ đề dưới"
+  },
+  "speak_voice_confirm_desc": {
+    "message": "Việc chọn giọng Watson sẽ làm giảm tốc độ tải dữ liệu khi nghe phát âm tra từ. Bạn vẫn muốn chọn chứ?"
+  },
+  "speak_voice_confirm_btn1": {
+    "message": "Đổi giọng khác"
+  },
+  "speak_voice_confirm_btn2": {
+    "message": "Chọn giọng này"
+  },
+  "toolTipReviewWordsNotEnough": {
+    "message": "Chưa đủ từ để chơi.\n Bạn cần lưu ít nhất 3 từ"
+  },
+  "save_to_play": {
+    "message": "Lưu từ để chơi game"
+  },
+  "Got_it": {
+    "message": "Got it"
+  },
+  "Login_to_view_wordbook": {
+    "message": "Đăng nhập để xem sổ từ vựng"
+  },
+  "edit_context": {
+    "message": "Sửa ngữ cảnh"
+  },
+  "data_not_found": {
+    "message": "Không có kết quả từ"
+  },
+  "login_expiration_time": {
+    "message": "Thời gian hết hạn đăng nhập"
+  },
+  "Show_note_after_answer": {
+    "message": "Xem từ vựng sau đáp án"
+  },
+  "Next_question_in": {
+    "message": "Hiện câu tiếp theo sau"
+  },
+  "Next_question_in_btn": {
+    "message": "Câu hỏi tiếp:"
+  },
+  "onboarding_text": {
+    "message": "Bạn đã lưu được {0} từ mới, bạn có muốn eJOY nhắc bạn ôn tập không?"
+  },
+  "onboarding_remind_btn": {
+    "message": "OK, Nhắc mình nhé"
+  },
+  "onboarding_no_remind_btn": {
+    "message": "Không cần nhắc đâu"
+  },
+  "onboarding_remind_title": {
+    "message": "Bạn muốn eJOY nhắc bạn như thế nào?"
+  },
+  "onboarding_remind_auto_open_game_center": {
+    "message": "Mở Game Center để ôn từ mỗi ngày"
+  },
+  "onboarding_remind_give_notify": {
+    "message": "Gửi thông báo "
+  },
+  "At_this_time": {
+    "message": "Vào lúc:"
+  },
+  "On_days": {
+    "message": "Vào các ngày:"
+  },
+  "Set_successfully": {
+    "message": "Cài đặt thông báo thành công"
+  },
+  "Display_review_words_notification": {
+    "message": "Nhắc lịch học từ vựng"
+  },
+  "Notify_me_when": {
+    "message": "Thời gian học"
+  },
+  "On_these_days": {
+    "message": "Ngày học"
+  },
+  "notify_no_word_to_play": {
+    "message": "Các từ cần ôn đã hết. Bạn hãy lưu thêm từ mới nhé. Hoặc chơi game ôn tập tiếp nhưng điểm thành thạo của từ vựng sẽ không tăng lên."
+  },
+  "Play_anyway": {
+    "message": "Ôn tiếp"
+  },
+  "Yeah_enough_words_to_play_the_games": {
+    "message": "Yeah, có đủ từ để chơi game rồi!"
+  },
+  "Pause": {
+    "message": "Ngưng"
+  },
+  "Speaker_Voice_game": {
+    "message": "Giọng đọc trong game ôn từ"
+  },
+  "Speaker_Voice": {
+    "message": "Giọng đọc"
+  },
+  "Preview_voice": {
+    "message": "Nghe thử"
+  },
+  "Please_wait_a_second": {
+    "message": "Bạn đợi chút..."
+  },
+  "PlayNoWordDesc": {
+    "message": "Chưa có từ đến hạn cần ôn. Bạn lưu thêm từ vựng mới để ôn nhé. Hoặc ôn lại các từ cũ nhưng sẽ không được tính thêm điểm thành thạo từ cho lượt chơi này."
+  },
+  "Font_type": {
+    "message": "Kiểu chữ"
+  },
+  "default_recommended": {
+    "message": "Mặc định"
+  },
+  "captureSettings": {
+    "message": "Cài đặt Capture "
+  },
+  "ocrEngine": {
+    "message": "Tính năng OCR"
+  },
+  "transitionEngine": {
+    "message": "Tính năng Dịch"
+  },
+  "statusCapture": {
+    "message": "Trạng thái Capture"
+  },
+  "visualCopyOCRLang": {
+    "message": "Ngôn ngữ để nhận diện OCR"
+  },
+  "visualCopyQuickSelectLangs": {
+    "message": "Chọn nhanh ngôn ngữ cho OCR"
+  },
+  "visualCopyTranslateLang": {
+    "message": "Dịch sang"
+  },
+  "visualCopyTextOverlay": {
+    "message": "Hiển thị tách lớp từ"
+  },
+  "visualCopyAutoTranslate": {
+    "message": "Dịch sau khi OCR"
+  },
+  "visualCopyOCRFontSize": {
+    "message": "Kích cỡ phông chữ"
+  },
+  "visualCopySupportDicts": {
+    "message": "Hỗ trợ từ điển Add-on"
+  },
+  "titleCaptureLocal": {
+    "message": "Nhận diện (OCR) ảnh tải lên và PDF"
+  },
+  "descCaptureLocal": {
+    "message": "Bạn có thể nhận diện kí tự trên file PDF bằng cách kéo thả file vào trình duyệt và sử dụng tính năng Capture. Để thực hiện việc này, bạn cần cho phép Cature truy cập file URLs trong Cài đặt của Capture."
+  },
+  "ocrEngine_desc": {
+    "message": "Use our very good free OCR"
+  },
+  "OcrGoogle_desc": {
+    "message": "PRO Plan: Use PRO Vision (even better OCR)"
+  },
+  "Re_Translate": {
+    "message": "Re-Translate"
+  },
+  "Copy": {
+    "message": "Sao chép"
+  },
+  "Add_to_My_list": {
+    "message": "Add to My list"
+  },
+  "Captured_image": {
+    "message": "Captured image"
+  },
+  "Captured_image_desc": {
+    "message": "Click or scan text on image to look up"
+  },
+  "Size_image": {
+    "message": "Size image"
+  },
+  "Text_from_image": {
+    "message": "Text from image"
+  },
+  "Text_from_image_desc": {
+    "message": "Click on text to look up"
+  },
+  "Translated": {
+    "message": "Translated"
+  },
+  "beta": {
+    "message": "beta"
+  },
+  "beta_desc": {
+    "message": "This is a beta testing feature."
+  },
+  "See_more": {
+    "message": "See more"
+  },
+  "fix_miss_yt": {
+    "message": "Fix miss youtube subtitle"
+  },
+  "fix_miss_yt_title": {
+    "message": "Lỗi không hiển thị phụ đề YouTube"
+  },
+  "fix_miss_yt_desc": {
+    "message": "Bạn cần xóa cookies youtube trường (VISITOR_INFO1_LIVE) để tiếp tục xem video với phụ đề đầy đủ."
+  },
+  "fix_miss_yt_btn": {
+    "message": "Tôi đã hiểu"
+  },
+  "Restart": {
+    "message": "Restart"
+  },
+  "Quit": {
+    "message": "Quit"
+  },
+  "Game_type": {
+    "message": "Game type"
+  },
+  "Number_of_words_per_session": {
+    "message": "Number of words per session"
+  },
+  "Enter_the_number_you_want": {
+    "message": "Enter the number you want"
+  },
+  "From_3_to_500": {
+    "message": "From 3 to 500 (Basic account, max is 20)"
+  },
+  "Please_enter_only_numeric_characters": {
+    "message": "Please enter only numeric characters"
+  },
+  "Please_input_in_rang": {
+    "message": "please enter numbers >= 3 and <= 500"
+  },
+  "Please_input_in_rang_basic": {
+    "message": "As a Basic account, min is 3 and max is 20"
+  },
+  "Go_to_wordbank_desc": {
+    "message": "The word is now in this word book. "
+  },
+  "Go_to_wordbank": {
+    "message": "Go to wordbank"
+  },
+  "Google_Dictionary": {
+    "message": "Google Dictionary"
+  },
+  "searchMeaningGg_text": {
+    "message": "No result on eJOY Dic. <span>Search on Google Dictionary</span> or try one of the options below."
+  },
+  "searchMeaningGg_btn": {
+    "message": "Search Google Dictionary"
+  },
+  "dataGetMeaningEmpty": {
+    "message": "Oops! No result from Google Dictionary. You could try Google Search up there ☝️☝️☝️"
+  },
+  "Require_integrated_sites": {
+    "message": "Require integration"
+  },
+  "Require_integrate": {
+    "message": "Require integration"
+  },
+  "Require_integrated_sites_desc": {
+    "message": "These are integrated websites of eJOY Pro users. If you are a Pro user, you can<br/>watch bilingual subtitles and lookup word on the video subtitles of these sites as<br/>well as ask eJOY to integrate the site you want."
+  },
+  "Require_integrate_popup_title": {
+    "message": "You haven’t signed in"
+  },
+  "Require_popup_title": {
+    "message": "Require integration sites"
+  },
+  "Site_domain": {
+    "message": "Site domain"
+  },
+  "Site_domain_place": {
+    "message": "Enter a link"
+  },
+  "Your_email": {
+    "message": "Your email"
+  },
+  "Your_email_place": {
+    "message": "Enter your email"
+  },
+  "Require_contact": {
+    "message": "Your number contact ( Whatsapp/Zalo... )"
+  },
+  "Require_contact_place": {
+    "message": "Enter your contact"
+  },
+  "Require_integrate_popup_desc": {
+    "message": "This is a Pro feature, you need to sign in with Pro account to sent your requirement."
+  },
+  "Successful_Requirement": {
+    "message": "Successful Requirement!"
+  },
+  "Successful_Requirement_desc": {
+    "message": "We’ve got your requirement. We will send email to you as soon as the site is integrated"
+  },
+  "OK_I_got_it": {
+    "message": "OK. I got it"
+  },
+  "Integration_is_too_complex": {
+    "message": "Integration is too complex?"
+  },
+  "Integration_is_too_complex_desc": {
+    "message": "Upgrade Pro to require eJOY integrate for you."
+  },
+  "Integration_is_too_complex_desc_pro": {
+    "message": "As a Pro user, you can require eJOY integrate for you."
+  },
+  "See_PRO_plan": {
+    "message": "See PRO plans"
+  },
+  "This_is_PRO_feature": {
+    "message": "This is PRO feature"
+  },
+  "This_is_PRO_feature_desc": {
+    "message": "Upgrade PRO-VOCA to require eJOY integrate the sites you want"
+  },
+  "See_PRO_VOCA_plan": {
+    "message": "See PRO-VOCA plan"
+  },
+  "capture_popup_title": {
+    "message": "<span>Pro</span>feature - Capture lookup"
+  },
+  "capture_popup_desc": {
+    "message": "This is a beta testing feature. To enable this feature, please purchase PRO-VOCA"
+  },
+  "Buy_eJOY_PRO": {
+    "message": "Buy eJOY PRO"
+  },
+  "Limited_games_title": {
+    "message": "Limited games in a day"
+  },
+  "Limited_games_desc": {
+    "message": "With a Basic account you will be able to play 1 game in a day. Buy PRO-VOCA for unlimited play."
+  },
+  "Require_contact_desc": {
+    "message": "This is optional information. However, the site will be integrated more quickly if we can reach you promptly."
+  },
+  "Require_contact_discord_desc": {
+    "message": "Join Pro user group for quick support: "
+  },
+  "Require_contact_discord_desc_link": {
+    "message": "Link Discord"
+  },
+  "Buy_eJOY_Pro": {
+    "message": "Buy eJOY Pro"
+  },
+  "Buy_Pro_AI_Dictionary": {
+    "message": "Buy Pro AI Dictionary"
+  },
+  "Buy_eJOY_PRO_UP": {
+    "message": "Buy eJOY PRO"
+  },
+  "extend_pro": {
+    "message": "Extend Pro"
+  },
+  "Unlock_advanced_features": {
+    "message": "Unlock advanced features nam ne"
+  },
+  "Turn_on_Dual_Subtitles": {
+    "message": "Turn on Dual Subtitles"
+  },
+  "Unlock_advanced_features_desc": {
+    "message": "Add words, play games without limit, and more..."
+  },
+  "Upgrade_Pro_Reminder": {
+    "message": "Upgrade Pro Reminder"
+  },
+  "popup_Reminder_title": {
+    "message": "Upgrade Pro to unlock all advanced features.<br/>Choose a time to get reminder"
+  },
+  "popup_Reminder_item1": {
+    "message": "After 1 week"
+  },
+  "popup_Reminder_item2": {
+    "message": "After 1 month"
+  },
+  "popup_Reminder_item3": {
+    "message": "After 2 months"
+  },
+  "banner_epic_desc": {
+    "message": "New English courses for beginners and intermediates"
+  },
+  "Explanation": {
+    "message": "Explanation"
+  },
+  "Paraphrase": {
+    "message": "Make it simple"
+  },
+  "AI_Explanation": {
+    "message": "AI Explanation"
+  },
+  "Lookup_on": {
+    "message": "Lookup on"
+  },
+  "Advanced_Grammar": {
+    "message": "Advanced Grammar"
+  },
+  "Show_original": {
+    "message": "Show original"
+  },
+  "AI_Explain": {
+    "message": "AI Explain"
+  },
+  "require_pro_ai_title": {
+    "message": "You need a Pro Account to get explanation by AI"
+  },
+  "require_pro_ai_btn": {
+    "message": "Buy Pro AI Dictionary"
+  },
+  "Pro_AI_Explanation": {
+    "message": "Pro AI Feature"
+  },
+  "Sign_in_to_see_more": {
+    "message": "Sign in to see more"
+  },
+  "Sign_in_to_see_more_desc": {
+    "message": "Sign in or create account to see more results."
+  },
+  "Youve_not_signed_in_yet": {
+    "message": "You’ve not signed in yet"
+  },
+  "Buy_Pro_AI_Dictionary_see_more_results": {
+    "message": "Buy Pro AI Dictionary see more results."
+  },
+  "Pro_AI_Dictionary": {
+    "message": "Pro AI Dictionary"
+  },
+  "tooltip_shortcut_hidden": {
+    "message": "Turn on/off all of shortcut keys"
+  },
+  "error_chat_desc": {
+    "message": "Something went wrong, please try again."
+  },
+  "renews_on": {
+    "message": "Renews on"
+  },
+  "Until": {
+    "message": "Until"
+  },
+  "Manage_plans": {
+    "message": "Manage plans"
+  },
+  "Pro_Subtitles_Printing": {
+    "message": "Pro Subtitles Printing"
+  },
+  "Pro_Subtitles_Printing_desc": {
+    "message": "You need a Pro Account to print all of the transcript<br/>you want."
+  },
+  "Pro_Bookmark": {
+    "message": "Pro Bookmark"
+  },
+  "Pro_Bookmark_desc": {
+    "message": "You need a Pro Account to bookmark all of your<br/>favorite subtitles."
+  },
+  "None": {
+    "message": "None"
+  },
+  "fixedDom": {
+    "message": "Fixed Dom"
+  },
+  "videoTrack": {
+    "message": "Video Track"
+  },
+  "Rewrite": {
+    "message": "Viết lại"
+  },
+  "Lookup": {
+    "message": "Look up"
+  },
+  "Reply": {
+    "message": "Trả lời"
+  },
+  "Features": {
+    "message": "Features"
+  },
+  "Result": {
+    "message": "Kết quả"
+  },
+  "Improve": {
+    "message": "Improve"
+  },
+  "Shorten": {
+    "message": "Shorten"
+  },
+  "Informal": {
+    "message": "Informal"
+  },
+  "Formal": {
+    "message": "Chuyên nghiệp"
+  },
+  "Casual": {
+    "message": "Thông thường"
+  },
+  "Optimistic": {
+    "message": "Lạc quan"
+  },
+  "Worried": {
+    "message": "Lo lắng"
+  },
+  "Friendly": {
+    "message": "Thân thiện"
+  },
+  "Curious": {
+    "message": "Tò mò"
+  },
+  "Assertive": {
+    "message": "Quyết đoán"
+  },
+  "Surprised": {
+    "message": "Ngạc nhiên"
+  },
+  "Voice": {
+    "message": "Voice"
+  },
+  "Language": {
+    "message": "Language"
+  },
+  "Summarize": {
+    "message": "Tóm tắt"
+  },
+  "Ideas_for_reply": {
+    "message": "Ý tưởng trả lời"
+  },
+  "Input": {
+    "message": "Nhập"
+  },
+  "Select_up_to_3_tones": {
+    "message": "Chọn nhiều nhất 3 ngữ điệu"
+  },
+  "Style": {
+    "message": "Hình thức"
+  },
+  "Tone": {
+    "message": "Ngữ điệu"
+  },
+  "Summarise": {
+    "message": "Tóm tắt"
+  },
+  "textSendPlaceholder": {
+    "message": "Nói cho tôi bạn đang muốn viết gì..."
+  },
+  "Quick_reply": {
+    "message": "Quick reply"
+  },
+  "titleAssistentVideo": {
+    "message": "Tên của video *"
+  },
+  "challengingAssistentVideo": {
+    "message": "Khái niệm bạn thấy khó hiểu *"
+  },
+  "goalAssistentVideo": {
+    "message": "Mục tiêu học của bạn"
+  },
+  "goalAssistentVideoPlace": {
+    "message": "Ví dụ: Dạy học sinh của tôi về Toán học"
+  },
+  "Start_learning": {
+    "message": "Start learning"
+  },
+  "popup_desc_assistant": {
+    "message": "The concept you ask for doesn't relate to the video content. Do you still want AI help you learn that concept?"
+  },
+  "Change": {
+    "message": "Change"
+  },
+  "Personal_settings_desc": {
+    "message": "To improve your learning experience, please tell me about yourself"
+  },
+  "Occupation": {
+    "message": "Nghề nghiệp"
+  },
+  "Occupation_place": {
+    "message": "Nhập công việc của bạn"
+  },
+  "Experience_level": {
+    "message": "Kinh nghiệm làm việc"
+  },
+  "English_level": {
+    "message": "English level"
+  },
+  "Personal_settings_popup_desc": {
+    "message": "Để tăng cường hiệu quả học tập, hãy giới thiệu về bản thân bạn"
+  },
+  "Dont_change": {
+    "message": "Don't change"
+  },
+  "Report": {
+    "message": "Báo cáo"
+  },
+  "What_wrong": {
+    "message": "Vấn đề bạn gặp phải?"
+  },
+  "What_wrong_desc": {
+    "message": "Hãy mô tả chi tiết vấn đề gặp phải, mọi hành động bạn đã thực hiện và thông báo lỗi bạn nhận được."
+  },
+  "What_wrong_desc_place": {
+    "message": "Nhập vấn đề"
+  },
+  "Your_Email_WhatsApp_Zalo": {
+    "message": "Email/WhatsApp/Zalo của bạn"
+  },
+  "Your_Email_WhatsApp_Zalo_desc": {
+    "message": "Vui lòng nhập thông tin liên hệ của bạn để chúng tôi hỗ trợ bạn giải quyết vấn đề nhanh chóng."
+  },
+  "Your_Email_WhatsApp_Zalo_place": {
+    "message": "Nhập liên hệ của bạn"
+  },
+  "Send": {
+    "message": "Gửi"
+  },
+  "tip": {
+    "message": "👉 Mẹo: Cài đặt sẽ giúp tạo kết quả phù hợp với nhu cầu của bạn."
+  },
+  "tip1": {
+    "message": "👉 Tip:  Go to Settings to set up. The result will fit with you more"
+  },
+  "Update_Personal_settings": {
+    "message": "Cập nhật Cài đặt cá nhân"
+  },
+  "AI_SUMMARIZE": {
+    "message": "AI TÓM TẮT"
+  },
+  "Summary": {
+    "message": "Tóm tắt"
+  },
+  "popup_sum_update_title": {
+    "message": "Cập nhật Cài đặt cá nhân"
+  },
+  "popup_sum_update_desc": {
+    "message": "Get results that match your needs better when updating your personal settings."
+  },
+  "Update_now": {
+    "message": "Update now"
+  },
+  "Extract": {
+    "message": "Thông tin liên quan"
+  },
+  "Expand": {
+    "message": "Mở rộng"
+  },
+  "Key_information": {
+    "message": "Thông tin chính"
+  },
+  "Ask_your_question": {
+    "message": "Nhập câu hỏi của bạn"
+  },
+  "Explore_further": {
+    "message": "Khám phá thêm"
+  },
+  "Quiz": {
+    "message": "Câu đố trắc nghiệm"
+  },
+  "AiAdv": {
+    "message": "Trợ lý AI"
+  },
+  "AI_providers": {
+    "message": "Nhà cung cấp AI"
+  },
+  "Blacklist_Sites": {
+    "message": "Bật tính năng thanh bên ở mọi nơi, ngoại trừ các website sau"
+  },
+  "Blacklist_Sites_desc": {
+    "message": "Bật tính năng thanh bên ở mọi nơi, ngoại từ các website dưới đây."
+  },
+  "Whitelist_Sites": {
+    "message": "Tắt tính năng thanh bên ở mọi nơi, ngoại trừ các website sau"
+  },
+  "Whitelist_Sites_desc": {
+    "message": "Vô hiệu tính năng thanh bên ở mọi nơi, ngoại từ các website dưới đây."
+  },
+  "ChatGPT_WebApp": {
+    "message": "ChatGPT WebApp"
+  },
+  "OpenAI_API": {
+    "message": "OpenAI API"
+  },
+  "OpenAI_API_gpt35_desc": {
+    "message": "GPT-3.5 is unlimited for Free and Plus users."
+  },
+  "OpenAI_API_gpt4_desc": {
+    "message": "GPT-4 is for Plus users and has a very limited quota."
+  },
+  "Azure_API": {
+    "message": "eJOY API"
+  },
+  "API_Host": {
+    "message": "API Host"
+  },
+  "API_Key": {
+    "message": "API Key"
+  },
+  "AiModel": {
+    "message": "Model"
+  },
+  "Smart_Learn": {
+    "message": "Hiểu sâu"
+  },
+  "AI_Smart_Learn": {
+    "message": "HIỂU SÂU"
+  },
+  "AI_sum": {
+    "message": "AI TÓM TẮT"
+  },
+  "Highlight": {
+    "message": "Thông tin chính"
+  },
+  "Related_information": {
+    "message": "Thông tin liên quan"
+  },
+  "Check_free_queries_left_at": {
+    "message": "Kiểm tra lượt truy vấn miễn phí tại "
+  },
+  "Continue_with_Basic": {
+    "message": "Tiếp tục gói Cơ bản"
+  },
+  "Buy_Pro_Dict": {
+    "message": "Mua Pro Dict"
+  },
+  "You_have_free_queries_with_AI": {
+    "message": "Bạn có {0} lượt truy vấn AI miễn phí"
+  },
+  "You_have_free_voca_queries_with_AI_desc_user_basic": {
+    "message": "Đây là tính năng của Pro Voca. Bạn có thể dùng thử miễn phí hoặc mua gói Pro Voca để:"
+  },
+  "You_have_free_voca_queries_with_AI_desc_user_pro_dict": {
+    "message": "Tính năng Pro Voca này không nằm trong gói Pro Dict. Mua Pro Voca để:"
+  },
+  "You_have_free_voca_queries_with_AI_desc_item1": {
+    "message": "Xem Giải thích AI và Tóm tắt video với lượt truy vấn khổng lồ."
+  },
+  "You_have_free_voca_queries_with_AI_desc_item1_sum": {
+    "message": "Nhận kết quả từ phiên bản AI thông minh hơn."
+  },
+  "You_have_free_voca_queries_with_AI_desc_item2": {
+    "message": "Sử dụng AI khi Trả lời Email, Viết lại và Hiểu sâu với lượt truy vấn khủng."
+  },
+  "You_have_free_voca_queries_with_AI_desc_item3": {
+    "message": "Nhận kết quả từ phiên bản AI thông minh hơn."
+  },
+  "AI_Advanced_Features": {
+    "message": "AI Advanced Features"
+  },
+  "Free_AI_queries": {
+    "message": "Lượt truy vấn AI Free (eJOY API):"
+  },
+  "You_have_free_dict_queries_left": {
+    "message": "Bạn còn {0} lượt truy vấn AI miễn phí"
+  },
+  "You_have_free_voca_queries_left": {
+    "message": "Bạn còn {0} lượt truy vấn AI miễn phí"
+  },
+  "You_have_free_voca_queries_left_desc": {
+    "message": "Đây là tính năng của Pro Voca. Bạn có thể dùng thử miễn phí hoặc mua gói Pro Voca để:"
+  },
+  "Buy_Pro_Voca": {
+    "message": "Mua Pro Voca"
+  },
+  "Free_added_word": {
+    "message": "Free added word:"
+  },
+  "Free_queries_with_AI": {
+    "message": "Free queries with AI"
+  },
+  "Lookup_summary_video": {
+    "message": "Lookup & summarise video"
+  },
+  "Reply_Rewrite": {
+    "message": "Reply, Rewrite, Q&A"
+  },
+  "Pro_AI_feature": {
+    "message": "Pro AI feature"
+  },
+  "Pro_AI_feature_desc": {
+    "message": "You’ve reached out the limit. You need a Pro Account to get result by AI"
+  },
+  "Pro_Voca": {
+    "message": "Pro Voca"
+  },
+  "You_hit_free_limit": {
+    "message": "Bạn đã đạt giới hạn sử dụng tính năng."
+  },
+  "You_hit_free_limit_desc": {
+    "message": "Mua Pro Dict để xem kết quả này."
+  },
+  "You_hit_free_limit_desc_pro_voca": {
+    "message": "Mua Pro Voca để xem kết quả này."
+  },
+  "AI_is_thinking": {
+    "message": "AI đang nghĩ, vui lòng đợi chút..."
+  },
+  "Retry": {
+    "message": "Retry"
+  },
+  "Other": {
+    "message": "Other"
+  },
+  "Continue_with_Pro_Dict": {
+    "message": "Tiếp tục với Pro Dict"
+  },
+  "Reload": {
+    "message": "Tải lại"
+  },
+  "disableEjoyAiIconPopupTitle": {
+    "message": "Xác nhận tắt Trợ lý AI"
+  },
+  "disableEjoyAiIconPopupItem1": {
+    "message": "Vô hiệu cho tới lần truy cập tiếp theo"
+  },
+  "disableEjoyAiIconPopupItem2": {
+    "message": "Vô hiệu ở website này"
+  },
+  "disableEjoyAiIconPopupItem3": {
+    "message": "Vô hiệu ở tất cả website"
+  },
+  "You_can_enable_again_in": {
+    "message": "Bạn có thể bật lại tính năng tại"
+  },
+  "Confirm": {
+    "message": "Xác nhận"
+  },
+  "Quick_AI_features": {
+    "message": "Tính năng AI"
+  },
+  "No_transcript_in_the_video": {
+    "message": "Không có phụ đề tại video"
+  },
+  "No_transcript_in_the_video_desc": {
+    "message": "Hãy chọn video có phụ đề để AI tóm tắt"
+  },
+  "Write_in": {
+    "message": "Điền vào..."
+  },
+  "See_details": {
+    "message": "Xem chi tiết"
+  },
+  "Sender_intent": {
+    "message": "Sender’s intent"
+  },
+  "fix_miss_yt_btn_tut": {
+    "message": "xem hướng dẫn chi tiết tại đây"
+  },
+  "Blacklist": {
+    "message": "Bật Thao tác nhanh ở mọi nơi, ngoại trừ các website sau"
+  },
+  "Blacklist_desc": {
+    "message": "Hiện các popup khi bôi đen văn bản ở mọi website, ngoại trừ các website dưới đây."
+  },
+  "Whitelist": {
+    "message": "Tắt Thao tác nhanh ở mọi nơi, ngoại trừ các website sau"
+  },
+  "Whitelist_desc": {
+    "message": "Vô hiệu các popup khi bôi đen văn bản ở mọi website, ngoại từ các website dưới đây."
+  },
+  "What_are_quick_actions": {
+    "message": "Nút hành động nhanh là gì?"
+  },
+  "What_are_quick_actions_desc": {
+    "message": "Thao tác nhanh giúp xử lý văn bản đã chọn với AI từ eJOY. Khi được kích hoạt, biểu tượng giọt nước xuất hiện ngay khi bạn chọn bất kỳ văn bản nào trên một trang web. Chỉ với một cú nhấp chuột, eJOY có thể giúp bạn dịch, viết lại, tóm tắt hoặc giải thích văn bản bạn đã chọn Ngoài ra, bạn có thể sắp xếp lại thứ tự các công cụ để thuận tiện sử dụng hơn nữa."
+  },
+  "What_are_sidebar_functions": {
+    "message": "Tính năng thanh bên là gì?"
+  },
+  "What_are_sidebar_functions_desc": {
+    "message": "1. AI Tóm tắt giúp bạn tóm gọn các thông tin có trong video hoặc toàn bộ bài báo đồng thời trích xuất thông tin có liên quan đến bạn.<br />2. AI Hiểu sâu có thể giúp bạn học những khái niệm phức tạp bằng các giải thích dễ hiểu, ví dụ cụ thể, câu đố và câu hỏi gợi ý."
+  },
+  "List_of_quick_actions": {
+    "message": "Danh sách các hành động nhanh"
+  },
+  "Quick_actions": {
+    "message": "Thao tác nhanh"
+  },
+  "Sidebar_functions": {
+    "message": "Tính năng thanh bên"
+  },
+  "Reply_desc": {
+    "message": "Trả lời hay phản hồi bất cứ văn bản nào được chọn"
+  },
+  "summary_desc": {
+    "message": "Tóm tắt văn bản được chọn"
+  },
+  "Rewrite_desc": {
+    "message": "Viết lại văn bản được chọn với chuẩn ngữ pháp"
+  },
+  "idioms_desc": {
+    "message": "Nhận biết và chỉ ra các thành ngữ, cụm từ trong văn bản được chọn"
+  },
+  "DeepDaily_desc": {
+    "message": "Học sâu phần văn bản được chọn với phần giải thích, ví dụ, câu đố..."
+  },
+  "Explain_desc": {
+    "message": "Giải thích dễ hiểu nghĩa của văn bản được chọn"
+  },
+  "Grammar_desc": {
+    "message": "Giải thích cấu trúc ngữ pháp trong văn bản được chọn"
+  },
+  "disableEjoyAiIcon": {
+    "message": "Tắt tính năng Thao tác nhanh"
+  },
+  "disableEjoyAiIconDesc": {
+    "message": "Khi tính năng này được tắt, biểu tượng eJOY AI sẽ không còn xuất hiện trên trang web."
+  },
+  "disableQuickAction": {
+    "message": "Thao tác nhanh"
+  },
+  "disableQuickActionDesc": {
+    "message": "Khi tính năng này được tắt, eJOY AI Thao tác nhanh sẽ không còn xuất hiện khi bạn bôi đen văn bản."
+  },
+  "OpenAI_API_desc": {
+    "message": "API OpenAI chính thức ổn định hơn và được tính phí dựa trên lượt sử dụng. Hãy làm theo hướng dẫn để lấy key API. Bạn có thể tìm hoặc tạo key API của mình tại đây:"
+  },
+  "Azure_API_desc": {
+    "message": "eJOY AI được tạo ra, phát triển và tùy biến dựa trên dịch vụ Azure OpenAI nhằm đem lại trải nghiệm học tập hiệu quả cho người dùng eJOY."
+  },
+  "ChatGPT_WebApp_desc": {
+    "message": "Bạn cần duy trì trạng thái đăng nhập vào tài khoản ChatGPT trên website. Do những hạn chế của OpenAI, cả người dùng miễn phí và Plus có thể gặp phải tình trạng hoạt động không ổn định. Người dùng ChatGPT Plus được khuyên dùng sử dụng lựa chọn này."
+  },
+  "DeepDaily": {
+    "message": "Hiểu sâu"
+  },
+  "idioms": {
+    "message": "Nhận biết cụm từ"
+  },
+  "grammar": {
+    "message": "Ngữ pháp"
+  },
+  "explain": {
+    "message": "Giải thích"
+  },
+  "other_ai": {
+    "message": "khác"
+  },
+  "titleConfirmConvert": {
+    "message": "Bạn có chắc muốn chuyển <i>{0}</i> ?"
+  },
+  "descConfirmConvert": {
+    "message": "Khi hoàn tất chuyển đổi, tạm thời bạn sẽ chưa thể lưu thêm từ mới vào <strong>{0}</strong>. Chúng mình sẽ nhanh chóng khắc phục trong thời gian sớm nhất."
+  },
+  "notNowConfirmConvert": {
+    "message": "Hủy"
+  },
+  "convert": {
+    "message": "Chuyển đổi"
+  },
+  "Cant_add_special_char": {
+    "message": "Không thể thêm kí tự đặc biệt"
+  }
+}

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Loading... :: Reader View</title>
+    <link rel="stylesheet" href="fontello.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="libs/text-to-speech/tts.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body data-speech=false>
+    <div>
+      <div id="toolbar">
+        <span class="icon-close" data-cmd="close" title="Close Reader View"></span>
+        <span class="icon-setting" data-cmd="setting" title="open settings Reader View">
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+            viewBox="0 0 24 24" fill="none">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M22 9.59698C21.0312
+              9.97188 20.349 10.9039 20.349 11.9974C20.349 13.0961 21.0365
+              14.0281 21.9948 14.403C21.7396 15.4652 21.3177 16.4702 20.7604
+              17.3762C20.4323 17.2304 20.0729 17.1575 19.7188 17.1575C19.0573
+              17.1575 18.401 17.4074 17.901 17.9073C17.1302 18.6832 16.9531
+              19.8235 17.3698 20.7659C16.4635 21.3231 15.4635 21.7449 14.3958
+              22C14.026 21.0367 13.0938 20.3546 12 20.3546C10.9062 20.3546
+              9.97396 21.0367 9.60417 22C8.54167 21.7449 7.53646 21.3231 6.63021
+              20.7659C7.04688 19.8235 6.86979 18.6779 6.09896 17.9073C5.59375
+              17.4074 4.9375 17.1575 4.28125 17.1575C3.92708 17.1575 3.57292
+              17.2304 3.23958 17.3762C2.68229 16.4702 2.26042 15.4705 2.00521
+              14.403C2.96875 14.0281 3.65104 13.0961 3.65104 12.0026C3.65104
+              10.9039 2.96354 9.97188 2 9.60219C2.25521 8.53476 2.67708 7.53502
+              3.22917 6.6238C3.5625 6.7748 3.91667 6.8477 4.27604 6.8477C4.93229
+              6.8477 5.59375 6.59776 6.09375 6.09789C6.86979 5.32205 7.04688
+              4.17652 6.625 3.23405C7.53125 2.67691 8.53125 2.25514 9.59896
+              2C9.96875 2.96329 10.9062 3.65061 12 3.65061C13.0938 3.65061
+              14.0312 2.96329 14.401 2C15.4635 2.25514 16.4688 2.67691 17.3698
+              3.23405C16.9531 4.18172 17.125 5.32205 17.901 6.09789C18.4062
+              6.59776 19.0625 6.8477 19.7188 6.8477C20.0781 6.8477 20.4323
+              6.76959 20.7656 6.6238C21.3229 7.52981 21.7448 8.52955 22
+              9.59698ZM7.88021 11.9922C7.88021 14.2885 9.73959 16.1578 12.0469
+              16.1578C14.3542 16.1578 16.2135 14.2885 16.2135 11.9922C16.2135
+              9.69591 14.3542 7.82661 12.0469 7.82661C9.73959 7.82661 7.88021
+              9.69591 7.88021 11.9922Z" fill="currentColor" />
+            </svg>
+
+          </span>
+          <span class="icon-font" data-cmd="open-font-utils" title="Type controls"></span>
+          <div id="font-utils" tabindex="-1" class="hidden">
+            <table border="0" cellpadding="0" cellspacing="0">
+              <!-- <colgroup>
+              <col style="border-right: solid 1px #B5B5B5;" width=50%>
+              <col>
+            </colgroup> -->
+              <tr class="title-tr"><td colspan="4"><span>Font</span></td></tr>
+              <tr>
+                <td data-cmd="font-type-sans-serif" colspan="2"><span
+                    class="big-text">Aa</span><br /><span>Sans-serif</span></td>
+                <td data-cmd="font-type-serif" colspan="2"><span
+                    class="big-text">Aa</span><br /><span>Serif</span></td>
+              </tr>
+              <!-- <tr id="font-details">
+              <td colspan="2">
+                <div id="">
+                  <span>Font: <span data-id="font-size"></span></span>
+                  <span>Width: <span data-id="screen-width"></span></span>
+                  <span>Height: <span data-id="line-height"></span></span>
+                </div>
+              </td>
+            </tr> -->
+              <tr class="title-tr"><td colspan="4"><span>Size</span></td></tr>
+              <tr>
+                <td data-cmd="font-decrease"><span class="icon-minus"></span></td>
+                <td><span data-id="font-size" class="color-primary"></span></td>
+                <td data-cmd="font-increase"><span class="icon-plus"></span></td>
+                <td />
+                </tr>
+                <tr class="title-tr"><td colspan="4"><span>Height</span></td></tr>
+                <tr>
+                  <td colspan="3">
+                    <div class="strech">
+                      <span class="icon-article-collapsed"
+                        data-cmd="line-height-type-1"></span>
+                      <span data-id="line-height" class="color-primary"></span>
+                      <span class="icon-article-expanded"
+                        data-cmd="line-height-type-2"></span>
+                    </div>
+                  </td>
+                  <td data-id="no-height" data-cmd="no-height">
+                    <input id="no-height" type="checkbox" />
+                    <label>No Height</label>
+                  </td>
+                </tr>
+                <tr class="title-tr"><td colspan="4"><span>Width</span></td></tr>
+                <tr>
+                  <td colspan="3">
+                    <div class="strech">
+                      <span data-cmd="width-decrease"><span class="icon-minus"></span></span>
+                      <span data-id="screen-width" class="color-primary"></span>
+                      <span data-cmd="width-increase"><span class="icon-plus"></span></span>
+                    </div>
+                  </td>
+                  <td data-id="full-width" data-cmd="full-width">
+                    <input id="full-width" type="checkbox" />
+                    <label>Full</label>
+                  </td>
+                </tr>
+                <tr class="title-tr"><td colspan="4"><span>Theme</span></td></tr>
+                <tr>
+                  <td colspan="4" data-id="color">
+                    <div>
+                      <span data-cmd="color-mode-light">Light</span>
+                      <span data-cmd="color-mode-nord-light">Nord</span>
+                      <span data-cmd="color-mode-sepia">Sepia</span>
+                      <span data-cmd="color-mode-solarized-light">Solarized</span>
+                    </div>
+                    <div>
+                      <span data-cmd="color-mode-dark">Dark</span>
+                      <span data-cmd="color-mode-nord-dark">Nord</span>
+                      <span data-cmd="color-mode-groove-dark">Groove</span>
+                      <span data-cmd="color-mode-solarized-dark">Solarized</span>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <div id="image-utils" tabindex="-1" class="hidden">
+              <table border="0" cellpadding="0" cellspacing="0">
+                <colgroup>
+                  <col style="border-right: solid 1px #B5B5B5;" width=50%>
+                  <col>
+                </colgroup>
+                <tr title="The +/- buttons only scale images with width greater than 32px. Scaling is not persistent operation. To reset, refresh the page.">
+                  <td data-cmd="image-decrease"><span class="icon-minus"></span></td>
+                  <td data-cmd="image-increase"><span class="icon-plus"></span></td>
+                </tr>
+                <tr>
+                  <td data-cmd="image-hide">Hide</td>
+                  <td data-cmd="image-show">Show</td>
+                </tr>
+              </table>
+            </div>
+          </div>
+        </div>
+        <div id="content">
+          <div id="tips">
+            <div>
+              <input type="button" value="×">
+              <span></span>
+            </div>
+          </div>
+          <iframe></iframe>
+        </div>
+        <div id="speech">
+          <span data-cmd="close-speech">×</span>
+          <span data-cmd="minimize-speech">-</span>
+          <span data-id="msg-speech"></span>
+        </div>
+        <div id="navigate" class="hidden">
+          <input type="button" id="navigate-previous" value="&#xE80D;"
+            disabled=true
+            title="move to the previous page (command)">
+          <input type="button" id="navigate-next" value="&#xE80A;" disabled=true
+            title="move to the next page (command)">
+          <div id="guide" class="hidden"></div>
+        </div>
+        <script src="/readerView/background/config.js"></script>
+        <script src="/js/readerView.bundle.js"></script>
+        <!-- <script src="index.js"></script> -->
+        <script async src="tip.js"></script>
+      </body>
+    </html>

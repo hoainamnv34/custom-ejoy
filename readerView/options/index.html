@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reader View :: Options</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+
+<body>
+  <h3>Interface Customization</h3>
+  <div class="box-1">
+    <input type="checkbox" id="printing-button">
+    <label for="printing-button">Show "printing button" in the reader view</label>
+    <input type="checkbox" id="mail-button">
+    <label for="mail-button">Show "mail button" in the reader view</label>
+    <input type="checkbox" id="save-button">
+    <label for="save-button">Show "save button" in the reader view</label>
+    <input type="checkbox" id="fullscreen-button">
+    <label for="fullscreen-button">Show "fullscreen button" in the reader view</label>
+    <input type="checkbox" id="speech-button">
+    <label for="speech-button">Show "speech button" in the reader view</label>
+    <input type="checkbox" id="images-button">
+    <label for="images-button">Show "toggle images button" in the reader view</label>
+    <input class="hidden" type="checkbox" id="highlight-button">
+    <label class="hidden" for="highlight-button">Show "toggle highlight button" in the reader view</label>
+    <input type="checkbox" id="design-mode-button">
+    <label for="design-mode-button">Show "toggle design mode button" in the reader view</label>
+    <input class="hidden" type="checkbox" id="navigate-buttons">
+    <label class="hidden" for="navigate-buttons">Show "navigation buttons" in the reader view</label>
+    <input class="hidden" type="checkbox" id="context-open-in-reader-view">
+    <label class="hidden" for="context-open-in-reader-view">Show "Open in Reader View" context-menu item</label>
+    <input class="hidden" type="checkbox" id="context-open-in-reader-view-bg">
+    <label class="hidden" for="context-open-in-reader-view-bg">Show "Open in background Reader View" context-menu item</label>
+    <input class="hidden" type="checkbox" id="context-switch-to-reader-view">
+    <label class="hidden" for="context-switch-to-reader-view">Show "Switch to Reader View" context-menu item (restart required)</label>
+    <input class="hidden" type="checkbox" id="auto-fullscreen">
+    <label class="hidden" for="auto-fullscreen">Automatically switch to the fullscreen (window mode)</label>
+  </div>
+
+  <h3>Interface Shortcuts (Ctrl/Command + Shift + Key)</h3>
+  <div class="box-3" id="shortcuts">
+    <div data-id="print"><span>Print Action</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="email"><span>Email Action</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="save"><span>Save Action</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="fullscreen"><span>Fullscreen Action</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="design-mode"><span>Design-Mode Action</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="speech"><span>Speech Action</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="speech-previous"><span>Previous (Speech)</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="speech-next"><span>Next (Speech)</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="speech-play"><span>Play/Pause (Speech)</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="images"><span>Images Action</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div class="hidden" data-id="highlight"><span>Highlight Action</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="next-page"><span>Previous Page (Navigation)</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+    <div data-id="previous-page"><span>Next Page (Navigation)</span><input type="checkbox"><input type="checkbox"><input type="text"></div>
+  </div>
+
+  <h3 class="hidden" ><a id="ref-1" href="#">Custom styling</a> (reader view)</h3>
+  <textarea class="hidden" placeholder="User styles for the actual reader-view" id="user-css" rows="15"></textarea>
+
+  <h3 class="hidden" ><a id="ref-2" href="#">Custom styling</a> (top frame and sidebar)</h3>
+  <textarea class="hidden" placeholder="User styles for top frame (sidebar mainly)" id="top-style" rows="6"></textarea>
+
+  <h3 class="hidden" ><a id="ref-3" href="#">User actions</a></h3>
+  <textarea class="hidden" placeholder="JSON object to append custom buttons" id="user-action" rows="6"></textarea>
+
+  <h3>Link Opening</h3>
+  <div class="box-1">
+    <input type="checkbox" id="reader-mode">
+    <label for="reader-mode">Open links in the reader view mode</label>
+  </div>
+
+  <h3>TTS</h3>
+  <div class="box-2">
+    <label for="tts-delay">Delay between paragraphs (in milliseconds)</label>
+    <input type="number" min="0" id="tts-delay">
+    <label class="hidden" for="tts-scroll">Scroll into view</label>
+    <select class="hidden" id="tts-scroll">
+      <option value="start">Move to Top</option>
+      <option value="center">Move to Center</option>
+    </select>
+  </div>
+
+  <h3 class="box-2 hidden">
+    <span>Automatic Switch</span>
+    <a href="#" id="auto-permission" style="justify-self: end; white-space: nowrap;">Request Access</a>
+  </h3>
+  <textarea class="hidden" disabled placeholder="A comma-separated list of hostnames or regular expressions to automatically switch to the reader view if the 'request access' is granted (e.g.: google.com, r:\w+\.google\.com)" id="auto-rules" rows="4"></textarea>
+
+  <h3 class="hidden" >Misc</h3>
+  <div class="box-1 hidden">
+    <input type="checkbox" id="faqs">
+    <label for="faqs"> Open FAQs page on updates</label>
+    <input type="checkbox" id="cache-highlights">
+    <label for="cache-highlights"> Restore the user highlights when possible (if checked, the extension tries to persist the user highlights for each page during the current session or until the background page unloads)</label>
+    <span></span>
+    <div class="box-2">
+      <label for="highlights-count"> Total number of highlighting objects to save and restore after a restart (use zero to disable)</label>
+      <input type="number" min="0" id="highlights-count">
+    </div>
+    <input type="checkbox" id="embedded">
+    <label for="embedded"> Simple mode (do not redirect to the reader view, instead update the current document) (not recommended)</label>
+  </div>
+
+  <p class="hidden" >Rate the "<b><a id="rate" href="https://chrome.google.com/webstore/detail/reader-view/ecabifbgmdmgdllomnfinbmaellmclnh/reviews" style="text-decoration: none">Reader View</a></b>" extension!</p>
+  <div class="hidden" id="explore" data-inc=50></div>
+  <p class="hidden" >
+    <button id="import-highlights" title="Import a JSON file containing the user highlights from a previous session and append it into the currently available cache">Import Highlights</button>
+    <button id="export-highlights" title="Export the current cache of the user highlights to a JSON file">Export Highlights</button>
+  </p>
+  <p>
+    <button class="hidden" id="support">Support Development</button>
+    <button id="reload" class="hidden" title="Restart the runtime">Restart</button>
+    <button id="reset" class="hidden" title="Reset all settings to the factory values">Reset</button><button id="save">Save</button>
+    <span id="status"></span>
+  </p>
+
+  <script src="/readerView/background/config.js"></script>
+  <script src="index.js"></script>
+  <script async src="matched.js"></script>
+</body>
+</html>

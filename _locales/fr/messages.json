@@ -1,0 +1,830 @@
+{
+  "ext_description": {
+    "message": "Traduction de sous-titres sur Netflix,Youtube, iFlix. Consultation de dictionnaires. Apprentissage ludique du vocabulaire anglais."
+  },
+  "Popup_Size": {
+    "message": "Taille de la fenêtre pop-up"
+  },
+  "Default_Wordbook": {
+    "message": "Ajouter au recueil d'expressions"
+  },
+  "Translate_to": {
+    "message": "Traduire en"
+  },
+  "Popup_Setting": {
+    "message": "Paramètre de la fenêtre pop-up"
+  },
+  "Immediately_Display": {
+    "message": "Afficher immédiatement"
+  },
+  "Display_Icon": {
+    "message": "Afficher l'icône"
+  },
+  "Dont_Display": {
+    "message": "Ne pas afficher"
+  },
+  "Wordbooks": {
+    "message": "Recueils d'expression"
+  },
+  "Your_account_is": {
+    "message": "Votre compte est"
+  },
+  "Basic": {
+    "message": "Basic"
+  },
+  "Pro": {
+    "message": "Pro"
+  },
+  "words_left_to_save": {
+    "message": "mots restants à enregistrer ce mois-ci"
+  },
+  "Go_PRO_now": {
+    "message": "Go PRO"
+  },
+  "Basic_account": {
+    "message": "Compte basique"
+  },
+  "word_defined_today": {
+    "message": "mots définis aujourd'hui"
+  },
+  "word_added_today": {
+    "message": "mots ajoutés aujourd'hui"
+  },
+  "Log_out": {
+    "message": "Log out"
+  },
+  "Connect_with_us_via": {
+    "message": "Se connecter avec"
+  },
+  "Account": {
+    "message": "Compte"
+  },
+  "Feedback": {
+    "message": "Commentaire"
+  },
+  "Email": {
+    "message": "Email"
+  },
+  "Your_feedback": {
+    "message": "Votre commentaire"
+  },
+  "Send_feedback": {
+    "message": "Envoyer un commentaire"
+  },
+  "When_i_sellect_a_word_or_phase": {
+    "message": "Quand je sélectionne un mot ou une phrase"
+  },
+  "Display_icon_describe": {
+    "message": "Afficher une icône sur laquelle je peux cliquer pour afficher une fenêtre pop-up"
+  },
+  "Immediately_display_popup": {
+    "message": "Afficher immédiatement une fenêtre pop-up"
+  },
+  "Dont_display_icon_or_popup": {
+    "message": "Ne pas afficher l'icône ou la fenêtre pop-up"
+  },
+  "Translation": {
+    "message": "Traduction"
+  },
+  "Definition": {
+    "message": "Définition"
+  },
+  "Slang": {
+    "message": "Argot"
+  },
+  "sentence": {
+    "message": "le plus fréquent"
+  },
+  "noun": {
+    "message": "noun"
+  },
+  "adjective": {
+    "message": "adjective"
+  },
+  "pronoun": {
+    "message": "pronoun"
+  },
+  "verb": {
+    "message": "verb"
+  },
+  "adverb": {
+    "message": "adverb"
+  },
+  "auxiliary_verb": {
+    "message": "auxiliary verb"
+  },
+  "preposition": {
+    "message": "preposition"
+  },
+  "conjunction": {
+    "message": "conjunction"
+  },
+  "Limited": {
+    "message": "Limité"
+  },
+  "Go_PRO_Alert": {
+    "message": "Hmm...Vous avez atteint votre limite. Passez à la version PRO pour supprimer toutes les restrictions."
+  },
+  "Buy_pro": {
+    "message": "Buy PRO"
+  },
+  "Go_Login": {
+    "message": "Login"
+  },
+  "Login_Require_Alert": {
+    "message": "Veuillez d'abord vous connecter pour enregistrer ce mot !"
+  },
+  "Login_please": {
+    "message": "Login please!"
+  },
+  "Ooops": {
+    "message": "Oops!!!"
+  },
+  "Cant_Define_Alert": {
+    "message": "Pas de correspondance exacte trouvée."
+  },
+  "Dont_have_an_account": {
+    "message": "Vous n'avez pas de compte ?"
+  },
+  "Signin": {
+    "message": "Sign in"
+  },
+  "Signup": {
+    "message": "Sign up"
+  },
+  "feedback_footer_info": {
+    "message": "Un compte eJOY peut être utilisé sur plusieurs plateformes."
+  },
+  "Thanks_for_your_feedback": {
+    "message": "Merci pour votre commentaire !"
+  },
+  "We_will_reply_soon": {
+    "message": "Nous allons bientôt vous répondre."
+  },
+  "Back": {
+    "message": "Back"
+  },
+  "About_us": {
+    "message": "About us"
+  },
+  "Key_shortcuts": {
+    "message": "Principaux raccourcis"
+  },
+  "Next_sentence": {
+    "message": "Phrase suivante"
+  },
+  "Prev_sentence": {
+    "message": "Phrase précédente"
+  },
+  "Turn_on_off_substitle": {
+    "message": "Activer/désactiver les sous-titres"
+  },
+  "Next": {
+    "message": "Suivant"
+  },
+  "Prev": {
+    "message": "Précédent"
+  },
+  "seconds": {
+    "message": "secondes"
+  },
+  "Play_pause": {
+    "message": "Lecture/pause"
+  },
+  "About_us_content": {
+    "message": "Vous appréciez eJOY ? Veuillez prendre un moment pour nous donner une note dans"
+  },
+  "Chrome_Web_Store": {
+    "message": "Chrome Web Store"
+  },
+  "Thank_you": {
+    "message": "Merci"
+  },
+  "eJOY_English_for_Netflix": {
+    "message": "eJOY English for Netflix"
+  },
+  "Setting": {
+    "message": "Paramètre"
+  },
+  "Look_up": {
+    "message": "Rechercher"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Text_to_translate": {
+    "message": "Saisir un terme à rechercher"
+  },
+  "more": {
+    "message": "plus"
+  },
+  "Close": {
+    "message": "Fermer"
+  },
+  "Add": {
+    "message": "Ajouter"
+  },
+  "Added": {
+    "message": "Ajouté"
+  },
+  "Add_to_wordbook": {
+    "message": "Ajouter au recueil d'expressions"
+  },
+  "Speak": {
+    "message": "Parler"
+  },
+  "You_need_LOGIN_first": {
+    "message": "Vous devez d'abord vous CONNECTER"
+  },
+  "Error": {
+    "message": "Erreur"
+  },
+  "Err_Not_PRO": {
+    "message": "Vous avez un compte basique. Passez à PRO pour ajouter plus de mots"
+  },
+  "Successful": {
+    "message": "Réussi"
+  },
+  "Login_Successfully": {
+    "message": "Connexion réussie"
+  },
+  "unknown": {
+    "message": "N/A"
+  },
+  "Game_home": {
+    "message": "Game Center"
+  },
+  "time_left": {
+    "message": "heures restantes pour terminer"
+  },
+  "Daily_goal": {
+    "message": "Objectif quotidien"
+  },
+  "days": {
+    "message": "jours"
+  },
+  "word_added": {
+    "message": "Mots ajoutés"
+  },
+  "Type_what_you_can_hear": {
+    "message": "Écrivez ce que vous entendez"
+  },
+  "write_in_here": {
+    "message": "écrire ici"
+  },
+  "Try_again": {
+    "message": "Réessayer"
+  },
+  "Done": {
+    "message": "Terminé"
+  },
+  "Show_hint": {
+    "message": "Afficher les indices"
+  },
+  "word_info": {
+    "message": "Infos sur le mot"
+  },
+  "Correct_anwser": {
+    "message": "Corriger la réponse"
+  },
+  "Correct_anwsers": {
+    "message": "Corriger les réponses"
+  },
+  "Log_in": {
+    "message": "Log in"
+  },
+  "Sign_up": {
+    "message": "Sign up"
+  },
+  "login_desc": {
+    "message": "Se connecter et profiter de jeux géniaux pour apprendre l'anglais"
+  },
+  "Your_point": {
+    "message": "Your XP"
+  },
+  "revised_words": {
+    "message": "Mots révisés"
+  },
+  "Speed": {
+    "message": "Vitesse"
+  },
+  "Total_point": {
+    "message": "Total XP"
+  },
+  "SPOILER": {
+    "message": "SPOILER"
+  },
+  "I_want_to_play_agian": {
+    "message": "Jouer à un autre jeu"
+  },
+  "day": {
+    "message": "jour"
+  },
+  "streak": {
+    "message": "série"
+  },
+  "More_words": {
+    "message": "Plus de mots"
+  },
+  "I_have_reviewed": {
+    "message": "J'ai révisé"
+  },
+  "Balance": {
+    "message": "50/50"
+  },
+  "More_priority": {
+    "message": "Plus"
+  },
+  "new_words": {
+    "message": "nouveaux mots"
+  },
+  "About_to_review": {
+    "message": ""
+  },
+  "words": {
+    "message": "mots"
+  },
+  "word": {
+    "message": "mot"
+  },
+  "need_reviewing": {
+    "message": "à réviser"
+  },
+  "not_word_for_play": {
+    "message": "PAS assez de mots pour jouer à des jeux !"
+  },
+  "Start": {
+    "message": "Jouer"
+  },
+  "Change_the_word_priority": {
+    "message": "Priorité des mots"
+  },
+  "reviewing": {
+    "message": "jeux"
+  },
+  "balance": {
+    "message": "50/50"
+  },
+  "review": {
+    "message": "réviser"
+  },
+  "difficulty": {
+    "message": "difficulté"
+  },
+  "fluency": {
+    "message": "aisance"
+  },
+  "Edit_Definition": {
+    "message": "Éditer la définition"
+  },
+  "Save": {
+    "message": "Enregistrer"
+  },
+  "OK": {
+    "message": "OK"
+  },
+  "delete_definition": {
+    "message": "Êtes-vous sûr de vouloir supprimer cette définition ?"
+  },
+  "delete_term": {
+    "message": "Êtes-vous sûr de vouloir supprimer ce mot ?"
+  },
+  "reset_term": {
+    "message": "Êtes-vous sûr de vouloir réinitialiser ce mot ?"
+  },
+  "Wordbank": {
+    "message": "Wordbank"
+  },
+  "Word_store": {
+    "message": "Words Store"
+  },
+  "guess_word": {
+    "message": "Deviner le mot"
+  },
+  "Keyboard_shortcut": {
+    "message": "Raccourcis clavier"
+  },
+  "mute": {
+    "message": "Muet"
+  },
+  "key_shortcut": {
+    "message": "Principaux raccourcis"
+  },
+  "Choose_option": {
+    "message": "Sélectionner une réponse parmi les choix multiples"
+  },
+  "submit_anwsers_desc": {
+    "message": "Soumettre la réponse"
+  },
+  "replay_audio": {
+    "message": "Relire audio/vidéo"
+  },
+  "show_hint": {
+    "message": "Afficher les indices"
+  },
+  "navigate_through_hint": {
+    "message": "Choisir un indice"
+  },
+  "Title": {
+    "message": "Titre"
+  },
+  "Active_book": {
+    "message": "Active book"
+  },
+  "Wordbook_Cover": {
+    "message": "Couverture du recueil d'expressions"
+  },
+  "change": {
+    "message": "modifier"
+  },
+  "Upload": {
+    "message": "Charger"
+  },
+  "cancel": {
+    "message": "Annuler"
+  },
+  "Dashboard": {
+    "message": "Tableau de bord"
+  },
+  "Tour_guide": {
+    "message": "Tour guide"
+  },
+  "Delete": {
+    "message": "Supprimer"
+  },
+  "Welcome_to": {
+    "message": "Welcome to"
+  },
+  "eJOY_Game_Center": {
+    "message": "eJOY Game Center"
+  },
+  "Play_now": {
+    "message": "Jouer"
+  },
+  "to_review_today": {
+    "message": "à réviser aujourd'hui"
+  },
+  "notify_take_tour_title": {
+    "message": "Commencez la visite ici quand vous le souhaitez"
+  },
+  "I_got_it": {
+    "message": "Compris"
+  },
+  "desc_sample_in_video": {
+    "message": "Rechercher un mot dans"
+  },
+  "Start_tour": {
+    "message": "Commencer la visite"
+  },
+  "Skip_tour": {
+    "message": "Passer la visite"
+  },
+  "Let_us_show_you_a_tour_around": {
+    "message": "Permettez-nous de vous faire une démonstration"
+  },
+  "demo_desc_step_1": {
+    "message": "Cliquer pour avoir la signification"
+  },
+  "demo_desc_step_2": {
+    "message": "Cliquer pour ajouter des mots au recueil d'expressions"
+  },
+  "demo_desc_step_3": {
+    "message": "Cliquer pour ajouter des mots sur YouTube"
+  },
+  "demo_desc_step_4": {
+    "message": "Cliquer pour ajouter des mots sur Netflix"
+  },
+  "custom": {
+    "message": "Personnaliser"
+  },
+  "demo_desc_step_5": {
+    "message": "Personnaliser l'affichage d'eJOY et naviguer vers le Game Center"
+  },
+  "demo_desc_step_6": {
+    "message": "Le Game Center vous aide à apprendre du vocabulaire dans son contexte. Essayez-le !"
+  },
+  "demo_desc_step_7": {
+    "message": "Vous jouerez à de nombreux jeux dans le Game Center."
+  },
+  "demo_desc_step_8": {
+    "message": "Ajouter de nouveaux mots à partir des vidéos dans eJOY GO ou depuis le Words Store"
+  },
+  "How_to_add_more_words": {
+    "message": "Comment ajouter plus de mots"
+  },
+  "Seem_so_empty_here": {
+    "message": "C'est si vide ici."
+  },
+  "You_need_at_least_7_words_to_play_game": {
+    "message": ""
+  },
+  "Today_review": {
+    "message": "Révision aujourd'hui"
+  },
+  "To_review": {
+    "message": "Précédemment révisés"
+  },
+  "New_word": {
+    "message": "Nouveaux mots"
+  },
+  "slogan_eJOY": {
+    "message": "English immersion with JOY"
+  },
+  "Home": {
+    "message": "Home"
+  },
+  "Play_game": {
+    "message": "Jouer"
+  },
+  "Cant_deactive": {
+    "message": "Impossible à désactiver"
+  },
+  "Wordbook_Settings": {
+    "message": "Paramètres du recueil d'expressions"
+  },
+  "Create_Wordbook": {
+    "message": "Créer un nouveau recueil d'expressions"
+  },
+  "You_must_start_with_letter": {
+    "message": "Vous devez commencer avec une lettre"
+  },
+  "Remove_special_character": {
+    "message": "Supprimer tous les espaces et les caractères spéciaux sauf le caractère_souligné."
+  },
+  "From_3_to_50_letter": {
+    "message": "Entre 3 et 50 caractères"
+  },
+  "Streak": {
+    "message": "Streak"
+  },
+  "Mastered": {
+    "message": "Mastered"
+  },
+  "Mo": {
+    "message": "Mo"
+  },
+  "Tu": {
+    "message": "Tu"
+  },
+  "We": {
+    "message": "We"
+  },
+  "Th": {
+    "message": "Th"
+  },
+  "Fr": {
+    "message": "Fr"
+  },
+  "Sa": {
+    "message": "Sa"
+  },
+  "Su": {
+    "message": "Su"
+  },
+  "Ranking": {
+    "message": "Classement"
+  },
+  "Crop_image": {
+    "message": "Réduire l'image"
+  },
+  "Preview": {
+    "message": "Aperçu"
+  },
+  "Crop": {
+    "message": "Réduire"
+  },
+  "Wordbook_list": {
+    "message": "Liste de recueil d'expressions"
+  },
+  "Next_review_in": {
+    "message": "Nouvelle révision dans"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "In_progress": {
+    "message": "Apprentissage"
+  },
+  "xp": {
+    "message": "XP"
+  },
+  "no_word_to_review": {
+    "message": "Il n'y a aucun mot à réviser."
+  },
+  "no_new_word": {
+    "message": "Il n'y a pas de nouveau mot"
+  },
+  "Popular_word_note": {
+    "message": "Mot populaire dans une utilisation quotidienne ou dans les examens."
+  },
+  "Goal_Setting": {
+    "message": "Paramètre de l'objectif"
+  },
+  "Goal_Setting_desc": {
+    "message": "Fixer un objectif quotidien - atteignez votre objectif chaque jour pour gagner des bonus !"
+  },
+  "Your_Time_Zone": {
+    "message": "Your Time Zone"
+  },
+  "min": {
+    "message": "min"
+  },
+  "not_word_step_1": {
+    "message": "Nous ne trouvons pas assez de mots pour configurer un nouveau jeu. Voici quelques conseils pour avoir plus de mots"
+  },
+  "not_word_step_2": {
+    "message": "Vous pouvez ajouter des mots depuis une vidéo dans Netflix ou YouTube…"
+  },
+  "not_word_step_3": {
+    "message": "Depuis tout site Web, vous pouvez choisir du texte"
+  },
+  "not_word_step_4": {
+    "message": "Avec la recherche"
+  },
+  "not_word_step_5": {
+    "message": "Ou avec le Word Store"
+  },
+  "tooltip_to_review": {
+    "message": "a déjà été joué auparavant"
+  },
+  "tooltip_new_word": {
+    "message": "Jamais été joué auparavant"
+  },
+  "tooltip_your_xp": {
+    "message": "Votre XP total pour ce jeu. Méthode de calcul"
+  },
+  "tooltip_revised_word_line_1": {
+    "message": "Quand vous avez terminé la révision d'un mot, il s'affichera ici avec des points."
+  },
+  "tooltip_revised_word_line_2": {
+    "message": "Les points indiquent votre maîtrise du mot dans ce jeu."
+  },
+  "tooltip_active_wordbook": {
+    "message": "Choisir un recueil d'expressions"
+  },
+  "tooltip_create_wordbook": {
+    "message": "Créer un nouveau recueil d'expressions"
+  },
+  "tooltip_setting_wordbook": {
+    "message": "Paramètre du recueil d'expressions"
+  },
+  "tooltip_setting": {
+    "message": "Modifier l'affichage d'eJOY"
+  },
+  "tooltip_loop_up": {
+    "message": "Rechercher un mot / une phrase"
+  },
+  "tooltip_game_center": {
+    "message": "Jouer au jeu avec des mots"
+  },
+  "Weekly_status": {
+    "message": "Statut hebdomadaire"
+  },
+  "I_want_to_play_with": {
+    "message": "Je veux jouer avec"
+  },
+  "tooltip_toggle_star": {
+    "message": "Marquer comme important"
+  },
+  "tooltip_refresh_word": {
+    "message": "Réviser à nouveau"
+  },
+  "tooltip_exclusive_word": {
+    "message": "Supprimer de la liste"
+  },
+  "tooltip_review": {
+    "message": "Nombre de révision"
+  },
+  "tooltip_difficulty": {
+    "message": "Votre implication pour étudier ce mot"
+  },
+  "tooltip_fluency": {
+    "message": "Votre maîtrise pour utiliser ce mot"
+  },
+  "Edit": {
+    "message": "Éditer"
+  },
+  "EOF": {
+    "message": "Supprimer"
+  },
+  "Helps": {
+    "message": "Aide"
+  },
+  "Tutorial": {
+    "message": "Tutoriel"
+  },
+  "Rate_me_on_Chrome_Store": {
+    "message": "Donnez une note dans Chrome Store"
+  },
+  "eGo": {
+    "message": "eJOY Go"
+  },
+  "no_word": {
+    "message": "Il n'y a aucun mot pour jouer"
+  },
+  "delete_wordbook": {
+    "message": "Êtes-vous sûr de vouloir supprimer ce recueil d'expressions ?"
+  },
+  "wordbook_is_exist": {
+    "message": "Le nom doit être unique"
+  },
+  "Word_link": {
+    "message": "Lien vers le mot"
+  },
+  "Tools": {
+    "message": "Outils"
+  },
+  "Resize_image": {
+    "message": "Redimensionner l'image"
+  },
+  "notify_create_wb_success": {
+    "message": "Le recueil d'expressions #{0} a été créé."
+  },
+  "Not_fair": {
+    "message": "Pas juste !"
+  },
+  "Not_fair_desc": {
+    "message": "Votre heure n'est pas valide."
+  },
+  "Upload_image": {
+    "message": "Télécharger l'image"
+  },
+  "Subscription_will_renew_on": {
+    "message": "L'abonnement sera renouvelé le"
+  },
+  "ask_like_me": {
+    "message": "Vous appréciez vraiment apprendre le vocabulaire anglais avec les jeux, n'est-ce pas ?"
+  },
+  "noti_rate_me": {
+    "message": "Donnez-nous une note 5 étoiles pour nous permettre de rendre eJOY encore meilleur."
+  },
+  "feedback_ask": {
+    "message": "Pourriez-vous laisser un commentaire pour nous aider à être encore meilleur ?"
+  },
+  "Not_yet": {
+    "message": "Pas encore"
+  },
+  "I_like_it": {
+    "message": "I like it"
+  },
+  "Ok_5_stars": {
+    "message": "Ok, 5 stars"
+  },
+  "Not_now": {
+    "message": "Pas maintenant"
+  },
+  "Submit": {
+    "message": "Soumettre"
+  },
+  "I_want_to": {
+    "message": "Je veux..."
+  },
+  "eJoy_extension": {
+    "message": "Une mise à jour eJOY est disponible"
+  },
+  "diff_time": {
+    "message": "Différence d'heure"
+  },
+  "diff_time_noti": {
+    "message": "Oups! L'heure de votre SYSTÈME est différente de votre heure LOCALE. Veuillez la modifier !"
+  },
+  "notify_missing_charater": {
+    "message": "Veuillez changer votre clavier en clavier anglais"
+  },
+  "you_choose": {
+    "message": "Vous choisissez"
+  },
+  "word_from": {
+    "message": "un mot à partir de"
+  },
+  "select_terms_to_play": {
+    "message": "Sélectionner des mots pour jouer avec"
+  },
+  "max": {
+    "message": "max"
+  },
+  "desc_play_game_without_word": {
+    "message": "Vous avez terminé la révision de tous les mots. Jouez à d'autres jeux pour plus de révision, sans que des points supplémentaires soient ajoutés."
+  },
+  "auto_pronunciation": {
+    "message": "Auto prononciation"
+  },
+  "correct_answers": {
+    "message": "Corriger les réponses"
+  },
+  "rearrange_the_block": {
+    "message": "Réarranger le bloc"
+  },
+  "other": {
+    "message": "autre"
+  },
+  "Auto_open_game_centre": {
+    "message": "Ouverture automatique du Game Center"
+  },
+  "tooltip_to_auto_desc": {
+    "message": "eJOY ouvrira le Game Center dans un nouvel onglet quand vous ouvrez le navigateur"
+  },
+  "Cant_add_special_char": {
+    "message": "Impossible d'ajouter les caractères spéciaux"
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "ext_description": {
+    "message": "Netflix、Youtube、iFlix の字幕を翻訳をします。辞書検索。ゲームで英単語を学びます。"
+  },
+  "Popup_Size": {
+    "message": "ポップアップサイズ"
+  },
+  "Default_Wordbook": {
+    "message": "単語帳へ追加"
+  },
+  "Translate_to": {
+    "message": "翻訳先"
+  },
+  "Popup_Setting": {
+    "message": "ポップアップ設定"
+  },
+  "Immediately_Display": {
+    "message": "すぐに表示"
+  },
+  "Display_Icon": {
+    "message": "表示アイコン"
+  },
+  "Dont_Display": {
+    "message": "表示しない"
+  },
+  "Wordbooks": {
+    "message": "単語帳"
+  },
+  "Your_account_is": {
+    "message": "あなたのアカウントは"
+  },
+  "Basic": {
+    "message": "Basic"
+  },
+  "Pro": {
+    "message": "Pro"
+  },
+  "words_left_to_save": {
+    "message": "今月の保存可能語数"
+  },
+  "Go_PRO_now": {
+    "message": "Go PRO"
+  },
+  "Basic_account": {
+    "message": "ベーシックアカウント"
+  },
+  "word_defined_today": {
+    "message": "今日定義された単語"
+  },
+  "word_added_today": {
+    "message": "今日追加された単語"
+  },
+  "Log_out": {
+    "message": "Log out"
+  },
+  "Connect_with_us_via": {
+    "message": "私たちとの接続媒体"
+  },
+  "Account": {
+    "message": "アカウント"
+  },
+  "Feedback": {
+    "message": "フィードバック"
+  },
+  "Email": {
+    "message": "Email"
+  },
+  "Your_feedback": {
+    "message": "あなたのフィードバック"
+  },
+  "Send_feedback": {
+    "message": "フィードバックの送信"
+  },
+  "When_i_sellect_a_word_or_phase": {
+    "message": "単語やフレーズを選択するとき"
+  },
+  "Display_icon_describe": {
+    "message": "ポップアップを表示するためにクリックできるアイコンを表示"
+  },
+  "Immediately_display_popup": {
+    "message": "すぐにポップアップを表示"
+  },
+  "Dont_display_icon_or_popup": {
+    "message": "アイコンやポップアップを表示しない"
+  },
+  "Translation": {
+    "message": "翻訳"
+  },
+  "Definition": {
+    "message": "定義"
+  },
+  "Slang": {
+    "message": "スラング"
+  },
+  "sentence": {
+    "message": "もっとも一般的"
+  },
+  "noun": {
+    "message": "noun"
+  },
+  "adjective": {
+    "message": "adjective"
+  },
+  "pronoun": {
+    "message": "pronoun"
+  },
+  "verb": {
+    "message": "verb"
+  },
+  "adverb": {
+    "message": "adverb"
+  },
+  "auxiliary_verb": {
+    "message": "auxiliary verb"
+  },
+  "preposition": {
+    "message": "preposition"
+  },
+  "conjunction": {
+    "message": "conjunction"
+  },
+  "Limited": {
+    "message": "限度"
+  },
+  "Go_PRO_Alert": {
+    "message": "うーん...限界に達したようです。すべての制限を解除するためにPROへアップグレードしましょう。"
+  },
+  "Buy_pro": {
+    "message": "Buy PRO"
+  },
+  "Go_Login": {
+    "message": "Login"
+  },
+  "Login_Require_Alert": {
+    "message": "この単語を保存するにはまずログインしましょう!"
+  },
+  "Login_please": {
+    "message": "Login please!"
+  },
+  "Ooops": {
+    "message": "Oops!!!"
+  },
+  "Cant_Define_Alert": {
+    "message": "厳密に一致するものはありませんでした。"
+  },
+  "Dont_have_an_account": {
+    "message": "アカウントをお持ちではありませんか?"
+  },
+  "Signin": {
+    "message": "Sign in"
+  },
+  "Signup": {
+    "message": "Sign up"
+  },
+  "feedback_footer_info": {
+    "message": "１つのeJOYのアカウントで異なるプラットフォームを使用できます。"
+  },
+  "Thanks_for_your_feedback": {
+    "message": "フィードバックありがとうございます!"
+  },
+  "We_will_reply_soon": {
+    "message": "すぐにお返事いたします。"
+  },
+  "Back": {
+    "message": "Back"
+  },
+  "About_us": {
+    "message": "About us"
+  },
+  "Key_shortcuts": {
+    "message": "キーショートカット"
+  },
+  "Next_sentence": {
+    "message": "次の文"
+  },
+  "Prev_sentence": {
+    "message": "前の分"
+  },
+  "Turn_on_off_substitle": {
+    "message": "字幕のオンオフ"
+  },
+  "Next": {
+    "message": "次"
+  },
+  "Prev": {
+    "message": "前"
+  },
+  "seconds": {
+    "message": "秒"
+  },
+  "Play_pause": {
+    "message": "再生/一時停止"
+  },
+  "About_us_content": {
+    "message": "eJOYをお楽しみですか?評価のために少々ご協力ください。"
+  },
+  "Chrome_Web_Store": {
+    "message": "Chrome Web Store"
+  },
+  "Thank_you": {
+    "message": "ありがとうございます"
+  },
+  "eJOY_English_for_Netflix": {
+    "message": "eJOY English for Netflix"
+  },
+  "Setting": {
+    "message": "設定"
+  },
+  "Look_up": {
+    "message": "検索"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Text_to_translate": {
+    "message": "検索のために入力"
+  },
+  "more": {
+    "message": "更に"
+  },
+  "Close": {
+    "message": "とじる"
+  },
+  "Add": {
+    "message": "追加"
+  },
+  "Added": {
+    "message": "追加済み"
+  },
+  "Add_to_wordbook": {
+    "message": "単語帳へ追加"
+  },
+  "Speak": {
+    "message": "発話"
+  },
+  "You_need_LOGIN_first": {
+    "message": "まずログインしてください"
+  },
+  "Error": {
+    "message": "エラー"
+  },
+  "Err_Not_PRO": {
+    "message": "あなたのアカウントはベーシックです。さらに単語を追加するにはPROにしましょう。"
+  },
+  "Successful": {
+    "message": "成功"
+  },
+  "Login_Successfully": {
+    "message": "ログインに成功しました。"
+  },
+  "unknown": {
+    "message": "N/A"
+  },
+  "Game_home": {
+    "message": "Game Center"
+  },
+  "time_left": {
+    "message": "完了までの残り時間"
+  },
+  "Daily_goal": {
+    "message": "日々の目標"
+  },
+  "days": {
+    "message": "日数"
+  },
+  "word_added": {
+    "message": "追加した単語"
+  },
+  "Type_what_you_can_hear": {
+    "message": "聞きたい事を入力"
+  },
+  "write_in_here": {
+    "message": "ここに書いてください"
+  },
+  "Try_again": {
+    "message": "もう一度試してください"
+  },
+  "Done": {
+    "message": "完了"
+  },
+  "Show_hint": {
+    "message": "ヒントを表示"
+  },
+  "word_info": {
+    "message": "単語情報"
+  },
+  "Correct_anwser": {
+    "message": "正解"
+  },
+  "Correct_anwsers": {
+    "message": "正解"
+  },
+  "Log_in": {
+    "message": "Log in"
+  },
+  "Sign_up": {
+    "message": "Sign up"
+  },
+  "login_desc": {
+    "message": "ログインして英語学習のための素晴らしいゲームを楽しみましょう"
+  },
+  "Your_point": {
+    "message": "Your XP"
+  },
+  "revised_words": {
+    "message": "復習した単語"
+  },
+  "Speed": {
+    "message": "スピード"
+  },
+  "Total_point": {
+    "message": "Total XP"
+  },
+  "SPOILER": {
+    "message": "ネタバレ"
+  },
+  "I_want_to_play_agian": {
+    "message": "別のゲームをプレー"
+  },
+  "day": {
+    "message": "日"
+  },
+  "streak": {
+    "message": "連続"
+  },
+  "More_words": {
+    "message": "更なる単語"
+  },
+  "I_have_reviewed": {
+    "message": "私は復習した"
+  },
+  "Balance": {
+    "message": "50/50"
+  },
+  "More_priority": {
+    "message": "更に"
+  },
+  "new_words": {
+    "message": "新しい単語"
+  },
+  "About_to_review": {
+    "message": ""
+  },
+  "words": {
+    "message": "単語"
+  },
+  "word": {
+    "message": "単語"
+  },
+  "need_reviewing": {
+    "message": "復習する"
+  },
+  "not_word_for_play": {
+    "message": "ゲームをするには単語が足りません!"
+  },
+  "Start": {
+    "message": "プレー"
+  },
+  "Change_the_word_priority": {
+    "message": "好みの単語"
+  },
+  "reviewing": {
+    "message": "ゲーム"
+  },
+  "balance": {
+    "message": "50/50"
+  },
+  "review": {
+    "message": "レビュー"
+  },
+  "difficulty": {
+    "message": "難易度"
+  },
+  "fluency": {
+    "message": "流暢さ"
+  },
+  "Edit_Definition": {
+    "message": "定義の編集"
+  },
+  "Save": {
+    "message": "保存"
+  },
+  "OK": {
+    "message": "OK"
+  },
+  "delete_definition": {
+    "message": "この定義を本当に削除しますか?"
+  },
+  "delete_term": {
+    "message": "この単語を本当に削除しますか?"
+  },
+  "reset_term": {
+    "message": "この単語を本当にリセットしますか?"
+  },
+  "Wordbank": {
+    "message": "Wordbank"
+  },
+  "Word_store": {
+    "message": "Words Store"
+  },
+  "guess_word": {
+    "message": "単語を予想してください"
+  },
+  "Keyboard_shortcut": {
+    "message": "キーボードショートカット"
+  },
+  "mute": {
+    "message": "ミュート"
+  },
+  "key_shortcut": {
+    "message": "キーショートカット"
+  },
+  "Choose_option": {
+    "message": "選択問題の回答を選択してください"
+  },
+  "submit_anwsers_desc": {
+    "message": "回答の提出"
+  },
+  "replay_audio": {
+    "message": "音声/動画のリプレー"
+  },
+  "show_hint": {
+    "message": "ヒントの表示"
+  },
+  "navigate_through_hint": {
+    "message": "ヒントを選択するには"
+  },
+  "Title": {
+    "message": "タイトル"
+  },
+  "Active_book": {
+    "message": "Active book"
+  },
+  "Wordbook_Cover": {
+    "message": "単語帳のカバー"
+  },
+  "change": {
+    "message": "変更"
+  },
+  "Upload": {
+    "message": "アップロード"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "Dashboard": {
+    "message": "ダッシュボード"
+  },
+  "Tour_guide": {
+    "message": "Tour guide"
+  },
+  "Delete": {
+    "message": "削除"
+  },
+  "eJOY_Game_Center": {
+    "message": "eJOY Game Center"
+  },
+  "Play_now": {
+    "message": "今すぐプレー"
+  },
+  "to_review_today": {
+    "message": "今日のレビュー"
+  },
+  "notify_take_tour_title": {
+    "message": "いつでもここでツアーができます"
+  },
+  "I_got_it": {
+    "message": "了解"
+  },
+  "desc_sample_in_video": {
+    "message": "以下で単語を検索"
+  },
+  "Start_tour": {
+    "message": "ツアーを開始"
+  },
+  "Skip_tour": {
+    "message": "ツアーをスキップ"
+  },
+  "Let_us_show_you_a_tour_around": {
+    "message": "ツアーを紹介させてください"
+  },
+  "demo_desc_step_1": {
+    "message": "意味を表示するにはクリック"
+  },
+  "demo_desc_step_2": {
+    "message": "単語帳へ語句を追加するにはクリック"
+  },
+  "demo_desc_step_3": {
+    "message": "Youtubeで単語を追加するにはクリック"
+  },
+  "demo_desc_step_4": {
+    "message": "Netflixで単語を追加するにはクリック"
+  },
+  "custom": {
+    "message": "カスタマイ"
+  },
+  "demo_desc_step_5": {
+    "message": "eJOYの表示をカスタマイズして、Game Centerへ向かいましょう"
+  },
+  "demo_desc_step_6": {
+    "message": "Game Centerは背景を交えて語彙の学習を助けます。さぁ試してみましょう！"
+  },
+  "demo_desc_step_7": {
+    "message": "Game Centerではランダムにゲームをプレーする事になります"
+  },
+  "demo_desc_step_8": {
+    "message": "eJOY GOの動画やWords Storeから新しい単語の追加"
+  },
+  "How_to_add_more_words": {
+    "message": "更なる単語の追加方法"
+  },
+  "Seem_so_empty_here": {
+    "message": "ここは非常に少ないようです。"
+  },
+  "You_need_at_least_7_words_to_play_game": {
+    "message": ""
+  },
+  "Today_review": {
+    "message": "今日のレビュー"
+  },
+  "To_review": {
+    "message": "依然にレビューしたもの"
+  },
+  "New_word": {
+    "message": "新しい単語"
+  },
+  "slogan_eJOY": {
+    "message": "English immersion with JOY"
+  },
+  "Home": {
+    "message": "Home"
+  },
+  "Play_game": {
+    "message": "ゲームをプレー"
+  },
+  "Cant_deactive": {
+    "message": "無効に設定できません"
+  },
+  "Wordbook_Settings": {
+    "message": "単語帳設定"
+  },
+  "Create_Wordbook": {
+    "message": "新しい単語帳の作成"
+  },
+  "You_must_start_with_letter": {
+    "message": "文字で始める必要があります"
+  },
+  "Remove_special_character": {
+    "message": "アンダーライン_以外のすべてのスペースや特別な記号を取り除いてください。"
+  },
+  "From_3_to_50_letter": {
+    "message": "3文字から50文字以内"
+  },
+  "Streak": {
+    "message": "Streak"
+  },
+  "Mastered": {
+    "message": "Mastered"
+  },
+  "Mo": {
+    "message": "Mo"
+  },
+  "Tu": {
+    "message": "Tu"
+  },
+  "We": {
+    "message": "We"
+  },
+  "Th": {
+    "message": "Th"
+  },
+  "Fr": {
+    "message": "Fr"
+  },
+  "Sa": {
+    "message": "Sa"
+  },
+  "Su": {
+    "message": "Su"
+  },
+  "Ranking": {
+    "message": "ランキング"
+  },
+  "Crop_image": {
+    "message": "画像のトリミング"
+  },
+  "Preview": {
+    "message": "プレビュー"
+  },
+  "Crop": {
+    "message": "トリミング"
+  },
+  "Wordbook_list": {
+    "message": "単語帳リスト"
+  },
+  "Next_review_in": {
+    "message": "以下で次のレビュー"
+  },
+  "version": {
+    "message": "バージョン"
+  },
+  "In_progress": {
+    "message": "学習"
+  },
+  "xp": {
+    "message": "XP"
+  },
+  "no_word_to_review": {
+    "message": "レビューする単語がありません。"
+  },
+  "no_new_word": {
+    "message": "新しい単語がありません"
+  },
+  "Popular_word_note": {
+    "message": "日常会話とテストで頻出の単語。"
+  },
+  "Goal_Setting": {
+    "message": "目標設定"
+  },
+  "Goal_Setting_desc": {
+    "message": "日々の目標の設定 - 毎日目標を達成してボーナスを獲得しましょう!"
+  },
+  "Your_Time_Zone": {
+    "message": "Your Time Zone"
+  },
+  "min": {
+    "message": "min"
+  },
+  "not_word_step_1": {
+    "message": "ゲームを設定するために十分な単語がありません。これが単語を増やすコツです"
+  },
+  "not_word_step_2": {
+    "message": "NetflixやYoutubeから単語を追加できます…"
+  },
+  "not_word_step_3": {
+    "message": "どんなウェブサイトからでもテキストを追加できます"
+  },
+  "not_word_step_4": {
+    "message": "検索の使用"
+  },
+  "not_word_step_5": {
+    "message": "またはword storeの使用"
+  },
+  "tooltip_to_review": {
+    "message": "以前にプレーした"
+  },
+  "tooltip_new_word": {
+    "message": "プレーしたことがない"
+  },
+  "tooltip_your_xp": {
+    "message": "このゲームの合計XP。計算方法"
+  },
+  "tooltip_revised_word_line_1": {
+    "message": "単語のレビューが完了すると、ここに得点と共に表示されます。"
+  },
+  "tooltip_revised_word_line_2": {
+    "message": "得点はこのゲームでの流暢さを表します。"
+  },
+  "tooltip_active_wordbook": {
+    "message": "単語帳を選択してください"
+  },
+  "tooltip_create_wordbook": {
+    "message": "新しい単語帳の作成"
+  },
+  "tooltip_setting_wordbook": {
+    "message": "単語帳の設定"
+  },
+  "tooltip_setting": {
+    "message": "eJOYの表示方法を変更"
+  },
+  "tooltip_loop_up": {
+    "message": "単語/フレーズの検索"
+  },
+  "tooltip_game_center": {
+    "message": "単語でゲームをプレー"
+  },
+  "Weekly_status": {
+    "message": "週ごとのステータス"
+  },
+  "I_want_to_play_with": {
+    "message": "以下でのプレーを希望"
+  },
+  "tooltip_toggle_star": {
+    "message": "重要としてマーク"
+  },
+  "tooltip_refresh_word": {
+    "message": "もう一度レビュー"
+  },
+  "tooltip_exclusive_word": {
+    "message": "リストから削除"
+  },
+  "tooltip_review": {
+    "message": "レビューの数"
+  },
+  "tooltip_difficulty": {
+    "message": "この単語を懸命に学んだ度合い"
+  },
+  "tooltip_fluency": {
+    "message": "この単語の使用における流暢さ"
+  },
+  "Edit": {
+    "message": "編集"
+  },
+  "EOF": {
+    "message": "削除"
+  },
+  "Helps": {
+    "message": "ヘルプ"
+  },
+  "Tutorial": {
+    "message": "チュートリアル"
+  },
+  "Rate_me_on_Chrome_Store": {
+    "message": "Chrome Storeで評価してください"
+  },
+  "eGo": {
+    "message": "eJOY Go"
+  },
+  "no_word": {
+    "message": "プレーできる単語がありません"
+  },
+  "delete_wordbook": {
+    "message": "この単語帳を本当に削除しますか?"
+  },
+  "wordbook_is_exist": {
+    "message": "名称は固有でなければなりません"
+  },
+  "Word_link": {
+    "message": "単語リンク"
+  },
+  "Tools": {
+    "message": "ツール"
+  },
+  "Resize_image": {
+    "message": "画像のサイズ変更"
+  },
+  "notify_create_wb_success": {
+    "message": "単語帳#{0}が作成されました。"
+  },
+  "Not_fair": {
+    "message": "適切ではありません!"
+  },
+  "Not_fair_desc": {
+    "message": "時間が無効です。"
+  },
+  "Upload_image": {
+    "message": "画像のアップロード"
+  },
+  "Subscription_will_renew_on": {
+    "message": "以下でサブスクリプションの更新"
+  },
+  "ask_like_me": {
+    "message": "ゲームで英語の語彙を学習するのが本当に好きですね？"
+  },
+  "noti_rate_me": {
+    "message": "eJOYをもっと素晴らしくするために5つ星で評価してください。"
+  },
+  "feedback_ask": {
+    "message": "改善のためにフィードバックを頂けますか?"
+  },
+  "Not_yet": {
+    "message": "まだ"
+  },
+  "I_like_it": {
+    "message": "I like it"
+  },
+  "Ok_5_stars": {
+    "message": "Ok, 5 stars"
+  },
+  "Not_now": {
+    "message": "今はしない"
+  },
+  "Submit": {
+    "message": "提出"
+  },
+  "I_want_to": {
+    "message": "私は以下をしたい..."
+  },
+  "eJoy_extension": {
+    "message": "eJOYはちょうどアップデートした所です"
+  },
+  "diff_time": {
+    "message": "時差"
+  },
+  "diff_time_noti": {
+    "message": "なんということでしょう!あなたのシステム時間はあなたの地域の時間と異なるようです。変更して下さい!"
+  },
+  "notify_missing_charater": {
+    "message": "入力方式を英語に変更してください"
+  },
+  "you_choose": {
+    "message": "選択"
+  },
+  "word_from": {
+    "message": "以下からの単語"
+  },
+  "select_terms_to_play": {
+    "message": "ゲームをプレーするために単語を選択してください"
+  },
+  "max": {
+    "message": "max"
+  },
+  "desc_play_game_without_word": {
+    "message": "すべての単語の復習が完了しました。更にゲームをプレーすれば更に復習できますが、得点は加算されません。"
+  },
+  "auto_pronunciation": {
+    "message": "自動発音"
+  },
+  "correct_answers": {
+    "message": "正解"
+  },
+  "rearrange_the_block": {
+    "message": "ブロックの再編成"
+  },
+  "other": {
+    "message": "他"
+  },
+  "Auto_open_game_centre": {
+    "message": "game centreの自動オープン"
+  },
+  "tooltip_to_auto_desc": {
+    "message": "eJOYはブラウザを開いたときにGame centreを新しいタブで開きます"
+  },
+  "Cant_add_special_char": {
+    "message": "特別な文字を追加することはできません"
+  }
+}

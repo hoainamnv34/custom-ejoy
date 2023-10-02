@@ -1,0 +1,4199 @@
+{
+  "ext_description": {
+    "message": "Save 95% time of understanding English content by applying AI"
+  },
+  "Popup_Size": {
+    "message": "Popup size"
+  },
+  "Default_Wordbook": {
+    "message": "Add to Wordbook"
+  },
+  "Translate_from": {
+    "message": "Translate from"
+  },
+  "Translate_to": {
+    "message": "Translate to"
+  },
+  "Popup_Setting": {
+    "message": "Popup setting"
+  },
+  "Immediately_Display": {
+    "message": "Immediately Display"
+  },
+  "Display_Icon": {
+    "message": "Display Icon"
+  },
+  "Dont_Display": {
+    "message": "Don't Display"
+  },
+  "Wordbooks": {
+    "message": "Wordbooks"
+  },
+  "Your_account_is": {
+    "message": "Your account is"
+  },
+  "Basic": {
+    "message": "Basic"
+  },
+  "Pro": {
+    "message": "Pro"
+  },
+  "words_left_to_save": {
+    "message": "words left to save in this month"
+  },
+  "Go_PRO_now": {
+    "message": "Go PRO"
+  },
+  "Basic_account": {
+    "message": "Basic account"
+  },
+  "word_defined_today": {
+    "message": "words defined today"
+  },
+  "word_added_today": {
+    "message": "words added today"
+  },
+  "Log_out": {
+    "message": "Log out"
+  },
+  "Connect_with_us_via": {
+    "message": "Connect with us via"
+  },
+  "Account": {
+    "message": "Account"
+  },
+  "Feedback": {
+    "message": "Feedback"
+  },
+  "Email": {
+    "message": "Email"
+  },
+  "Your_feedback": {
+    "message": "Your feedback"
+  },
+  "Send_feedback": {
+    "message": "Send feedback"
+  },
+  "When_i_sellect_a_word_or_phase": {
+    "message": "When I select a word or phrase"
+  },
+  "Display_icon_describe": {
+    "message": "Display icon that I can click to show popup"
+  },
+  "display_lang": {
+    "message": "Display lang"
+  },
+  "Immediately_display_popup": {
+    "message": "Display popup immediately"
+  },
+  "Dont_display_icon_or_popup": {
+    "message": "Don't display icon or popup"
+  },
+  "Translation": {
+    "message": "Translation"
+  },
+  "Definition": {
+    "message": "Definition"
+  },
+  "Slang": {
+    "message": "Slang"
+  },
+  "sentence": {
+    "message": "most common"
+  },
+  "noun": {
+    "message": "noun"
+  },
+  "adjective": {
+    "message": "adjective"
+  },
+  "pronoun": {
+    "message": "pronoun"
+  },
+  "verb": {
+    "message": "verb"
+  },
+  "adverb": {
+    "message": "adverb"
+  },
+  "auxiliary_verb": {
+    "message": "auxiliary verb"
+  },
+  "preposition": {
+    "message": "preposition"
+  },
+  "conjunction": {
+    "message": "conjunction"
+  },
+  "Limited": {
+    "message": "Limited"
+  },
+  "Go_PRO_Alert": {
+    "message": "Hmm...You have reached your limit. Upgrade to PRO to remove all limits."
+  },
+  "Buy_pro": {
+    "message": "Buy PRO"
+  },
+  "Go_Login": {
+    "message": "Login"
+  },
+  "Login_Require_Alert": {
+    "message": "Please login first to save this word!"
+  },
+  "Login_please": {
+    "message": "Login please!"
+  },
+  "syncing_content": {
+    "message": "Please wait while your data is syncing."
+  },
+  "Ooops": {
+    "message": "Oops!!!"
+  },
+  "Cant_Define_Alert": {
+    "message": "No exact match found."
+  },
+  "Dont_have_an_account": {
+    "message": "Don't have an account?"
+  },
+  "Signin": {
+    "message": "Sign in"
+  },
+  "Signup": {
+    "message": "Sign up"
+  },
+  "feedback_footer_info": {
+    "message": "One eJOY account can be used cross-platforms."
+  },
+  "Thanks_for_your_feedback": {
+    "message": "Thanks for your feedback!"
+  },
+  "We_will_reply_soon": {
+    "message": "We will reply soon."
+  },
+  "Back": {
+    "message": "Back"
+  },
+  "About_us": {
+    "message": "About us"
+  },
+  "Key_shortcuts": {
+    "message": "Shortcut keys"
+  },
+  "Next_sentence": {
+    "message": "Next sentence"
+  },
+  "Prev_sentence": {
+    "message": "Prev sentence"
+  },
+  "Turn_on_off_substitle": {
+    "message": "Turn on/off subtitles"
+  },
+  "Next": {
+    "message": "Next"
+  },
+  "Prev": {
+    "message": "Prev"
+  },
+  "seconds": {
+    "message": "seconds"
+  },
+  "Play_pause": {
+    "message": "Play/pause"
+  },
+  "About_us_content": {
+    "message": "Enjoy using eJOY? Please take a moment to rate us on the"
+  },
+  "Chrome_Web_Store": {
+    "message": "Chrome Web Store"
+  },
+  "Thank_you": {
+    "message": "Thank you"
+  },
+  "eJOY_English_for_Netflix": {
+    "message": "eJOY English for Netflix"
+  },
+  "Setting": {
+    "message": "Setting"
+  },
+  "Look_up": {
+    "message": "Look up"
+  },
+  "Login": {
+    "message": "Login"
+  },
+  "Text_to_translate": {
+    "message": "Type to look up"
+  },
+  "more": {
+    "message": "more"
+  },
+  "Close": {
+    "message": "Close"
+  },
+  "Add": {
+    "message": "Add"
+  },
+  "Added": {
+    "message": "Added"
+  },
+  "Add_to_wordbook": {
+    "message": "Add to wordbook"
+  },
+  "Speak": {
+    "message": "Speak"
+  },
+  "You_need_LOGIN_first": {
+    "message": "You need to login first"
+  },
+  "Error": {
+    "message": "Error"
+  },
+  "Err_Not_PRO": {
+    "message": "You are using a Basic account. Upgrade to PRO account to add more words."
+  },
+  "Successful": {
+    "message": "Successful"
+  },
+  "Login_Successfully": {
+    "message": "Login Successfully"
+  },
+  "unknown": {
+    "message": "N/A"
+  },
+  "Game_home": {
+    "message": "Game Center"
+  },
+  "time_left": {
+    "message": "hours left to complete"
+  },
+  "Daily_goal": {
+    "message": "Daily goal"
+  },
+  "days": {
+    "message": "days"
+  },
+  "word_added": {
+    "message": "Words added"
+  },
+  "Type_what_you_can_hear": {
+    "message": "Type what you hear"
+  },
+  "write_in_here": {
+    "message": "write here"
+  },
+  "Try_again": {
+    "message": "Try again"
+  },
+  "Done": {
+    "message": "Done"
+  },
+  "Show_hint": {
+    "message": "Show hint"
+  },
+  "word_info": {
+    "message": "word info"
+  },
+  "Correct_anwser": {
+    "message": "Correct answer"
+  },
+  "Correct_anwsers": {
+    "message": "Correct answers"
+  },
+  "Log_in": {
+    "message": "Log in"
+  },
+  "Sign_up": {
+    "message": "Sign up"
+  },
+  "login_desc": {
+    "message": "Login and play awesome games to learn English faster."
+  },
+  "Your_point": {
+    "message": "Your XP"
+  },
+  "revised_words": {
+    "message": "Revised words"
+  },
+  "Speed": {
+    "message": "Speed"
+  },
+  "Total_point": {
+    "message": "Total XP"
+  },
+  "SPOILER": {
+    "message": "SPOILER"
+  },
+  "I_want_to_play_agian": {
+    "message": "Play another game"
+  },
+  "day": {
+    "message": "day"
+  },
+  "streak": {
+    "message": "streak"
+  },
+  "More_words": {
+    "message": "More words"
+  },
+  "I_have_reviewed": {
+    "message": "I have reviewed"
+  },
+  "Balance": {
+    "message": "50/50"
+  },
+  "More_priority": {
+    "message": "More"
+  },
+  "new_words": {
+    "message": "new words"
+  },
+  "About_to_review": {
+    "message": ""
+  },
+  "words": {
+    "message": "words"
+  },
+  "word": {
+    "message": "word"
+  },
+  "need_reviewing": {
+    "message": "to review"
+  },
+  "not_word_for_play": {
+    "message": "Not enough words to play games! :-O"
+  },
+  "Start": {
+    "message": "Play"
+  },
+  "Change_the_word_priority": {
+    "message": "Word Preferences"
+  },
+  "reviewing": {
+    "message": "games"
+  },
+  "balance": {
+    "message": "50/50"
+  },
+  "review": {
+    "message": "review"
+  },
+  "difficulty": {
+    "message": "difficulty"
+  },
+  "fluency": {
+    "message": "fluency"
+  },
+  "Edit_Definition": {
+    "message": "Edit definition"
+  },
+  "Save": {
+    "message": "Save"
+  },
+  "OK": {
+    "message": "OK"
+  },
+  "delete_definition": {
+    "message": "Are you sure to delete this definition?"
+  },
+  "delete_term": {
+    "message": "Are you sure to delete this word?"
+  },
+  "reset_term": {
+    "message": "Are you sure you want to reset this word?"
+  },
+  "Wordbank": {
+    "message": "Wordbank"
+  },
+  "Word_store": {
+    "message": "Words Store"
+  },
+  "guess_word": {
+    "message": "Guess the word"
+  },
+  "Keyboard_shortcut": {
+    "message": "Keyboard shortcuts"
+  },
+  "mute": {
+    "message": "Mute"
+  },
+  "key_shortcut": {
+    "message": "Shortcut keys"
+  },
+  "Choose_option": {
+    "message": "Select an answer in Multiple choice"
+  },
+  "submit_anwsers_desc": {
+    "message": "Submit answer"
+  },
+  "replay_audio": {
+    "message": "Replay audio/video"
+  },
+  "show_hint": {
+    "message": "Show hint (Word contructor)"
+  },
+  "navigate_through_hint": {
+    "message": "To choose a hint (Word contructor)"
+  },
+  "Title": {
+    "message": "Title"
+  },
+  "Active_book": {
+    "message": "Active book"
+  },
+  "Wordbook_Cover": {
+    "message": "Wordbook's Cover"
+  },
+  "Exclude_from_daily_review": {
+    "message": "Exclude from daily challenge review"
+  },
+  "change": {
+    "message": "change"
+  },
+  "Upload": {
+    "message": "Upload"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "Dashboard": {
+    "message": "Dashboard"
+  },
+  "Tour_guide": {
+    "message": "Tour guide"
+  },
+  "Delete": {
+    "message": "Delete"
+  },
+  "Welcome_to": {
+    "message": "Welcome to"
+  },
+  "eJOY_Game_Center": {
+    "message": "eJOY Game Center"
+  },
+  "Play_now": {
+    "message": "Play now"
+  },
+  "to_review_today": {
+    "message": "to review today"
+  },
+  "notify_take_tour_title": {
+    "message": "Take the tour here whenever you want"
+  },
+  "I_got_it": {
+    "message": "Got it"
+  },
+  "I_got_it_tut": {
+    "message": "OK, I see"
+  },
+  "desc_sample_in_video": {
+    "message": "Look up word on"
+  },
+  "Start_tour": {
+    "message": "Start tour"
+  },
+  "Skip_tour": {
+    "message": "Skip tour"
+  },
+  "Let_us_show_you_a_tour_around": {
+    "message": "Let us show you around first"
+  },
+  "demo_desc_step_1": {
+    "message": "Click to get the meaning"
+  },
+  "demo_desc_step_2": {
+    "message": "Click to add words to your Wordbook"
+  },
+  "demo_desc_step_3": {
+    "message": "Click to add words on Youtube"
+  },
+  "demo_desc_step_4": {
+    "message": "Click to add words on Netflix"
+  },
+  "custom": {
+    "message": "Personalizar"
+  },
+  "demo_desc_step_5": {
+    "message": "Customize eJOY display and navigate to Game Center"
+  },
+  "demo_desc_step_6": {
+    "message": "Game Center helps you learn vocabulary in context. Let's try it!"
+  },
+  "demo_desc_step_7": {
+    "message": "You will play random games in Game Center."
+  },
+  "demo_desc_step_8": {
+    "message": "Add new words from videos on eJOY GO or from Words Store"
+  },
+  "How_to_add_more_words": {
+    "message": "How to add more words"
+  },
+  "Seem_so_empty_here": {
+    "message": "It looks so empty here."
+  },
+  "You_need_at_least_7_words_to_play_game": {
+    "message": ""
+  },
+  "Today_review": {
+    "message": "Today review"
+  },
+  "To_review": {
+    "message": "Previously reviewed"
+  },
+  "New_word": {
+    "message": "New words"
+  },
+  "slogan_eJOY": {
+    "message": "English immersion with JOY"
+  },
+  "Home": {
+    "message": "Home"
+  },
+  "Play_game": {
+    "message": "Play Game"
+  },
+  "Cant_deactive": {
+    "message": "Can't set inactive"
+  },
+  "Wordbook_Settings": {
+    "message": "Wordbook Settings"
+  },
+  "Create_Wordbook": {
+    "message": "Create a new wordbook"
+  },
+  "You_must_start_with_letter": {
+    "message": "You must start with a letter"
+  },
+  "Remove_special_character": {
+    "message": "Remove all spaces and special characters except the_underline."
+  },
+  "From_3_to_50_letter": {
+    "message": "From 3-50 characters"
+  },
+  "Streak": {
+    "message": "Streak"
+  },
+  "Mastered": {
+    "message": "Mastered"
+  },
+  "Mo": {
+    "message": "Mo"
+  },
+  "Tu": {
+    "message": "Tu"
+  },
+  "We": {
+    "message": "We"
+  },
+  "Th": {
+    "message": "Th"
+  },
+  "Fr": {
+    "message": "Fr"
+  },
+  "Sa": {
+    "message": "Sa"
+  },
+  "Su": {
+    "message": "Su"
+  },
+  "Ranking": {
+    "message": "Ranking"
+  },
+  "Crop_image": {
+    "message": "Crop image"
+  },
+  "Preview": {
+    "message": "Preview"
+  },
+  "Crop": {
+    "message": "Crop"
+  },
+  "Wordbook_list": {
+    "message": "Wordbook list"
+  },
+  "Next_review_in": {
+    "message": "Next review in"
+  },
+  "Not_studied_yet": {
+    "message": "Not studied yet"
+  },
+  "Next_review_is_NOW": {
+    "message": "Next review is NOW"
+  },
+  "version": {
+    "message": "Version"
+  },
+  "In_progress": {
+    "message": "Learning"
+  },
+  "xp": {
+    "message": "XP"
+  },
+  "no_word_to_review": {
+    "message": "There's no word to review."
+  },
+  "no_new_word": {
+    "message": "There's no new word"
+  },
+  "Popular_word_note": {
+    "message": "Popular word in daily use and exams."
+  },
+  "Goal_Setting": {
+    "message": "Goal Setting"
+  },
+  "Goal_Setting_desc": {
+    "message": "Set a daily goal - reach your goal every day to win bonuses!"
+  },
+  "Your_Time_Zone": {
+    "message": "Your Time Zone"
+  },
+  "min": {
+    "message": "min"
+  },
+  "tooltip_to_review": {
+    "message": "Have been played before"
+  },
+  "tooltip_new_word": {
+    "message": "Never played before"
+  },
+  "tooltip_your_xp": {
+    "message": "Your total XP for this game. How to calculate"
+  },
+  "tooltip_revised_word_line_1": {
+    "message": "When you complete reviewing a word, it will display here with points."
+  },
+  "tooltip_revised_word_line_2": {
+    "message": "Points show your word fluency in this game."
+  },
+  "tooltip_active_wordbook": {
+    "message": "Choose a word book"
+  },
+  "tooltip_create_wordbook": {
+    "message": "Create a new word book"
+  },
+  "tooltip_setting_wordbook": {
+    "message": "Wordbook setting"
+  },
+  "tooltip_setting": {
+    "message": "Change how eJOY displays"
+  },
+  "tooltip_loop_up": {
+    "message": "Look up a word/ phrase"
+  },
+  "tooltip_game_center": {
+    "message": "Play game with words"
+  },
+  "Weekly_status": {
+    "message": "Weekly status"
+  },
+  "I_want_to_play_with": {
+    "message": "I want to play with"
+  },
+  "tooltip_toggle_star": {
+    "message": "Mark as important"
+  },
+  "tooltip_refresh_word": {
+    "message": "Review again"
+  },
+  "tooltip_exclusive_word": {
+    "message": "Remove from list"
+  },
+  "tooltip_review": {
+    "message": "Number of reviews"
+  },
+  "tooltip_difficulty": {
+    "message": "How hard you study this word"
+  },
+  "tooltip_fluency": {
+    "message": "How fluently you use this word"
+  },
+  "Edit": {
+    "message": "Edit"
+  },
+  "EOF": {
+    "message": "Delete"
+  },
+  "Helps": {
+    "message": "Helps"
+  },
+  "Help": {
+    "message": "Help"
+  },
+  "Tutorial": {
+    "message": "Tutorial"
+  },
+  "Rate_me_on_Chrome_Store": {
+    "message": "Rate me on Chrome Store"
+  },
+  "eGo": {
+    "message": "eJOY Go"
+  },
+  "no_word": {
+    "message": "There's no word to play"
+  },
+  "wordbook_is_exist": {
+    "message": "Name must be unique"
+  },
+  "Word_link": {
+    "message": "Word link"
+  },
+  "Tools": {
+    "message": "Tools"
+  },
+  "Resize_image": {
+    "message": "Resize image"
+  },
+  "notify_create_wb_success": {
+    "message": "Word book #{0} has been created."
+  },
+  "Not_fair": {
+    "message": "Not fair!"
+  },
+  "Not_fair_desc": {
+    "message": "Your time is invalid."
+  },
+  "Upload_image": {
+    "message": "Upload image"
+  },
+  "Subscription_will_renew_on": {
+    "message": "Subscription will renew on"
+  },
+  "ask_like_me": {
+    "message": "You really like learning English vocabulary with games, don't you?"
+  },
+  "noti_rate_me": {
+    "message": "Rate us 5-star to help make eJOY even more awesome."
+  },
+  "feedback_ask": {
+    "message": "Would you mind giving us some feedback so we can do better next time?"
+  },
+  "Not_yet": {
+    "message": "Not yet"
+  },
+  "I_like_it": {
+    "message": "I like it"
+  },
+  "Ok_5_stars": {
+    "message": "Ok, 5 stars"
+  },
+  "Not_now": {
+    "message": "Not now"
+  },
+  "Submit": {
+    "message": "Submit"
+  },
+  "Submit_option": {
+    "message": "Submit"
+  },
+  "I_want_to": {
+    "message": "I want to..."
+  },
+  "eJoy_extension": {
+    "message": "eJOY's just got an update for you"
+  },
+  "diff_time": {
+    "message": "Time Difference"
+  },
+  "diff_time_noti": {
+    "message": "OMG! Your SYSTEM time is different from your LOCAL time so far. Please change it!"
+  },
+  "notify_missing_charater": {
+    "message": "Please change your keyboard to English"
+  },
+  "you_choose": {
+    "message": "You choose"
+  },
+  "word_from": {
+    "message": "Word from"
+  },
+  "select_terms_to_play": {
+    "message": "Select words to play game"
+  },
+  "max": {
+    "message": "max"
+  },
+  "desc_play_game_without_word": {
+    "message": "No words need to be reviewed today. You can play games to remember more. However, no more points will be added for this session."
+  },
+  "desc_play_game_without_word_in_home": {
+    "message": "You’ve finished revising all the words. Play more games for further revision, but no more points will be added."
+  },
+  "auto_pronunciation": {
+    "message": "Auto pronunciation"
+  },
+  "correct_answers": {
+    "message": "Correct answers"
+  },
+  "rearrange_the_block": {
+    "message": "Rearrange the block"
+  },
+  "other": {
+    "message": "other"
+  },
+  "other_ai": {
+    "message": "other"
+  },
+  "Auto_open_game_centre": {
+    "message": "Auto-open game centre"
+  },
+  "tooltip_to_auto_desc": {
+    "message": "eJOY will open Game centre in new tab when you open browser"
+  },
+  "Ends_at": {
+    "message": "Ends at"
+  },
+  "days_left": {
+    "message": "days left"
+  },
+  "pro_acc": {
+    "message": "PRO ACCOUNT"
+  },
+  "free_added_word_per_month": {
+    "message": "free added word/month"
+  },
+  "Upgrade_now": {
+    "message": "Upgrade now"
+  },
+  "Extend_premium": {
+    "message": "Extend premium"
+  },
+  "Account_setting": {
+    "message": "Account setting"
+  },
+  "Synced": {
+    "message": "Synced"
+  },
+  "Syncing": {
+    "message": "Syncing"
+  },
+  "Sync": {
+    "message": "Sync"
+  },
+  "done": {
+    "message": "Done"
+  },
+  "Movie_Training": {
+    "message": "Movie Training"
+  },
+  "Sync_time": {
+    "message": "Sync time"
+  },
+  "realtime": {
+    "message": "realtime"
+  },
+  "show_definition": {
+    "message": "Show definition first"
+  },
+  "text_desc_sync": {
+    "message": "Syncing! It may take a few minutes"
+  },
+  "When_i_active_pronun": {
+    "message": "When I select a word or phrase"
+  },
+  "Active": {
+    "message": "Active"
+  },
+  "active_pronun_describe": {
+    "message": "Automatically pronounce the word/ phrase"
+  },
+  "de_active": {
+    "message": "Deactivate"
+  },
+  "de_active_pronun_describe": {
+    "message": "Don't pronounce the word/ phrase until I click the sound icon"
+  },
+  "When_show_definition": {
+    "message": "When I select a word or phrase"
+  },
+  "active_definition_describe": {
+    "message": "Show definitions as default"
+  },
+  "de_active_definition_describe": {
+    "message": "Show translations as default"
+  },
+  "report": {
+    "message": "report"
+  },
+  "success": {
+    "message": "success"
+  },
+  "report_success": {
+    "message": "Thank you for reporting errors in the video to us"
+  },
+  "Pausing_game": {
+    "message": "Paused"
+  },
+  "Resume_game": {
+    "message": "Resume"
+  },
+  "Play_with_speaking_games": {
+    "message": "Play with speaking games"
+  },
+  "Speak_the_sentence": {
+    "message": "Speak the sentence"
+  },
+  "Speak_the_word": {
+    "message": "Speak the word"
+  },
+  "skip": {
+    "message": "Skip"
+  },
+  "Speak_now": {
+    "message": "Speak now"
+  },
+  "fill_in_the_blank": {
+    "message": "Fill in the blank"
+  },
+  "tooltip_to_speaking_desc": {
+    "message": "Full sentence: Speak a full sentence."
+  },
+  "tooltip_to_one_word_desc": {
+    "message": "One word: Speak the new word only."
+  },
+  "Full_sentence": {
+    "message": "Full sentence"
+  },
+  "One_word": {
+    "message": "One word"
+  },
+  "No_browser_support": {
+    "message": "Your browser is not supported."
+  },
+  "Permission_desc": {
+    "message": "Please enable the mic by following the instruction below."
+  },
+  "Permission_is_blocked": {
+    "message": "Can't access the microphone."
+  },
+  "Please_download_the_latest_chrome": {
+    "message": "Please update to the latest browser."
+  },
+  "Speaking_game": {
+    "message": "Speaking game"
+  },
+  "tooltip_swap_word": {
+    "message": "Copy / Move to other word books"
+  },
+  "add_word": {
+    "message": "Add"
+  },
+  "add_wordbook_title_popup": {
+    "message": "Add to wordbook"
+  },
+  "holder_search": {
+    "message": "Search"
+  },
+  "sort_by": {
+    "message": "sort by"
+  },
+  "Name": {
+    "message": "A-Z"
+  },
+  "Date_modified": {
+    "message": "Date modified"
+  },
+  "Date_created": {
+    "message": "Date created"
+  },
+  "Status": {
+    "message": "Learning status"
+  },
+  "New_wordbook": {
+    "message": "New wordbook"
+  },
+  "Word_Bank": {
+    "message": "Word Bank"
+  },
+  "translate": {
+    "message": "Translate"
+  },
+  "inlineTranslate": {
+    "message": "Inline translations (Alt + select)"
+  },
+  "popup": {
+    "message": "eJOY Popup"
+  },
+  "filter_by": {
+    "message": "Filter by"
+  },
+  "advTranslator": {
+    "message": "Advanced translation"
+  },
+  "inlineTranslator": {
+    "message": "Inline translations"
+  },
+  "definition": {
+    "message": "Definition"
+  },
+  "slang": {
+    "message": "Slang"
+  },
+  "definition_setting": {
+    "message": "Definition first"
+  },
+  "on": {
+    "message": "On"
+  },
+  "off": {
+    "message": "Off"
+  },
+  "Translation_history": {
+    "message": "Translations history"
+  },
+  "wordstore": {
+    "message": "Wordstore"
+  },
+  "My_wordbank": {
+    "message": "My wordbank"
+  },
+  "history": {
+    "message": "History"
+  },
+  "Source_text": {
+    "message": "Source text"
+  },
+  "google": {
+    "message": "Google"
+  },
+  "microsoft": {
+    "message": "Microsoft"
+  },
+  "tooltipTranslateSentence": {
+    "message": "Sentence by sentence"
+  },
+  "link": {
+    "message": "Text source"
+  },
+  "delete": {
+    "message": "Delete"
+  },
+  "Dictionary": {
+    "message": "Dictionary"
+  },
+  "Copied": {
+    "message": "Copied"
+  },
+  "ipa": {
+    "message": "IPA"
+  },
+  "tooltip_sayit": {
+    "message": "Click to view all videos that contain the selected text"
+  },
+  "tooltip_icon_plus": {
+    "message": "Add your own definition for the text"
+  },
+  "tooltip_adv_trans": {
+    "message": "Open Advanced Translation browser"
+  },
+  "tooltip_play_game": {
+    "message": "Number of words to be reviewed"
+  },
+  "tooltip_speeking": {
+    "message": "Turn on/ off speaking games"
+  },
+  "tooltip_review_word": {
+    "message": "View words list"
+  },
+  "tooltip_point_value": {
+    "message": "Points you have up till now."
+  },
+  "tooltip_point_total": {
+    "message": "Points needed to get to the next level."
+  },
+  "tooltip_streak_icon": {
+    "message": "Number of continuous days you have completed your goal"
+  },
+  "tooltip_word_icon": {
+    "message": "Number of added words"
+  },
+  "tooltip_master_icon": {
+    "message": "Number of mastered words"
+  },
+  "tooltip_review_word_detail": {
+    "message": "View the words list in this session"
+  },
+  "tooltip_priority": {
+    "message": "Change types of words that you want to play with"
+  },
+  "tooltip_word_progress_icon": {
+    "message": "Word's fluency:"
+  },
+  "tooltip_status_text_New_word": {
+    "message": "Number of new words."
+  },
+  "tooltip_status_text_need_reviewing": {
+    "message": "Number of words that need to be reviewed today."
+  },
+  "tooltip_status_text_In_progress": {
+    "message": "Number of words that you have been learning."
+  },
+  "tooltip_status_text_Mastered": {
+    "message": "Number of mastered words (Fluency 100%)."
+  },
+  "tooltip_status_wb1_title": {
+    "message": "What is an active book?"
+  },
+  "tooltip_status_wb1_content": {
+    "message": "An activebook is the default wordbook where you add new words to."
+  },
+  "tooltip_status_wb2_title": {
+    "message": "How to create a new wordbook?"
+  },
+  "tooltip_status_wb2_content1": {
+    "message": "On Game Center screen, click “Dashboard”"
+  },
+  "tooltip_status_wb2_content2": {
+    "message": "Click “New wordbook”"
+  },
+  "tooltip_status_wb2_content21": {
+    "message": "to create"
+  },
+  "tooltip_status_wb3_title": {
+    "message": "How to set activebook."
+  },
+  "tooltip_status_wb3_content1": {
+    "message": "Choose the wordbook that you want to set as the activebook"
+  },
+  "tooltip_status_wb3_content2": {
+    "message": "Click “Setting”"
+  },
+  "tooltip_status_wb3_content3": {
+    "message": "Turn on the activebook"
+  },
+  "tooltip_status_wb4_title": {
+    "message": "How to copy/ move words to other word book."
+  },
+  "tooltip_status_wb4_content1": {
+    "message": "Click the word that you want to copy/remove"
+  },
+  "tooltip_status_wb4_content2": {
+    "message": "Click icon"
+  },
+  "tooltip_status_wb4_content3": {
+    "message": "Select the wordbooks you want to move/copy it to."
+  },
+  "tooltip_status_wb5_title": {
+    "message": "Search any word in wordbook."
+  },
+  "tooltip_status_wb6_title": {
+    "message": "Choose the word book that you want to delete."
+  },
+  "tooltip_status_wb6_content1": {
+    "message": "Click the word that you want to copy/remove"
+  },
+  "tooltip_status_wb7_title": {
+    "message": "Word Info."
+  },
+  "tooltip_status_wb7_content1": {
+    "message": "By understanding your study progress, you will plan your review better. eJOY provides 4 main types of info."
+  },
+  "tooltip_status_wb7_content2": {
+    "message": "Fluency: shows how well you have learnt this word in your Daily Challenge"
+  },
+  "tooltip_status_wb7_content3": {
+    "message": "The more correct answers you have and the faster you answer, the higher the fluency is."
+  },
+  "tooltip_status_wb7_content4": {
+    "message": "Difficulty: shows how hard you've studied this word. The more incorrect answers you gave in Daily Challenge, the more difficult the word is."
+  },
+  "tooltip_status_wb7_content5": {
+    "message": "Number of reviews: shows how many times you have reviewed the word."
+  },
+  "tooltip_status_wb7_content6": {
+    "message": "Word link: shows the word origin. Not all words will have word link information."
+  },
+  "tooltip_status_wb8_title": {
+    "message": "How to change the meaning of a word."
+  },
+  "tooltip_status_wb8_content1": {
+    "message": "Click a word/ phrase that you want to change its meaning word"
+  },
+  "tooltip_status_wb8_content2": {
+    "message": "Click “Edit”"
+  },
+  "tooltip_status_wb8_content21": {
+    "message": "to change its meaning"
+  },
+  "tooltip_status_wb8_content3": {
+    "message": "Click “Done“ to save"
+  },
+  "howToUse": {
+    "message": "How to use eJOY"
+  },
+  "howToUseAllFeatures": {
+    "message": "How to use eJOY"
+  },
+  "wordbook_title_tutorial": {
+    "message": "How to use Wordbook"
+  },
+  "source": {
+    "message": "Source"
+  },
+  "Full_Setting": {
+    "message": "Full Settings"
+  },
+  "General": {
+    "message": "General"
+  },
+  "New": {
+    "message": "New"
+  },
+  "translator": {
+    "message": "Translator"
+  },
+  "Favourit_and_Level": {
+    "message": "Topics, English level"
+  },
+  "Notify": {
+    "message": "Notification"
+  },
+  "set_language_desc": {
+    "message": "Language settings"
+  },
+  "language_source": {
+    "message": "Select source language"
+  },
+  "language_target": {
+    "message": "Select target language"
+  },
+  "color_inline": {
+    "message": "Display color"
+  },
+  "Input_color": {
+    "message": "Input color"
+  },
+  "Set_Color": {
+    "message": "Set Color (PRO only"
+  },
+  "Common_setting": {
+    "message": "General Settings"
+  },
+  "Favourite_And_Level_full": {
+    "message": "Favorite Topics & English Levels"
+  },
+  "Favourite_setting": {
+    "message": "Favorite Topics"
+  },
+  "Level_setting": {
+    "message": "English Level"
+  },
+  "Notify_setting": {
+    "message": "Notification Setting"
+  },
+  "Notify_Game": {
+    "message": "Notification"
+  },
+  "Auto_open_game_center": {
+    "message": "Auto open game center"
+  },
+  "Show_streak_notify": {
+    "message": "Display streak notification"
+  },
+  "pro_title_text": {
+    "message": "Please upgrade to PRO to use this feature"
+  },
+  "notify_change_level_and_topic": {
+    "message": "Topics & Level Changed Successfully"
+  },
+  "notify_change_lang": {
+    "message": "Language Changed successfully"
+  },
+  "save_color": {
+    "message": "Color Changed"
+  },
+  "general_successfully": {
+    "message": "General Setting Changed Successfully"
+  },
+  "Saved_successfully": {
+    "message": "Saved successfully"
+  },
+  "topic_and_level_desc": {
+    "message": "You will play games with videos that match your favorite topics and your English level"
+  },
+  "Phrasebook": {
+    "message": "Phrasebook"
+  },
+  "phrases": {
+    "message": "phrases"
+  },
+  "phrase": {
+    "message": "phrase"
+  },
+  "Cancel": {
+    "message": "Cancel"
+  },
+  "Clear": {
+    "message": "Clear"
+  },
+  "HighlightAndAdd": {
+    "message": "Highlight & Add"
+  },
+  "New_feature": {
+    "message": "New feature"
+  },
+  "desc_phrase_feature": {
+    "message": "Add and highlight phrases"
+  },
+  "max_text_to_add": {
+    "message": "Maximum text length"
+  },
+  "creasingly_irritated_by": {
+    "message": "creasingly irritated by"
+  },
+  "sources_who_have": {
+    "message": "sources that have"
+  },
+  "Select_text_to_highlight": {
+    "message": "Select text to highlight"
+  },
+  "How_to_add_more_phrase": {
+    "message": "Phrasebook is where you save"
+  },
+  "Your_long_text": {
+    "message": "your long text."
+  },
+  "learn_more": {
+    "message": "Learn more"
+  },
+  "Next_word": {
+    "message": "Next word"
+  },
+  "Start_playing": {
+    "message": "Start playing"
+  },
+  "ClickImageOrPress": {
+    "message": "Click Image Or Press"
+  },
+  "toFlip": {
+    "message": "to Flip"
+  },
+  "space": {
+    "message": "Space"
+  },
+  "Add_to": {
+    "message": "Add to"
+  },
+  "ReviewWord": {
+    "message": "Words in this session"
+  },
+  "Would_you_like_to_review_your_words_first": {
+    "message": "Would you like to review your words first?"
+  },
+  "Go_ahead": {
+    "message": "Go ahead"
+  },
+  "Game_start_in": {
+    "message": "Games start in"
+  },
+  "404": {
+    "message": "This account has been deleted"
+  },
+  "206": {
+    "message": "Log in failed. Please try again."
+  },
+  "endingIn": {
+    "message": "Ending in"
+  },
+  "titleOffer": {
+    "message": "You've worked hard"
+  },
+  "Get_offer_now": {
+    "message": "Get offer now"
+  },
+  "titleOfferPro1": {
+    "message": "YOUR SUBSCRIPTION WILL EXPIRE IN"
+  },
+  "titleOfferProZero": {
+    "message": "Oops, Your PRO account has expired.."
+  },
+  "DAYS": {
+    "message": "DAYS"
+  },
+  "DAY": {
+    "message": "DAY"
+  },
+  "We_have_pro": {
+    "message": "KEEP LEARNING WITH"
+  },
+  "We_have_pro_zero": {
+    "message": "KEEP STUDYING WITH SPECIAL DISCOUNT"
+  },
+  "We_have": {
+    "message": "We have"
+  },
+  "Access_your_deal_here": {
+    "message": "Grab your deal here"
+  },
+  "a": {
+    "message": "a"
+  },
+  "GIFT": {
+    "message": "GIFT"
+  },
+  "for_YOU": {
+    "message": "for YOU"
+  },
+  "speakAll": {
+    "message": "Read the whole sentence aloud"
+  },
+  "Go_PRO_title": {
+    "message": "You have reached your limit."
+  },
+  "Go_PRO": {
+    "message": "Buy eJOY PRO"
+  },
+  "title_go_pro": {
+    "message": "to get access to all eJOY features and products. As a Pro user you can:"
+  },
+  "name_item1": {
+    "message": "Save unlimited words"
+  },
+  "name_item2": {
+    "message": "Access to all EPIC lessons"
+  },
+  "name_item3": {
+    "message": "Connect unlimited YouTube videos"
+  },
+  "name_item4": {
+    "message": "Study offline on Mobile apps"
+  },
+  "tooltip_print_wordbook": {
+    "message": "Print wordbook"
+  },
+  "tooltip_import_wordbook": {
+    "message": "Import word"
+  },
+  "Last_review_date": {
+    "message": "Last review date"
+  },
+  "Mastered_words": {
+    "message": "Mastered words"
+  },
+  "Reviewed_words": {
+    "message": "Reviewed words"
+  },
+  "Trouble_words": {
+    "message": "Trouble words"
+  },
+  "Synnonym": {
+    "message": "Synonym"
+  },
+  "Example": {
+    "message": "Example"
+  },
+  "Collocation": {
+    "message": "Collocation"
+  },
+  "n_a": {
+    "message": "N/A"
+  },
+  "extremely_rare": {
+    "message": "Extremely rare"
+  },
+  "rare": {
+    "message": "Rare"
+  },
+  "uncommon": {
+    "message": "Uncommon"
+  },
+  "common": {
+    "message": "Common"
+  },
+  "essentials": {
+    "message": "Essentials"
+  },
+  "Popup_Adv_Setting": {
+    "message": "Advanced Translation settings"
+  },
+  "notEmpty": {
+    "message": "Definition can't be empty"
+  },
+  "edit_example": {
+    "message": "Edit example"
+  },
+  "game_sound_effect": {
+    "message": "Game sound effects"
+  },
+  "Play_games_with_video": {
+    "message": "Play games with video"
+  },
+  "name": {
+    "message": "A-Z"
+  },
+  "mp": {
+    "message": "Fluency"
+  },
+  "dateCreated": {
+    "message": "Date"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "eJOY_eXtension_title": {
+    "message": "eJOY eXtension"
+  },
+  "Personal_settings": {
+    "message": "Preferred Settings"
+  },
+  "Personal_settings_ai": {
+    "message": "Personal settings"
+  },
+  "Preferred_Target_language": {
+    "message": "Target language"
+  },
+  "Preferred_Native_language": {
+    "message": "Translation language"
+  },
+  "Preferred_speed": {
+    "message": "Preferred speed"
+  },
+  "Current_Target_language": {
+    "message": "Target language"
+  },
+  "Current_Native_language": {
+    "message": "Translation language"
+  },
+  "Subtitle": {
+    "message": "Subtitles"
+  },
+  "Blur_subtitle": {
+    "message": "Blur subtitles"
+  },
+  "Subtitles_size": {
+    "message": "Font size"
+  },
+  "Subtitles_type": {
+    "message": "Format"
+  },
+  "Subtitle_native": {
+    "message": "Subtitles"
+  },
+  "Blur_subtitle_native": {
+    "message": "Blur subtitles"
+  },
+  "Subtitles_size_native": {
+    "message": "Font size"
+  },
+  "Subtitles_type_native": {
+    "message": "Format"
+  },
+  "Show_Transliterations": {
+    "message": "Show phonetic transcription"
+  },
+  "Subtitles_size_text_top": {
+    "message": "Font size"
+  },
+  "Subtitles_type_text_top": {
+    "message": "Format"
+  },
+  "Subtitles_size_text_bot": {
+    "message": "Font size"
+  },
+  "Subtitles_type_text_bot": {
+    "message": "Format"
+  },
+  "Playback_speech": {
+    "message": "Speed"
+  },
+  "normal": {
+    "message": "Normal"
+  },
+  "Auto_Pause": {
+    "message": "Auto-Pause mode"
+  },
+  "Show_subtitle_after": {
+    "message": "Show subtitle after"
+  },
+  "auto_pause_hidden_sub": {
+    "message": "Delay subtitle"
+  },
+  "Pause_on_Mouse_hover": {
+    "message": "Pause on mouse hover over subtitle"
+  },
+  "On_Left_Click": {
+    "message": "On left click"
+  },
+  "On_Right_Click": {
+    "message": "On right click"
+  },
+  "Highlight_saved_words": {
+    "message": "Highlight saved words"
+  },
+  "copied": {
+    "message": "Copied"
+  },
+  "native_sub": {
+    "message": "Bottom subtitle"
+  },
+  "transliterate_top": {
+    "message": "Phonetic transcription"
+  },
+  "transliterate_bot": {
+    "message": "Quick lookup"
+  },
+  "subtiltes": {
+    "message": "Full Transcript"
+  },
+  "saved_items": {
+    "message": "Bookmarks"
+  },
+  "shot_cut_keys": {
+    "message": "Shortcut keys"
+  },
+  "Essential": {
+    "message": "Essentials"
+  },
+  "prev_time": {
+    "message": "Previous subtitle"
+  },
+  "Turn_on_off_core_ui_control": {
+    "message": "On/Off control bar"
+  },
+  "play_pause": {
+    "message": "Play/Pause"
+  },
+  "next_time": {
+    "message": "Next subtitle"
+  },
+  "toggle_playback_rate_favourite": {
+    "message": "Watch at preferred speed"
+  },
+  "Turn_on_off_blur_first_sub": {
+    "message": "On/Off blur top subtitle"
+  },
+  "playback_rate_add_0_1": {
+    "message": "Speed up 0.1x"
+  },
+  "Turn_on_off_auto_pause": {
+    "message": "On/Off Auto-pause mode"
+  },
+  "Turn_on_off_blur_second_sub": {
+    "message": "On/Off blur bottom subtitle"
+  },
+  "playback_rate_minus_0_1": {
+    "message": "Slow down 0.1x"
+  },
+  "Turn_on_off_site_bar_sub": {
+    "message": "Show/ Hide full subtitles"
+  },
+  "save_remove_bookmark": {
+    "message": "Save/ Remove bookmark"
+  },
+  "Turn_in_out_main_sub": {
+    "message": "Subtitle over/ below the screen"
+  },
+  "replay_sub": {
+    "message": "Repeat one subtitle"
+  },
+  "Show_close_bottom_sub": {
+    "message": "Subtitle over/ below the screen"
+  },
+  "copy_sub": {
+    "message": "Copy subtitle"
+  },
+  "translate_full_sub": {
+    "message": "Translate subtitle"
+  },
+  "none": {
+    "message": "None"
+  },
+  "romaji": {
+    "message": "Romaji"
+  },
+  "hiragana": {
+    "message": "Hiragana"
+  },
+  "target_sub": {
+    "message": "Top subtitle"
+  },
+  "audio_extension_bar": {
+    "message": "Audio"
+  },
+  "tooltip_audio_bar_extension": {
+    "message": "Audio"
+  },
+  "Show_control_bar": {
+    "message": "Show control bar"
+  },
+  "hide_control_bar": {
+    "message": "Hide control bar"
+  },
+  "copy_icon_tooltip": {
+    "message": "Copy this subtitle"
+  },
+  "save_bookmark_icon_tooltip": {
+    "message": "Save this subtitle"
+  },
+  "translate_icon_tooltip": {
+    "message": "Translate this subtitle"
+  },
+  "Preferred_Target_language_tooltip": {
+    "message": "Language you want to study"
+  },
+  "Preferred_Native_language_tooltip": {
+    "message": "Language you want to get translated to. This should be your native language/ mother tongue."
+  },
+  "Preferred_speed_tooltip": {
+    "message": "When you press the shortcut key [R] for preferred speed, the movie will be played at this speed. Press again, the movie will return to the previous speed."
+  },
+  "Current_Target_language_tooltip": {
+    "message": "This will be automatically set as your preferred target language. If Netflix doesn’t support the preferred language for the movie you are watching, you can change to other languages."
+  },
+  "Current_Native_language_tooltip": {
+    "message": "This will be automatically set as your preferred translation language. If Netflix support translating to this language, it'd be the bottom subtitle. Otherwise, it will be auto-translated when press (Alt + T) or (J)."
+  },
+  "Subtitle_tooltip": {
+    "message": "Turn On/Off subtitles"
+  },
+  "Blur_subtitle_tooltip": {
+    "message": "Blur/ not blur subtitles. For quick view, press W or N"
+  },
+  "Subtitles_size_tooltip": {
+    "message": "Choose a font size for subtitles"
+  },
+  "Subtitles_type_tooltip": {
+    "message": "Choose a format for subtitles"
+  },
+  "Subtitle_native_tooltip": {
+    "message": "Turn On/Off subtitles"
+  },
+  "Blur_subtitle_native_tooltip": {
+    "message": "Blur/ not blur subtitles. For quick view, press T or N"
+  },
+  "Subtitles_size_native_tooltip": {
+    "message": "Choose a font size for subtitles"
+  },
+  "Subtitles_type_native_tooltip": {
+    "message": "Choose a format for subtitles"
+  },
+  "phonetic_tooltip": {
+    "message": "Choose to show IPA (International Pronunciation Alphabet) on top of the main subtitles."
+  },
+  "phonetic_font_size_tooltip": {
+    "message": "Choose a font size for subtitles"
+  },
+  "phonetic_font_type_tooltip": {
+    "message": "Choose a format for subtitles"
+  },
+  "quick_lookUp_font_size_tooltip": {
+    "message": "Choose a font size for machine translation"
+  },
+  "quick_lookUp_font_type_tooltip": {
+    "message": "Choose a format for machine translation"
+  },
+  "Other_Settings": {
+    "message": "Other Settings"
+  },
+  "Playback_speech_tooltip": {
+    "message": "Choose video speed"
+  },
+  "Pause_on_Mouse_hover_tooltip": {
+    "message": "Movie will be paused when mouse hovers over the subtitles."
+  },
+  "Auto_Pause_tooltip": {
+    "message": "Press Alt + Shift + P to turn On/Off Auto-Pause mode. In this mode, you watch a scene with or without subtitles, then it's automatically paused for you to read sub. You press Space to watch next."
+  },
+  "Show_subtitle_after_tooltip": {
+    "message": "After this period of time, subtitle will be shown."
+  },
+  "auto_pause_hidden_sub_tooltip": {
+    "message": "When ticked, subtitle will be hidden when you watch movie, then it will be shown while movie is paused."
+  },
+  "Preview_Sub": {
+    "message": "Preview Sub"
+  },
+  "target_sub_title_tooltip": {
+    "message": "Settings for subtitle on top. This subtitle is in Target language."
+  },
+  "native_sub_title_tooltip": {
+    "message": " Settings for subtitle at the bottom. This subtitle is in Translation language."
+  },
+  "phonetic_title_tooltip": {
+    "message": "Settings for phonetic transcription. You can turn on IPA for the main subtitles in English."
+  },
+  "quick_loopup_title_tooltip": {
+    "message": "Settings for quick lookup."
+  },
+  "Auto_scroll": {
+    "message": "Auto scroll"
+  },
+  "speak": {
+    "message": "Speak"
+  },
+  "speed": {
+    "message": "Speed"
+  },
+  "ccPanel": {
+    "message": "CC Panel & Highlight"
+  },
+  "text_read_selection_menu": {
+    "message": "Read Selection"
+  },
+  "free_voice": {
+    "message": "Free"
+  },
+  "preview_voice": {
+    "message": "Preview Voice"
+  },
+  "voice_speed": {
+    "message": "Voice Speed"
+  },
+  "preview_speed": {
+    "message": "Preview Speed"
+  },
+  "text_cc_panel": {
+    "message": "CC Panel"
+  },
+  "text_read_bar": {
+    "message": "Follow along with the speaker using closed captions in the reading bar"
+  },
+  "text_show_cc_above_read_bar": {
+    "message": "Show CC panel above the reading bar"
+  },
+  "text_show_cc_read_bar": {
+    "message": "Show CC panel in the reading bar"
+  },
+  "text_no_show_cc_read_bar": {
+    "message": "Don't show CC panel"
+  },
+  "text_text_highlight_desc": {
+    "message": "Highlight sentences, words as they are being read aloud"
+  },
+  "text_sentence_word": {
+    "message": "Sentence and word"
+  },
+  "text_sentence_only": {
+    "message": "Sentence only"
+  },
+  "text_word_only": {
+    "message": "Word only"
+  },
+  "text_none": {
+    "message": "None"
+  },
+  "text_highlight_color": {
+    "message": "Highlight Color"
+  },
+  "text_color_light": {
+    "message": "North Pole"
+  },
+  "text_color_dark": {
+    "message": "Capuccino"
+  },
+  "text_color_ice": {
+    "message": "Space"
+  },
+  "text_color_warm": {
+    "message": "Spring"
+  },
+  "text_dyslexia_fonts": {
+    "message": "Dyslexia Fonts"
+  },
+  "text_dyslexia_fonts_desc": {
+    "message": "Applies to CC Panel and may help making reading easier for some with difficulties"
+  },
+  "text_auto_scroll_setting": {
+    "message": "Auto-Scroll"
+  },
+  "text_auto_scroll_setting_desc": {
+    "message": "Automatically scroll down the webpage to follow along with text being read"
+  },
+  "text_select_text_and_read": {
+    "message": "Select text and click on the Read Selection icon to read aloud"
+  },
+  "text_show_read_icon": {
+    "message": "Show Read Selection Icon"
+  },
+  "text_only_when_selected": {
+    "message": "only when select text is more than…"
+  },
+  "text_10_char": {
+    "message": "10 characters"
+  },
+  "text_20_char": {
+    "message": "20 characters"
+  },
+  "text_40_char": {
+    "message": "40 characters"
+  },
+  "text_60_char": {
+    "message": "60 characters"
+  },
+  "text_80_char": {
+    "message": "80 characters"
+  },
+  "text_100_char": {
+    "message": "100 characters"
+  },
+  "text_characters": {
+    "message": "characters"
+  },
+  "text_read_selection_options": {
+    "message": "Other Read Selection Options"
+  },
+  "text_when_using_read_selection": {
+    "message": "When using Read Selection…"
+  },
+  "text_read_to_page_end": {
+    "message": "Read to page end"
+  },
+  "text_only_read_selected": {
+    "message": "Read the selected text only"
+  },
+  "readFromContextMenu": {
+    "message": "Read from here"
+  },
+  "stopReaderTooltip": {
+    "message": "Stop/Reset"
+  },
+  "readingSpeedTooltip": {
+    "message": "Reading speed"
+  },
+  "previousSentenceTooltip": {
+    "message": "Previous sentence"
+  },
+  "nextSentenceTooltip": {
+    "message": "Next sentence"
+  },
+  "settingTooltip": {
+    "message": "Setting"
+  },
+  "switchControlBarTooltip": {
+    "message": "Switch Control Bar"
+  },
+  "zoomInTooltip": {
+    "message": "Zoom in Control Bar"
+  },
+  "text_edit_hotkey": {
+    "message": "Edit the shortcut keys to read, pause, read previous or next, toggle showing the Read Selection icon, and to switch between speaker presets."
+  },
+  "text_click_edit_hot_key": {
+    "message": "Click "
+  },
+  "text_edit_hot_key": {
+    "message": "Edit shortcut keys’"
+  },
+  "text_shortcut_setting": {
+    "message": "to view or change shortcut settings."
+  },
+  "hotkeys": {
+    "message": "Edit shortcut keys"
+  },
+  "text_hotkey_menu": {
+    "message": "Shortcut keys"
+  },
+  "text_hot_key_change_speaker": {
+    "message": "Shortcut keys to change Speakers"
+  },
+  "text_pressing": {
+    "message": "Pressing the "
+  },
+  "text_speaker_preset": {
+    "message": "‘Speaker’"
+  },
+  "text_hot_key_cycle": {
+    "message": " shortcut key will cycle through the 2 presets you enter below"
+  },
+  "text_first_choice_speaker": {
+    "message": "1. First Choice:"
+  },
+  "text_second_choice_speaker": {
+    "message": "2. Second Choice:"
+  },
+  "free_voice_preset": {
+    "message": "Free Voice: "
+  },
+  "premium_voice_preset": {
+    "message": "Premium Voice: "
+  },
+  "plus_voice_preset": {
+    "message": "Plus Voice: "
+  },
+  "text_hot_key_setting": {
+    "message": "Hotkeys"
+  },
+  "Auto_Pause_in_home": {
+    "message": "Auto-Pause"
+  },
+  "Reveal_sub": {
+    "message": "Reveal subtitle"
+  },
+  "Reveal_sub_bottom": {
+    "message": "Quick view bottom sub"
+  },
+  "Reveal_sub_top": {
+    "message": "Quick view top sub"
+  },
+  "Reveal_sub_both": {
+    "message": "Quick view top & bottom sub"
+  },
+  "Show_part_of_speech": {
+    "message": "Part of speech"
+  },
+  "Auto_pronounce": {
+    "message": "Auto pronouncing"
+  },
+  "quick_lookUp_POS_tooltip": {
+    "message": "Show part of speech of a word on mouse hover "
+  },
+  "quick_lookUp_auto_proun_tooltip": {
+    "message": "Auto pronounce the word on mouse hover"
+  },
+  "Current_settings": {
+    "message": "Current Movie Settings"
+  },
+  "listening_title_short_cut": {
+    "message": "Listening"
+  },
+  "select_sub_from_left": {
+    "message": "Select word from the left"
+  },
+  "select_sub_from_right": {
+    "message": "Select word from the right"
+  },
+  "open_trans_sub": {
+    "message": "Open dictionary popup"
+  },
+  "on_off_auto_pronounce": {
+    "message": "On/ Off auto pronouncing"
+  },
+  "on_off_POS": {
+    "message": "On/ Off part of speech"
+  },
+  "Show_close_full_sub": {
+    "message": "Show/ Hide full subtitles"
+  },
+  "arow_next_10s": {
+    "message": "Fast forward 5s"
+  },
+  "arow_prev_10s": {
+    "message": "Rewind 5s"
+  },
+  "arrow_top_up_sound": {
+    "message": "Volume Up"
+  },
+  "arrow_top_down_sound": {
+    "message": "Volume Down"
+  },
+  "full_screen": {
+    "message": "Full screen"
+  },
+  "hoverPopupAudioButton": {
+    "message": "Read from here"
+  },
+  "hoverPopupChatAiButton": {
+    "message": "See AI Deep dive"
+  },
+  "helpTooltip": {
+    "message": "How to use audio reader"
+  },
+  "playPauseTooltip": {
+    "message": "Play/ Pause"
+  },
+  "hide_full_sub": {
+    "message": "Hide full subtitles"
+  },
+  "show_full_sub": {
+    "message": "Show Full Transcript"
+  },
+  "print_tooltip": {
+    "message": "Export subtitles"
+  },
+  "save_phrase_book": {
+    "message": "Add to phrasebook"
+  },
+  "title_pop_multi_lang": {
+    "message": "Sorry, you can't save this word"
+  },
+  "content_pop_multi_lang": {
+    "message": "If you want to learn a language other than English, please use"
+  },
+  "btn_pop_multi_lang": {
+    "message": "eJOY Multi-Language"
+  },
+  "delete_bookmark": {
+    "message": "Remove bookmark"
+  },
+  "reveal_info_tooltip": {
+    "message": "Subtitle is blurred. Press (N) key to reveal subtitle."
+  },
+  "reset": {
+    "message": "Reset"
+  },
+  "reset_tooltip": {
+    "message": "Reset to default settings. Your settings will be removed. You can’t undo this action."
+  },
+  "text_show_read_selection": {
+    "message": "Show 'Read Selection' Icon"
+  },
+  "Auto_Pause_tooltip_in_video": {
+    "message": "Automatically pause movie at the end of each subtitle with delayed subtitles-optional"
+  },
+  "Lifetime_Learner": {
+    "message": "Lifetime Pro Learner"
+  },
+  "item1TitlePopupGoPro": {
+    "message": "Save unlimited words"
+  },
+  "item1DescPopupGoPro": {
+    "message": "Study as many as you can The larger the vocabulary size The more fluent you become"
+  },
+  "item2TitlePopupGoPro": {
+    "message": "Youtube Connect"
+  },
+  "item2DescPopupGoPro": {
+    "message": "Practice English with any YouTube videos on eJOY"
+  },
+  "item3TitlePopupGoPro": {
+    "message": "Get access to All Courses"
+  },
+  "item3DescPopupGoPro": {
+    "message": "Learn English and soft skills at once It's not only English but also knowledge of business, soft skills and more"
+  },
+  "item4TitlePopupGoPro": {
+    "message": "Unlock PRO Games on mobile App"
+  },
+  "item4DescPopupGoPro": {
+    "message": "6 fundamental games, 5 PRO Games and more added regularly"
+  },
+  "item5TitlePopupGoPro": {
+    "message": "Full access to eDict"
+  },
+  "item5DescPopupGoPro": {
+    "message": "Look up and save words on eDict-an All-in-One Dictionary App. Sync with eJOY to review"
+  },
+  "item6TitlePopupGoPro": {
+    "message": "Full Access to EPIC videos"
+  },
+  "item6DescPopupGoPro": {
+    "message": "+1200 Video lessons to improve listening comprehension, grammar, and vocabulary."
+  },
+  "item7TitlePopupGoPro": {
+    "message": "Across Devices"
+  },
+  "item7DescPopupGoPro": {
+    "message": "1 Pro account - full access to all eJOY's platforms"
+  },
+  "item8TitlePopupGoPro": {
+    "message": "Learn Offline"
+  },
+  "item8DescPopupGoPro": {
+    "message": "Save videos to your mobile App. Learn anytime, anywhere without Internet"
+  },
+  "titlePopupNotTranslate": {
+    "message": "Can't look up on this page"
+  },
+  "descPopupNotTranslate": {
+    "message": "Please open Settings, under This can read or change site data, please choose On all sites."
+  },
+  "CheckSetting": {
+    "message": "Open Settings"
+  },
+  "or": {
+    "message": "or"
+  },
+  "feedbackBug": {
+    "message": "send feedback"
+  },
+  "forUs": {
+    "message": "to us."
+  },
+  "convertYoutube": {
+    "message": "Convert to eJOY Go"
+  },
+  "Alphabet": {
+    "message": "A-Z"
+  },
+  "All_words": {
+    "message": "All words"
+  },
+  "start_recording": {
+    "message": "Start recording (Speak)"
+  },
+  "stop_recording": {
+    "message": "Stop recording (Speak)"
+  },
+  "next_speak": {
+    "message": "Next question (Speak)"
+  },
+  "skip_speak": {
+    "message": "Skip (Speak)"
+  },
+  "item1TitlePopupGoProNew": {
+    "message": "<span style=\"color: #FF7700;\">Buy PRO to</span> Save Unlimited Words"
+  },
+  "item1DescPopupGoProNew": {
+    "message": "Save unlimited words & phrases from Netflix, YouTube, website.. via eJOY eXtension, eJOY App & eJOY Reader."
+  },
+  "item2TitlePopupGoProNew": {
+    "message": "Require eJOY Integrate The Sites You Want"
+  },
+  "item2DescPopupGoProNew": {
+    "message": "Watch bilingual subtitles and lookup word on the video subtitles on any website you require."
+  },
+  "item3TitlePopupGoProNew": {
+    "message": "Unlimited Access To Games And Review"
+  },
+  "item3DescPopupGoProNew": {
+    "message": "Quickly review and deeply memorize vocabulary thanks to the games integrated with Spaced Repetition Algorithm."
+  },
+  "item4TitlePopupGoProNew": {
+    "message": "Unlock All PRO Games On eJOY App"
+  },
+  "item4DescPopupGoProNew": {
+    "message": "5 PRO Games and more to help you master your vocabulary effortlessly.  "
+  },
+  "item5TitlePopupGoProNew": {
+    "message": "Enjoy Learning Via News On eJOY Reader"
+  },
+  "item5DescPopupGoProNew": {
+    "message": "Look up and save advanced words. Sync with eJOY English App to review them everyday."
+  },
+  "item6TitlePopupGoProNew": {
+    "message": "Sync Data Across Devices"
+  },
+  "item6DescPopupGoProNew": {
+    "message": "Collect and learn your vocabulary anytime, anywhere on any devices.  "
+  },
+  "item7TitlePopupGoProNew": {
+    "message": "Capture Lookup"
+  },
+  "item7DescPopupGoProNew": {
+    "message": "Easily look up and translate words right on any photos."
+  },
+  "Speaker": {
+    "message": "Game Speak"
+  },
+  "All": {
+    "message": "All books"
+  },
+  "activeBook": {
+    "message": "Active book"
+  },
+  "On": {
+    "message": "On"
+  },
+  "Off": {
+    "message": "Off"
+  },
+  "on_board_title": {
+    "message": "Tell us how you want eJOY to work?"
+  },
+  "on_board_desc": {
+    "message": "Initial settings help eJOY English work the way you expect. You can change these laters in eJOY settings or mouse right click."
+  },
+  "on_board_Display_settings": {
+    "message": "Display settings"
+  },
+  "on_board_Popup_display_mode": {
+    "message": "Popup display mode"
+  },
+  "on_board_Popup_display_mode_desc": {
+    "message": "How do you want eJOY to open dictionary popup? Immediately when double click, or showing icon?"
+  },
+  "on_board_Popup_size": {
+    "message": "Pop-up size"
+  },
+  "on_board_Popup_size_desc": {
+    "message": "How big do you want eJOY popup to be?"
+  },
+  "on_board_Language_pair": {
+    "message": "Language pair"
+  },
+  "on_board_Language_pair_desc": {
+    "message": "Choose English as source language. Choose your native language as target language."
+  },
+  "on_board_Source_Language": {
+    "message": "Source Language"
+  },
+  "on_board_Target_Language": {
+    "message": "Target Language"
+  },
+  "on_board_default_ext_title": {
+    "message": "Set your default lookup extension"
+  },
+  "on_board_default_ext_title_desc": {
+    "message": "When you install both eJOY extensions and GlotDojo, you will need to set one extension as default. This will avoid the unwanted conflicts between eJOY and Glot."
+  },
+  "on_board_default_ext_video": {
+    "message": "Default extension on video contexts"
+  },
+  "on_board_default_ext_web": {
+    "message": "Default extension on text contexts"
+  },
+  "glot": {
+    "message": "GlotDojo"
+  },
+  "ejoy": {
+    "message": "eJOY English"
+  },
+  "glotejoy": {
+    "message": "eJOY English & GlotDojo"
+  },
+  "glotDesc": {
+    "message": "is a multi-language extension, developed by eJOY Learning Jsc. GlotDojo is optimized for multi-language learners, especially Chinese and Japanese learners."
+  },
+  "ejoyDesc": {
+    "message": "is an English learning extension, developed by eJOY Learning Jsc. eJOY English is optimized for English learners."
+  },
+  "Back_to_welcome_page": {
+    "message": "Back to Welcome"
+  },
+  "Saved": {
+    "message": "Saved"
+  },
+  "small": {
+    "message": "Small"
+  },
+  "medium": {
+    "message": "Medium"
+  },
+  "large": {
+    "message": "Large"
+  },
+  "translationToolTip": {
+    "message": "You can insert detailed explanations or the grammar structure used in this sentence."
+  },
+  "countToolTip": {
+    "message": "Number of characters"
+  },
+  "titlePopupGoogleBlock": {
+    "message": "Oops! Something's wrong."
+  },
+  "descPopupGoogleBlock": {
+    "message": "In order to continue looking up with Google translation API, Google may request to verify that you are not robot. Please click the button below to verify."
+  },
+  "Go_to_Google_verification": {
+    "message": "Go to Google verification"
+  },
+  "ReviewPhrase": {
+    "message": "Phrases in this session"
+  },
+  "Next_phrase": {
+    "message": "Next phrase"
+  },
+  "Would_you_like_to_review_your_phrases_first": {
+    "message": "Would you like to review your phrases first?"
+  },
+  "Explanations": {
+    "message": "Explanations"
+  },
+  "hide": {
+    "message": "Hide"
+  },
+  "placeholderCreateWb": {
+    "message": "Type in here"
+  },
+  "Set_to_activebook": {
+    "message": "Set as active book"
+  },
+  "Create": {
+    "message": "Create"
+  },
+  "save_to": {
+    "message": "Save to"
+  },
+  "customSubtitles": {
+    "message": "Upload subtitles"
+  },
+  "subtitleLookup": {
+    "message": "Integrated Video Sites"
+  },
+  "defaultExt": {
+    "message": "Default Extension"
+  },
+  "Actions": {
+    "message": "Actions"
+  },
+  "Function_Level": {
+    "message": "Function Level"
+  },
+  "tooltipEnableVideoLookup": {
+    "message": "Allow dictionary popup on these sites"
+  },
+  "tooltipPopupPosition": {
+    "message": "Position of dictionary popup when it shows up"
+  },
+  "tooltipPhraseLookup": {
+    "message": "Allow eJOY to detect and define phrases/compound words."
+  },
+  "tooltipFunctionLevel": {
+    "message": "The level of eJOY's support on each website"
+  },
+  "tooltipActions": {
+    "message": "Edit or delete"
+  },
+  "targetSub": {
+    "message": "Target subtitles"
+  },
+  "videoLookup": {
+    "message": "Integrated Video Sites"
+  },
+  "elemClass": {
+    "message": "Element Class"
+  },
+  "Phrase_lookup": {
+    "message": "Phrase Lookup"
+  },
+  "popup_position": {
+    "message": "Popup position"
+  },
+  "url": {
+    "message": "URL"
+  },
+  "left": {
+    "message": "Left"
+  },
+  "top": {
+    "message": "Top"
+  },
+  "domain": {
+    "message": "Domain"
+  },
+  "tooltipDomain": {
+    "message": "Websites allowing subtitles look-up"
+  },
+  "statusPresetTooltip": {
+    "message": "Choose one preset you want to set as default"
+  },
+  "orderPresetTooltip": {
+    "message": "Arrange Presets in order"
+  },
+  "actionPresetTooltip": {
+    "message": "Edit, duplicate or delete Preset"
+  },
+  "subtitles": {
+    "message": "Subtitles"
+  },
+  "enable": {
+    "message": "Enable"
+  },
+  "elemClassTooltip": {
+    "message": "See the video instruction below on how to get the Element Class"
+  },
+  "EDIT_QUICK_LOOKUP": {
+    "message": "Edit video site"
+  },
+  "ADD_NEW_QUICK_LOOKUP": {
+    "message": "Integrate a video site"
+  },
+  "updateText": {
+    "message": "Update"
+  },
+  "Delete_confirm": {
+    "message": "Confirm Remove"
+  },
+  "Delete_desc": {
+    "message": "Are you sure you want to remove this integrated site?"
+  },
+  "yes": {
+    "message": "Remove"
+  },
+  "Function_Settings": {
+    "message": "Frequently used features"
+  },
+  "Extra_functions": {
+    "message": "Extra features"
+  },
+  "Pause_on_hover": {
+    "message": "Pause video when mouse over"
+  },
+  "Saved_subtitles": {
+    "message": "Saved subtitles"
+  },
+  "NativeSub": {
+    "message": "Original Subtitles"
+  },
+  "Scan_with_Middle_mouse": {
+    "message": "Scan with middle-mouse"
+  },
+  "Scan_with_hotkey": {
+    "message": "Scan with hotkey"
+  },
+  "showProgressBar": {
+    "message": "Show progress bar"
+  },
+  "translationLanguage": {
+    "message": "Translate to"
+  },
+  "learningService": {
+    "message": "Learning service"
+  },
+  "subtitlesSize": {
+    "message": "Subtitles size"
+  },
+  "subtitlesDelay": {
+    "message": "Shift sub time"
+  },
+  "showSubsBackground": {
+    "message": "Subtitles background"
+  },
+  "selectFile": {
+    "message": "Select file"
+  },
+  "customSubtitlesLoaded": {
+    "message": "🦄 Custom subtitles loaded"
+  },
+  "speedToolTipId": {
+    "message": "Change the video's playback speed"
+  },
+  "show_progress_bar_tooltip": {
+    "message": "Show subtitles progress bar"
+  },
+  "auto_Pause_Play_tooltip": {
+    "message": "The video will resume automatically after being paused, no need to press Space."
+  },
+  "play_subtitle_after_tooltip": {
+    "message": "The time between pause and resumption."
+  },
+  "auto_hidden_sub_tooltip": {
+    "message": "Extend subtitle display time until the next subtitle shows up."
+  },
+  "Subtitle_Settings": {
+    "message": "Subtitle Settings"
+  },
+  "alwayOnDisplay": {
+    "message": "Auto Translate"
+  },
+  "alway_on_display_tooltip": {
+    "message": "Turn on/off automatic Google translating subtitles"
+  },
+  "Scan_with_hotkeyTooltip": {
+    "message": "Press & hold the shortcut key and mouse over text to look up at once"
+  },
+  "popupAdvDisplayMode": {
+    "message": "Advanced Translations Display"
+  },
+  "popupAdvDisplayModeTooltip": {
+    "message": "How advanced translations appears when you translate a paragraph"
+  },
+  "auto_hide_sub": {
+    "message": "Extend sub time"
+  },
+  "auto_pause_play": {
+    "message": "Resume after pause"
+  },
+  "play_subtitle_after": {
+    "message": "Time before resume"
+  },
+  "printSubtitles": {
+    "message": "Print subtitles"
+  },
+  "resyncSubsTooltip": {
+    "message": "Speed up/Slow down the subtitles by"
+  },
+  "customSubtitlesTooltip": {
+    "message": "Upload your own subtitles"
+  },
+  "shortKeyTooltip": {
+    "message": "View list of shortcut keys"
+  },
+  "printTooltip": {
+    "message": "Print subtitles"
+  },
+  "saveSubtitlesTooltip": {
+    "message": "See bookmarked subtitles"
+  },
+  "Show_Transliterations_video": {
+    "message": "Show phonetic"
+  },
+  "Current_Native_language_tooltip_video": {
+    "message": "Current original language"
+  },
+  "language": {
+    "message": "language"
+  },
+  "Current_Target_language_tooltip_video": {
+    "message": "Current target language"
+  },
+  "transliterate_bot_video": {
+    "message": "Show machine translation"
+  },
+  "transliterate_top_video": {
+    "message": "Phonetic"
+  },
+  "target_sub_video": {
+    "message": "Original  subtitles"
+  },
+  "native_sub_video": {
+    "message": "Translation  subtitles"
+  },
+  "Select_subtitle": {
+    "message": "Select subtitles"
+  },
+  "note_desc": {
+    "message": "Note: After changing the default extension, you need to refresh (F5) the website to get updated."
+  },
+  "title_error_next_game": {
+    "message": "Can’t read the video"
+  },
+  "Essentials_title_shortcut": {
+    "message": "Essentials"
+  },
+  "Subtitles_title_shortcut": {
+    "message": "Subtitles"
+  },
+  "read_subtitle_sentence": {
+    "message": "Read subtitle"
+  },
+  "AboutUs": {
+    "message": "About us"
+  },
+  "title_skip_video": {
+    "message": "Skip Video"
+  },
+  "desc_skip_video": {
+    "message": "Do you want to skip this video?"
+  },
+  "SubmitVideoSupport": {
+    "message": "Submit"
+  },
+  "ejoySetting": {
+    "message": "Settings"
+  },
+  "enableEjoyInContent": {
+    "message": "On/off eJOY on this site"
+  },
+  "Kind_of_pronunciation_first": {
+    "message": "Accent priority"
+  },
+  "printing_button_desc": {
+    "message": "Show “printing button” in the reader view"
+  },
+  "mail_button_desc": {
+    "message": "Show mail button” in the reader view"
+  },
+  "save_button_desc": {
+    "message": "Show “save button” in the reader view"
+  },
+  "fullscreen_button_desc": {
+    "message": "Show “fullscreen button” in the reader view"
+  },
+  "speech_button_desc": {
+    "message": "Show “speech button” in the reader view"
+  },
+  "toggle_button_desc": {
+    "message": "Show “toggle images button” in the reader view"
+  },
+  "toggle_design_button_desc": {
+    "message": "Show “toggle design mode button” in the reader view"
+  },
+  "Interface_Shortcuts": {
+    "message": "Interface Shortcuts"
+  },
+  "Print_Action": {
+    "message": "Print"
+  },
+  "Save_Action": {
+    "message": "Save"
+  },
+  "Email_Action": {
+    "message": "Email"
+  },
+  "Fullscreen_Action": {
+    "message": "Fullscreen"
+  },
+  "Design_Mode_Action": {
+    "message": "Design-Mode"
+  },
+  "Speech_Action": {
+    "message": "Speech"
+  },
+  "Previous_Action": {
+    "message": "Previous (Speech)"
+  },
+  "Next_Action": {
+    "message": "Next (Speech)"
+  },
+  "Play_Pause_Action": {
+    "message": "Play/Pause (Speech)"
+  },
+  "Images_Action": {
+    "message": "Images"
+  },
+  "Previous_Page": {
+    "message": "Previous Page (Navigation)"
+  },
+  "Next_Page": {
+    "message": "Next Page (Navigation)"
+  },
+  "Link_Opening": {
+    "message": "Link Opening"
+  },
+  "Link_Opening_desc": {
+    "message": "Open links in the reader view mode"
+  },
+  "delay_paragraphs": {
+    "message": "Delay between paragraphs (in milliseconds)"
+  },
+  "desc_error_next_game": {
+    "message": "There's an error with the video. Please click the button below to move to the next question."
+  },
+  "show_full_sub_hover_tooltip": {
+    "message": "Show full subtitles on the right site bar"
+  },
+  "settings_more": {
+    "message": "Setting more"
+  },
+  "ImageGoogle": {
+    "message": "Google Image"
+  },
+  "ImgGIF": {
+    "message": "GIPHY Gif"
+  },
+  "Choosed": {
+    "message": "Selected"
+  },
+  "select_img_url": {
+    "message": "Insert from URL"
+  },
+  "select_img_gg": {
+    "message": "Choose from Google Image"
+  },
+  "select_img_giphy": {
+    "message": "Choose from GIPHY"
+  },
+  "select_img_pc": {
+    "message": "Upload from PC"
+  },
+  "change_image": {
+    "message": "Change image"
+  },
+  "Paste_URL_in_here": {
+    "message": "Paste URL in here"
+  },
+  "Insert": {
+    "message": "Insert"
+  },
+  "Click_in_here": {
+    "message": "Click here"
+  },
+  "today": {
+    "message": "Today"
+  },
+  "yesterday": {
+    "message": "Yesterday"
+  },
+  "this_week": {
+    "message": "This week"
+  },
+  "Word_progress": {
+    "message": "Word progress"
+  },
+  "Organize_wordbook": {
+    "message": "Organize wordbook"
+  },
+  "Select_All": {
+    "message": "Select all"
+  },
+  "UnSelect_All": {
+    "message": "Unselect all"
+  },
+  "moveAll": {
+    "message": "Copy/ Move to other word books"
+  },
+  "support_extension_bar": {
+    "message": "Support"
+  },
+  "tooltip_support_bar_extension": {
+    "message": "Support"
+  },
+  "eJOY_English": {
+    "message": "eJOY English"
+  },
+  "Rate_extension": {
+    "message": "Rate us"
+  },
+  "Rate_extension_desc": {
+    "message": "Help us grow and create more useful features for you! Rate us"
+  },
+  "Rate_5_stars": {
+    "message": "Rate us 5 stars"
+  },
+  "Community": {
+    "message": "Community"
+  },
+  "FAQ": {
+    "message": "FAQ"
+  },
+  "Feedback_bug": {
+    "message": "Report a bug"
+  },
+  "Chat_with_us": {
+    "message": "Chat with us"
+  },
+  "desc_about_us": {
+    "message": "eJOY extension is an English-learning tool developed by eJOY Learning. Being a creativity-driven startup run by language enthusiasts, we always try our best to create products that make language learning fun. We're funded by our users community who use eJOY extension to improve their English skills every day."
+  },
+  "cancelMove": {
+    "message": "Cancel"
+  },
+  "on_off": {
+    "message": "On/Off"
+  },
+  "label_target_sub": {
+    "message": "Show <b>Original</b> subtitles"
+  },
+  "label_native_sub": {
+    "message": "Show <b>Translation</b> subtitles"
+  },
+  "label_translation_sub": {
+    "message": "Show machine translation"
+  },
+  "setting_full": {
+    "message": "Full settings"
+  },
+  "openSaveSubtitlesTooltip": {
+    "message": "View subtitles"
+  },
+  "Added_Successful": {
+    "message": "Added Successfully"
+  },
+  "Updated_Successful": {
+    "message": "Updated Successfully"
+  },
+  "Go_Pro_2": {
+    "message": "Go Pro to enable advanced features"
+  },
+  "Go_Pro_gift": {
+    "message": "A Gift for You - 30% OFF"
+  },
+  "login_title_1": {
+    "message": "Welcome to Game center!"
+  },
+  "login_title_2": {
+    "message": "Sign back in to review words"
+  },
+  "login_title_has_login": {
+    "message": "Sign up to unlock eJOY features:"
+  },
+  "login_desc_has_login_1": {
+    "message": "Add this word to your own Wordbook"
+  },
+  "login_desc_has_login_2": {
+    "message": "Review words with games"
+  },
+  "login_popup_title": {
+    "message": "Sign up to add this word"
+  },
+  "login_popup_title_ai": {
+    "message": "Sign up to query AI"
+  },
+  "login_popup_has_login_title": {
+    "message": "Looks like you got signed out!"
+  },
+  "login_popup_desc_1": {
+    "message": "Review added words with Games"
+  },
+  "login_popup_desc_2": {
+    "message": "Sync vocab data across devices"
+  },
+  "login_popup_has_login_desc": {
+    "message": "To add this word, please sign back in."
+  },
+  "login_popup_has_login_desc_ai": {
+    "message": "To query AI, please sign back in."
+  },
+  "Already_have_an_account": {
+    "message": "Already have an account?"
+  },
+  "Sign_back_in": {
+    "message": "Sign back in"
+  },
+  "And_more": {
+    "message": "And more"
+  },
+  "reader_print_title_desc": {
+    "message": "Print in the Reader View"
+  },
+  "reader_email_title_desc": {
+    "message": "Email Content"
+  },
+  "reader_save_title_desc": {
+    "message": "Save in HTML format"
+  },
+  "reader_fullscreen_title_desc": {
+    "message": "Switch to the fullscreen reading"
+  },
+  "reader_toggle_title_desc": {
+    "message": "Toggle design mode"
+  },
+  "reader_toggle_title_desc_1": {
+    "message": "When active, you can edit the document or delete elements like MS word"
+  },
+  "reader_toggle_title_desc_2": {
+    "message": "Toggles bold on/off for the selection or at the insertion point."
+  },
+  "reader_toggle_title_desc_3": {
+    "message": "Toggles italics on/off for the selection or at the insertion point."
+  },
+  "reader_toggle_title_desc_4": {
+    "message": "Toggles underline on/off for the selection or at the insertion point."
+  },
+  "reader_article_title_desc": {
+    "message": "Read this Article"
+  },
+  "reader_article_title_desc_1": {
+    "message": "To start from middle, select starting word, then press this button"
+  },
+  "reader_image_title_desc": {
+    "message": "Toggle images"
+  },
+  "reader_highlight_title_desc": {
+    "message": "Toggle highlight"
+  },
+  "reader_User_Action": {
+    "message": "User Action"
+  },
+  "reader_close": {
+    "message": "Close Reader View"
+  },
+  "reader_open_settings": {
+    "message": "open settings Reader View"
+  },
+  "reader_Type_controls": {
+    "message": "Type controls"
+  },
+  "reader_btn_plus_minus_controls": {
+    "message": "The +/- buttons only scale images with width greater than 32px. Scaling is not persistent operation. To reset, refresh the page."
+  },
+  "reader_btn_prev_controls": {
+    "message": "move to the previous page"
+  },
+  "reader_btn_next_controls": {
+    "message": "move to the next page"
+  },
+  "hidden_desc_show_action": {
+    "message": "Permanent websites can't be edited or deleted."
+  },
+  "How_to_add_new_site_glot": {
+    "message": "How to add a new video site "
+  },
+  "How_to_add_new_site_desc": {
+    "message": "Use shortcut keys \"<\" , \">\" to show translation popup with subtitles when watching videos on the video sites you added"
+  },
+  "How_to_add_new_class": {
+    "message": "How to get Element class"
+  },
+  "hiddenDisplayAP": {
+    "message": "Display “Auto paused” text on screen"
+  },
+  "tooltipAlwayOnDisplay": {
+    "message": "Subtitles on this site will be translated automatically"
+  },
+  "domain_placeholder": {
+    "message": "Insert domain name"
+  },
+  "class_placeholder": {
+    "message": "Paste element class here"
+  },
+  "banner_ejoy_title": {
+    "message": "Scan this QR code to install"
+  },
+  "banner_ejoy_desc": {
+    "message": "Install eJOY app to sync & review vocab anywhere, anytime"
+  },
+  "banner_ejoy_btn": {
+    "message": "Learn more about eJOY English App"
+  },
+  "banner_ejoy_account_desc": {
+    "message": "Scan this QR code to install eJOY App and continue to learn on your phone"
+  },
+  "banner_ejoy_account_btn": {
+    "message": "Learn more about eJOY English App"
+  },
+  "banner_support_desc": {
+    "message": "Install eJOY App to sync & review vocab anywhere, anytime"
+  },
+  "banner_support_btn": {
+    "message": "Learn more about eJOY English App"
+  },
+  "banner_gamecenter_desc": {
+    "message": "Scan QR code to Install eJOY app and review vocab anywhere, anytime"
+  },
+  "banner_gamecenter_btn": {
+    "message": "Install eJOY English app now"
+  },
+  "Disable_websites": {
+    "message": "Disabled websites"
+  },
+  "Disable_websites_desc": {
+    "message": "You have disabled eJOY extension on these websites"
+  },
+  "Main_subtitles": {
+    "message": "Main subtitles"
+  },
+  "Auto_subtitle": {
+    "message": "Auto Translate subtitles"
+  },
+  "exam_Auto_subtitle": {
+    "message": "This is auto-trans subtitle"
+  },
+  "exam_main_subtitle": {
+    "message": "This is the main subtitle"
+  },
+  "Apply_now": {
+    "message": "Apply now"
+  },
+  "Apply_now_all_desc": {
+    "message": "Apply this format to all manually integrated websites"
+  },
+  "Updated_all_style_Successful": {
+    "message": "Updated successfully!"
+  },
+  "FORMAT_SUB": {
+    "message": "FORMAT SUB"
+  },
+  "local_pdf_title": {
+    "message": "This seems to be a local file"
+  },
+  "local_pdf_description": {
+    "message": "Only online PDF files can be converted with eJOY’s PDF Translator. To convert this local file, you need to upload it to eJOY’s PDF Translator."
+  },
+  "go_to_pdf_translator": {
+    "message": "Go to PDF Translator"
+  },
+  "goToPDF": {
+    "message": "Go to PDF"
+  },
+  "pdf_translator": {
+    "message": "PDF Translator"
+  },
+  "eJOY_in": {
+    "message": "eJOY in"
+  },
+  "Daily_challenge_setting": {
+    "message": "Daily challenge setting"
+  },
+  "Word_priority": {
+    "message": "Word priority"
+  },
+  "text_text_highlight": {
+    "message": "Highlight text"
+  },
+  "delete_wordbook": {
+    "message": "Are you sure to delete this wordbook?"
+  },
+  "eJOY_not_supported_website": {
+    "message": "eJOY is not supported on this website"
+  },
+  "all": {
+    "message": "All"
+  },
+  "Choose_wordbook_to_revise": {
+    "message": "Choose wordbook to revise"
+  },
+  "show_phonetic": {
+    "message": "Phonetic transcription"
+  },
+  "Word_family": {
+    "message": "Family"
+  },
+  "disable": {
+    "message": "Disable"
+  },
+  "ReaderView": {
+    "message": "Reader"
+  },
+  "Initial_settings": {
+    "message": "Initial settings"
+  },
+  "Auto_Paused_notify": {
+    "message": "Auto Paused"
+  },
+  "Auto_Paused_notify_desc": {
+    "message": "Press SPACE to continue or Press Alt + Shift + P to turn off"
+  },
+  "inline_pdf_title": {
+    "message": "Need to use Inline translation?"
+  },
+  "inline_pdf_description": {
+    "message": "At the moment, Inline translation is only available in Reader view mode."
+  },
+  "inline_pdf_reader_view": {
+    "message": "Open Reader view"
+  },
+  "Fully_integrated_sites": {
+    "message": "Fully integrated sites"
+  },
+  "Partly_integrated_sites": {
+    "message": "Partly integrated sites"
+  },
+  "Manually_integrated_sites": {
+    "message": "Manually integrated sites"
+  },
+  "Fully_integrated_sites_desc": {
+    "message": "These are video sites that have all or most of eJOY eXtension’s settings."
+  },
+  "Partly_integrated_sites_desc": {
+    "message": "These are video sites that have Look-up and Auto Translate features."
+  },
+  "Manually_integrated_sites_desc": {
+    "message": "These are video sites that you added. You can look up and turn on Auto Translate like with partly integrated sites."
+  },
+  "integrated_Search": {
+    "message": "Search (e.g netflix.com)"
+  },
+  "Manually_integrated_sites_desc_not_found": {
+    "message": "You haven't integrated any video site yet."
+  },
+  "Manually_integrated_sites_desc_faq": {
+    "message": "How to integrate eJOY with a video site"
+  },
+  "Add_new": {
+    "message": "Add new"
+  },
+  "Sign_up_for_free": {
+    "message": "Create a free account to add new words"
+  },
+  "Lifetime_Learner_desc": {
+    "message": "We learn as we play!"
+  },
+  "toolTipDesc": {
+    "message": "Hey, click eJOY to turn on dual subtitles"
+  },
+  "toolTipAdd": {
+    "message": "Add this word to your wordbook"
+  },
+  "toolTipReviewWords": {
+    "message": "Review your added words with games"
+  },
+  "reviewWords": {
+    "message": "Play games"
+  },
+  "Turn_on_off_main_substitle": {
+    "message": "Turn on/off top subtitles"
+  },
+  "Turn_on_off_second_substitle": {
+    "message": "Turn on/off bottom subtitles"
+  },
+  "speak_voice_confirm_desc": {
+    "message": "This Watson voice may cause crackling pronunciation. Are you sure you want to proceed?"
+  },
+  "speak_voice_confirm_btn1": {
+    "message": "No, change voice"
+  },
+  "speak_voice_confirm_btn2": {
+    "message": "Yes"
+  },
+  "toolTipReviewWordsNotEnough": {
+    "message": "You need at least 3 words to play"
+  },
+  "save_to_play": {
+    "message": "👋️ Add word to play games"
+  },
+  "Got_it": {
+    "message": "Got it"
+  },
+  "Login_to_view_wordbook": {
+    "message": "Login to view wordbook"
+  },
+  "edit_context": {
+    "message": "Edit context"
+  },
+  "data_not_found": {
+    "message": "No result for"
+  },
+  "login_expiration_time": {
+    "message": "Login expiration time"
+  },
+  "Show_note_after_answer": {
+    "message": "Show note after answer"
+  },
+  "Next_question_in": {
+    "message": "Next question in"
+  },
+  "Next_question_in_btn": {
+    "message": "Next question in "
+  },
+  "onboarding_text": {
+    "message": "Do you want eJOY to remind you to review words?"
+  },
+  "onboarding_remind_btn": {
+    "message": "OK, Remind me"
+  },
+  "onboarding_no_remind_btn": {
+    "message": "No need to remind"
+  },
+  "onboarding_remind_title": {
+    "message": "How do you want eJOY to remind you?"
+  },
+  "onboarding_remind_auto_open_game_center": {
+    "message": "Open Game center to review every day"
+  },
+  "onboarding_remind_give_notify": {
+    "message": "Send me a notification"
+  },
+  "At_this_time": {
+    "message": "At this time:"
+  },
+  "On_days": {
+    "message": "On these days:"
+  },
+  "Set_successfully": {
+    "message": "All Set!"
+  },
+  "Display_review_words_notification": {
+    "message": "Review-word notification settings"
+  },
+  "Notify_me_when": {
+    "message": "Notify me at"
+  },
+  "On_these_days": {
+    "message": "On these days"
+  },
+  "notify_no_word_to_play": {
+    "message": "No words need to be reviewed today. Please add new words more. Or you can play games to remember more. However, no more fluency points will be added for this session."
+  },
+  "Play_anyway": {
+    "message": "Play anyway"
+  },
+  "Yeah_enough_words_to_play_the_games": {
+    "message": "👏 Yeah, let's play games!"
+  },
+  "Pause": {
+    "message": "Pause"
+  },
+  "Speaker_Voice_game": {
+    "message": "Speaker Voice in game"
+  },
+  "Speaker_Voice": {
+    "message": "Speaker Voice"
+  },
+  "Preview_voice": {
+    "message": "Preview voice"
+  },
+  "Please_wait_a_second": {
+    "message": "Please wait a second..."
+  },
+  "PlayNoWordDesc": {
+    "message": "No words need to be reviewed today. Please add new words more. Or you can play games to remember again. However, no more points will be added for this session."
+  },
+  "Font_type": {
+    "message": "Font type"
+  },
+  "default_recommended": {
+    "message": "Default (recommended)"
+  },
+  "move": {
+    "message": "move"
+  },
+  "Move": {
+    "message": "Move"
+  },
+  "move_wordbook_title_popup": {
+    "message": "Move to wordbook"
+  },
+  "Back_to": {
+    "message": "Back to"
+  },
+  "captureSettings": {
+    "message": "Capture Settings"
+  },
+  "ocrEngine": {
+    "message": "OCR Engine"
+  },
+  "transitionEngine": {
+    "message": "Translation Engine"
+  },
+  "statusCapture": {
+    "message": "Capture Status"
+  },
+  "visualCopyOCRLang": {
+    "message": "Input Language (OCR Language)"
+  },
+  "visualCopyQuickSelectLangs": {
+    "message": "Input Language Quickselect"
+  },
+  "visualCopyTranslateLang": {
+    "message": "Translate to"
+  },
+  "visualCopyTextOverlay": {
+    "message": "Show Text Overlay"
+  },
+  "visualCopyAutoTranslate": {
+    "message": "Translate after OCR"
+  },
+  "visualCopyOCRFontSize": {
+    "message": "Text Box Font Size"
+  },
+  "visualCopySupportDicts": {
+    "message": "Support popup dictionaries"
+  },
+  "titleCaptureLocal": {
+    "message": "OCR Local Images and PDFs"
+  },
+  "descCaptureLocal": {
+    "message": "With GlotDojo Capture you can also OCR local images and PDF. You only need to drag and drop them into your browser, and then use GlotDojo Capture on it. For this to work, you need to allow GlotDojo Capture access to file URLs. You do this in Chrome extension settings for GlotDojo Capture."
+  },
+  "ocrEngine_desc": {
+    "message": "Use our very good free OCR"
+  },
+  "OcrGoogle_desc": {
+    "message": "PRO Plan: Use PRO Vision (even better OCR)"
+  },
+  "Re_Translate": {
+    "message": "Re-Translate"
+  },
+  "Copy": {
+    "message": "Copy"
+  },
+  "Add_to_My_list": {
+    "message": "Add to My list"
+  },
+  "Captured_image": {
+    "message": "Captured image"
+  },
+  "Captured_image_desc": {
+    "message": "Click or scan text on image to look up"
+  },
+  "Size_image": {
+    "message": "Size image"
+  },
+  "Text_from_image": {
+    "message": "Text from image"
+  },
+  "Text_from_image_desc": {
+    "message": "Double click on text to look up"
+  },
+  "Translated": {
+    "message": "Translated"
+  },
+  "beta": {
+    "message": "beta"
+  },
+  "beta_desc": {
+    "message": "This is a beta testing feature."
+  },
+  "See_more": {
+    "message": "See more"
+  },
+  "fix_miss_yt": {
+    "message": "Click here to fix subtitle missing bug"
+  },
+  "fix_miss_yt_title": {
+    "message": "Subtitle error on YouTube"
+  },
+  "fix_miss_yt_desc": {
+    "message": "you need remove youtube cookies (VISTOR_INFO1_LIVE key) to continue watching videos with full subtitles"
+  },
+  "fix_miss_yt_btn": {
+    "message": "Ok, I got it"
+  },
+  "fix_miss_yt_btn_tut": {
+    "message": "See detail instruction here"
+  },
+  "Restart": {
+    "message": "Restart"
+  },
+  "Quit": {
+    "message": "Quit"
+  },
+  "Game_type": {
+    "message": "Game type"
+  },
+  "Number_of_words_per_session": {
+    "message": "Number of words per session"
+  },
+  "Enter_the_number_you_want": {
+    "message": "Enter the number you want"
+  },
+  "From_3_to_500": {
+    "message": "From 3 to 500 (Basic account, max is 20)"
+  },
+  "Please_enter_only_numeric_characters": {
+    "message": "Please enter only numeric characters"
+  },
+  "Please_input_in_rang": {
+    "message": "please enter numbers >= 3 and <= 500"
+  },
+  "Please_input_in_rang_basic": {
+    "message": "As a Basic account, min is 3 and max is 20"
+  },
+  "Go_to_wordbank_desc": {
+    "message": "The word is now in this word book. "
+  },
+  "Go_to_wordbank": {
+    "message": "Go to wordbank"
+  },
+  "Google_Dictionary": {
+    "message": "Google Dictionary"
+  },
+  "searchMeaningGg_text": {
+    "message": "No result on eJOY Dic. <span>Search on Google Dictionary</span> or try one of the options below."
+  },
+  "searchMeaningGg_btn": {
+    "message": "Search Google Dictionary"
+  },
+  "dataGetMeaningEmpty": {
+    "message": "Oops! No result from Google Dictionary. You could try Google Search up there ☝️☝️☝️"
+  },
+  "Require_integrated_sites": {
+    "message": "Require integration"
+  },
+  "Require_integrate": {
+    "message": "Require integration"
+  },
+  "Require_integrated_sites_desc": {
+    "message": "These are integrated websites of eJOY Pro users. If you are a Pro user, you can<br/>watch bilingual subtitles and lookup word on the video subtitles of these sites as<br/>well as ask eJOY to integrate the site you want."
+  },
+  "Require_integrate_popup_title": {
+    "message": "You haven’t signed in"
+  },
+  "Require_popup_title": {
+    "message": "Require integration sites"
+  },
+  "Site_domain": {
+    "message": "Site domain"
+  },
+  "Site_domain_place": {
+    "message": "Enter a link"
+  },
+  "Your_email": {
+    "message": "Your email"
+  },
+  "Your_email_place": {
+    "message": "Enter your email"
+  },
+  "Require_contact": {
+    "message": "Your number contact ( Whatsapp/Zalo... )"
+  },
+  "Require_contact_place": {
+    "message": "Enter your contact"
+  },
+  "Require_integrate_popup_desc": {
+    "message": "This is a Pro feature, you need to sign in with Pro account to sent your requirement."
+  },
+  "Successful_Requirement": {
+    "message": "Successful Requirement!"
+  },
+  "Successful_Requirement_desc": {
+    "message": "We’ve got your requirement. We will send email to you as soon as the site is integrated"
+  },
+  "OK_I_got_it": {
+    "message": "OK. I got it"
+  },
+  "Integration_is_too_complex": {
+    "message": "Integration is too complex?"
+  },
+  "Integration_is_too_complex_desc": {
+    "message": "Upgrade Pro to require eJOY integrate for you."
+  },
+  "Integration_is_too_complex_desc_pro": {
+    "message": "As a Pro user, you can require eJOY integrate for you."
+  },
+  "See_PRO_plan": {
+    "message": "See PRO plans"
+  },
+  "This_is_PRO_feature": {
+    "message": "This is PRO feature"
+  },
+  "This_is_PRO_feature_desc": {
+    "message": "Upgrade PRO-VOCA to require eJOY integrate the sites you want"
+  },
+  "See_PRO_VOCA_plan": {
+    "message": "See PRO-VOCA plan"
+  },
+  "capture_popup_title": {
+    "message": "<span>Pro</span>feature - Capture lookup"
+  },
+  "capture_popup_desc": {
+    "message": "This is a beta testing feature. To enable this feature, please purchase PRO-VOCA"
+  },
+  "Buy_eJOY_PRO": {
+    "message": "Buy eJOY PRO"
+  },
+  "Limited_games_title": {
+    "message": "Limited games in a day"
+  },
+  "Limited_games_desc": {
+    "message": "With a Basic account you will be able to play 1 game in a day. Buy PRO-VOCA for unlimited play."
+  },
+  "Require_contact_desc": {
+    "message": "This is optional information. However, the site will be integrated more quickly if we can reach you promptly."
+  },
+  "Require_contact_discord_desc": {
+    "message": "Join Pro user group for quick support: "
+  },
+  "Require_contact_discord_desc_link": {
+    "message": "Link Discord"
+  },
+  "Buy_eJOY_Pro": {
+    "message": "Buy eJOY Pro"
+  },
+  "Buy_Pro_AI_Dictionary": {
+    "message": "Buy Pro AI Dictionary"
+  },
+  "Buy_eJOY_PRO_UP": {
+    "message": "Buy eJOY PRO"
+  },
+  "extend_pro": {
+    "message": "Extend Pro"
+  },
+  "Unlock_advanced_features": {
+    "message": "Unlock advanced features nam ne"
+  },
+  "Turn_on_Dual_Subtitles": {
+    "message": "Turn on Dual Subtitles"
+  },
+  "Unlock_advanced_features_desc": {
+    "message": "Add words, play games without limit, and more..."
+  },
+  "Upgrade_Pro_Reminder": {
+    "message": "Upgrade Pro Reminder"
+  },
+  "popup_Reminder_title": {
+    "message": "Upgrade Pro to unlock all advanced features.<br/>Choose a time to get reminder"
+  },
+  "popup_Reminder_item1": {
+    "message": "After 1 week"
+  },
+  "popup_Reminder_item2": {
+    "message": "After 1 month"
+  },
+  "popup_Reminder_item3": {
+    "message": "After 2 months"
+  },
+  "banner_epic_desc": {
+    "message": "New English courses for beginners and intermediates"
+  },
+  "Explanation": {
+    "message": "Explanation"
+  },
+  "Paraphrase": {
+    "message": "Make it simple"
+  },
+  "AI_Explanation": {
+    "message": "AI Explanation"
+  },
+  "Lookup_on": {
+    "message": "Lookup on"
+  },
+  "Advanced_Grammar": {
+    "message": "Advanced Grammar"
+  },
+  "Show_original": {
+    "message": "Show original"
+  },
+  "AI_Explain": {
+    "message": "AI Explain"
+  },
+  "require_pro_ai_title": {
+    "message": "You need a Pro Account to get explanation by AI"
+  },
+  "require_pro_ai_btn": {
+    "message": "Buy Pro AI Dictionary"
+  },
+  "Pro_AI_Explanation": {
+    "message": "Pro AI Feature"
+  },
+  "Sign_in_to_see_more": {
+    "message": "Sign in to see more"
+  },
+  "Sign_in_to_see_more_desc": {
+    "message": "Sign in or create account to see more results."
+  },
+  "Youve_not_signed_in_yet": {
+    "message": "You’ve not signed in yet"
+  },
+  "Buy_Pro_AI_Dictionary_see_more_results": {
+    "message": "Buy Pro AI Dictionary see more results."
+  },
+  "Pro_AI_Dictionary": {
+    "message": "Pro AI Dictionary"
+  },
+  "tooltip_shortcut_hidden": {
+    "message": "Turn on/off all of shortcut keys"
+  },
+  "error_chat_desc": {
+    "message": "Something went wrong, please try again."
+  },
+  "renews_on": {
+    "message": "Renews on"
+  },
+  "Until": {
+    "message": "Until"
+  },
+  "Manage_plans": {
+    "message": "Manage plans"
+  },
+  "Pro_Subtitles_Printing": {
+    "message": "Pro Subtitles Printing"
+  },
+  "Pro_Subtitles_Printing_desc": {
+    "message": "You need a Pro Account to print all of the transcript<br/>you want."
+  },
+  "Pro_Bookmark": {
+    "message": "Pro Bookmark"
+  },
+  "Pro_Bookmark_desc": {
+    "message": "You need a Pro Account to bookmark all of your<br/>favorite subtitles."
+  },
+  "None": {
+    "message": "None"
+  },
+  "fixedDom": {
+    "message": "Fixed Dom"
+  },
+  "videoTrack": {
+    "message": "Video Track"
+  },
+  "Rewrite": {
+    "message": "Rewrite"
+  },
+  "Lookup": {
+    "message": "Look up"
+  },
+  "Reply": {
+    "message": "Reply"
+  },
+  "Features": {
+    "message": "Features"
+  },
+  "Result": {
+    "message": "Result"
+  },
+  "Improve": {
+    "message": "Improve"
+  },
+  "Shorten": {
+    "message": "Shorten"
+  },
+  "Informal": {
+    "message": "Informal"
+  },
+  "Formal": {
+    "message": "Formal"
+  },
+  "Casual": {
+    "message": "Casual"
+  },
+  "Optimistic": {
+    "message": "Optimistic"
+  },
+  "Worried": {
+    "message": "Worried"
+  },
+  "Friendly": {
+    "message": "Friendly"
+  },
+  "Curious": {
+    "message": "Curious"
+  },
+  "Assertive": {
+    "message": "Assertive"
+  },
+  "Surprised": {
+    "message": "Surprised"
+  },
+  "Voice": {
+    "message": "Voice"
+  },
+  "Language": {
+    "message": "Language"
+  },
+  "Summarize": {
+    "message": "Summarize"
+  },
+  "Ideas_for_reply": {
+    "message": "Choose an idea to reply"
+  },
+  "Input": {
+    "message": "Input"
+  },
+  "Style": {
+    "message": "Style"
+  },
+  "Tone": {
+    "message": "Tone"
+  },
+  "Summarise": {
+    "message": "Summarise"
+  },
+  "textSendPlaceholder": {
+    "message": "Tell me what to write in any language..."
+  },
+  "Quick_reply": {
+    "message": "Quick reply"
+  },
+  "AI_ASSISTANT": {
+    "message": "AI ASSISTANT"
+  },
+  "titleAssistentVideo": {
+    "message": "Title of the video *"
+  },
+  "challengingAssistentVideo": {
+    "message": "Difficult term you want to learn *"
+  },
+  "goalAssistentVideo": {
+    "message": "Your learning goal"
+  },
+  "goalAssistentVideoPlace": {
+    "message": "Example: Teach my student about Psychology"
+  },
+  "Start_learning": {
+    "message": "Start learning"
+  },
+  "popup_desc_assistant": {
+    "message": "The concept you ask for doesn't relate to the video content. Do you still want AI help you learn that concept?"
+  },
+  "Change": {
+    "message": "Change"
+  },
+  "Personal_settings_desc": {
+    "message": "To improve your learning experience, please tell me about yourself"
+  },
+  "Occupation": {
+    "message": "Occupation"
+  },
+  "Occupation_place": {
+    "message": "Type your job"
+  },
+  "Experience_level": {
+    "message": "Experience level"
+  },
+  "English_level": {
+    "message": "English level"
+  },
+  "Personal_settings_popup_desc": {
+    "message": "To improve your learning experience, please tell me about yourself"
+  },
+  "Dont_change": {
+    "message": "Don't change"
+  },
+  "Report": {
+    "message": "Report"
+  },
+  "What_wrong": {
+    "message": "What's wrong?"
+  },
+  "What_wrong_desc": {
+    "message": "Please describe in detail what went wrong, any actions you took, and error messages you got."
+  },
+  "What_wrong_desc_place": {
+    "message": "Insert the problem"
+  },
+  "Your_Email_WhatsApp_Zalo": {
+    "message": "Your Email/WhatsApp/Zalo"
+  },
+  "Your_Email_WhatsApp_Zalo_desc": {
+    "message": "Please share your contact information so we can assist you in resolving your issue quickly."
+  },
+  "Your_Email_WhatsApp_Zalo_place": {
+    "message": "Insert your contact"
+  },
+  "Send": {
+    "message": "Send"
+  },
+  "tip": {
+    "message": "👉 Tip: Set up Settings can enhance results to better fit your needs."
+  },
+  "tip1": {
+    "message": "👉 Tip:  Go to Settings to set up. The result will fit with you more"
+  },
+  "Update_Personal_settings": {
+    "message": "Update Personal settings"
+  },
+  "AI_SUMMARIZE": {
+    "message": "AI SUMMARIZE"
+  },
+  "Summary": {
+    "message": "Summarise"
+  },
+  "popup_sum_update_title": {
+    "message": "Update Personal settings"
+  },
+  "popup_sum_update_desc": {
+    "message": "Get results that match your needs better when updating your personal settings."
+  },
+  "Update_now": {
+    "message": "Update now"
+  },
+  "Extract": {
+    "message": "Extract"
+  },
+  "Expand": {
+    "message": "Expand"
+  },
+  "Key_information": {
+    "message": "Key information"
+  },
+  "Ask_your_question": {
+    "message": "Ask your question"
+  },
+  "Explore_further": {
+    "message": "Explore further"
+  },
+  "Quiz": {
+    "message": "Quiz"
+  },
+  "AiAdv": {
+    "message": "AI Assistant"
+  },
+  "Blacklist_Sites": {
+    "message": "ON Sidebar functions on all sites, except those listed "
+  },
+  "Blacklist_Sites_desc": {
+    "message": "Enable sidebar display on all websites, except for the ones listed below."
+  },
+  "Whitelist_Sites": {
+    "message": "OFF Sidebar functions on all sites, except those listed"
+  },
+  "Whitelist_Sites_desc": {
+    "message": "Disable sidebar display on all websites, except for the ones listed below."
+  },
+  "ChatGPT_WebApp": {
+    "message": "ChatGPT WebApp"
+  },
+  "OpenAI_API": {
+    "message": "OpenAI API"
+  },
+  "OpenAI_API_gpt35_desc": {
+    "message": "GPT-3.5 is unlimited for Free and Plus users."
+  },
+  "OpenAI_API_gpt4_desc": {
+    "message": "GPT-4 is for Plus users and has a very limited quota."
+  },
+  "Azure_API": {
+    "message": "eJOY API"
+  },
+  "API_Host": {
+    "message": "API Host"
+  },
+  "API_Key": {
+    "message": "API Key"
+  },
+  "AiModel": {
+    "message": "Model"
+  },
+  "Smart_Learn": {
+    "message": "Deep Dive"
+  },
+  "AI_Smart_Learn": {
+    "message": "DEEP DIVE"
+  },
+  "AI_sum": {
+    "message": "SUMMARIZE"
+  },
+  "Highlight": {
+    "message": "Highlight"
+  },
+  "Related_information": {
+    "message": "Related Information"
+  },
+  "Check_free_queries_left_at": {
+    "message": "Check free queries left at "
+  },
+  "Continue_with_Basic": {
+    "message": "Continue with Basic"
+  },
+  "Buy_Pro_Dict": {
+    "message": "Buy Pro Dict"
+  },
+  "You_have_free_queries_with_AI": {
+    "message": "You have {0} free AI queries"
+  },
+  "You_have_free_queries_with_AI_desc": {
+    "message": "You have {0} free AI queries"
+  },
+  "You_have_free_voca_queries_with_AI_desc_user_basic": {
+    "message": "This is Pro Voca feature, as a Basic user, you can try it free or buy Pro Voca plan to:"
+  },
+  "You_have_free_voca_queries_with_AI_desc_user_pro_dict": {
+    "message": "This Pro Voca feature is not included in your Pro Dict plan. Buy Pro Voca Plan to:"
+  },
+  "You_have_free_voca_queries_with_AI_desc_item1": {
+    "message": "Get AI Explain & Video Summarise with massive queries."
+  },
+  "You_have_free_voca_queries_with_AI_desc_item1_sum": {
+    "message": "Get results with smarter AI version."
+  },
+  "You_have_free_voca_queries_with_AI_desc_item2": {
+    "message": "Use AI for quick Email Reply, Rewrite and Deep Dive with extensive queries"
+  },
+  "You_have_free_voca_queries_with_AI_desc_item3": {
+    "message": "Get results by smarter AI version"
+  },
+  "AI_Advanced_Features": {
+    "message": "AI Advanced Features"
+  },
+  "Free_AI_queries": {
+    "message": "Free AI queries (eJOY API):"
+  },
+  "You_have_free_dict_queries_left": {
+    "message": "You have {0} free queries left"
+  },
+  "You_have_free_dict_queries_left_desc": {
+    "message": "This is Pro Dict feature, as a Basic user, you can try it free or buy Pro Dict plan to:"
+  },
+  "You_have_free_voca_queries_left": {
+    "message": "You have {0} free queries with AI left"
+  },
+  "You_have_free_voca_queries_left_desc": {
+    "message": "This is PRO VOCA feature, your Pro Dict plan doesn’t include it. Buy PRO VOCA plan to:"
+  },
+  "Buy_Pro_Voca": {
+    "message": "Buy Pro Voca"
+  },
+  "Free_added_word": {
+    "message": "Free added word:"
+  },
+  "Free_queries_with_AI": {
+    "message": "Free queries with AI"
+  },
+  "Lookup_summary_video": {
+    "message": "Lookup & Summarise video"
+  },
+  "Reply_Rewrite": {
+    "message": "Reply, Rewrite, Q&A"
+  },
+  "Pro_AI_feature": {
+    "message": "Pro AI feature"
+  },
+  "Pro_AI_feature_desc": {
+    "message": "You’ve reached out the limit. You need a Pro Account to get result by AI"
+  },
+  "Pro_Voca": {
+    "message": "Pro Voca"
+  },
+  "You_hit_free_limit": {
+    "message": "You've hit free limit"
+  },
+  "You_hit_free_limit_desc": {
+    "message": "Buy Pro Dict plan to get result by AI"
+  },
+  "You_hit_free_limit_desc_pro_voca": {
+    "message": "Buy Pro Voca plan to get result by AI"
+  },
+  "AI_is_thinking": {
+    "message": "AI is thinking, wait a sec..."
+  },
+  "Retry": {
+    "message": "Retry"
+  },
+  "Other": {
+    "message": "Other"
+  },
+  "Continue_with_Pro_Dict": {
+    "message": "Continue with Pro Dict"
+  },
+  "Reload": {
+    "message": "Reload"
+  },
+  "enableDisable": {
+    "message": "Enable/Disable eJOY Ai"
+  },
+  "enableDisableDesc": {
+    "message": "You can enable/disable the eJOY Ai Summarise on the following website."
+  },
+  "disableEjoyAiIconDesc": {
+    "message": "Once turned off, Sidebar functions will no longer appear on the page."
+  },
+  "disableEjoyAiIcon": {
+    "message": "Turn off Quick actions"
+  },
+  "disableEjoyAiIconPopupTitle": {
+    "message": "Disable AI Assistant"
+  },
+  "disableEjoyAiIconPopupItem1": {
+    "message": "Disable until next visit"
+  },
+  "disableEjoyAiIconPopupItem2": {
+    "message": "Disable for this website"
+  },
+  "disableEjoyAiIconPopupItem3": {
+    "message": "Disable for all websites"
+  },
+  "You_can_enable_again_in": {
+    "message": "You can enable again in"
+  },
+  "Confirm": {
+    "message": "Confirm"
+  },
+  "Quick_AI_features": {
+    "message": "Quick AI features"
+  },
+  "No_transcript_in_the_video": {
+    "message": "No transcript in the video"
+  },
+  "No_transcript_in_the_video_desc": {
+    "message": "Select the video that has a transcript to get summaries"
+  },
+  "Write_in": {
+    "message": "Write in..."
+  },
+  "See_details": {
+    "message": "See details"
+  },
+  "Sender_intent": {
+    "message": "Sender’s intent"
+  },
+  "Convert_to_eJOY_2": {
+    "message": "Convert to eJOY 2"
+  },
+  "Converting_mode": {
+    "message": "Converting mode"
+  },
+  "Converting_data": {
+    "message": "Converting <i>{0}</i>..."
+  },
+  "Converting_data_desc": {
+    "message": "Converting <strong>{0}</strong> to eJOY 2. Please do not close the window and ensure a stable network connection."
+  },
+  "Convert_successfully": {
+    "message": "Convert successfully"
+  },
+  "Convert_successfully_desc": {
+    "message": "<strong>{0}</strong> has been transferred to eJOY 2, from now you can review and manage them efficiently"
+  },
+  "View_wordbook_on_eJOY_2": {
+    "message": "View wordbook on eJOY 2"
+  },
+  "Convert_other_wordbook": {
+    "message": "Convert other wordbook"
+  },
+  "Convert_unsuccessfully": {
+    "message": "Convert unsuccessfully"
+  },
+  "Convert_unsuccessfully_desc": {
+    "message": "The wordbook hasn been converted yet. Please check your internet."
+  },
+  "Converted": {
+    "message": "Converted"
+  },
+  "Go_to_eJOY_2_to_play_game": {
+    "message": "Go to eJOY 2 to play game"
+  },
+  "Go_to_eJOY_2_to_play_game_desc": {
+    "message": "This wordbook has been converted to eJOY 2. You can only view the word list here."
+  },
+  "DeepDaily": {
+    "message": "Deep dive"
+  },
+  "idioms": {
+    "message": "Detect phrase"
+  },
+  "grammar": {
+    "message": "Grammar"
+  },
+  "explain": {
+    "message": "Explain"
+  },
+  "summary": {
+    "message": "Summarise"
+  },
+  "AI_Explain_right_click": {
+    "message": "AI Explain"
+  },
+  "AI_Grammar_right_click": {
+    "message": "AI Grammar"
+  },
+  "AI_Reply_right_click": {
+    "message": "AI Reply"
+  },
+  "AI_Rewrite_right_click": {
+    "message": "AI Rewrite"
+  },
+  "AI_Summarise_right_click": {
+    "message": "AI Summarise"
+  },
+  "AI_Dive_deeply_right_click": {
+    "message": "AI Dive deeply"
+  },
+  "AI_Detect_phrase_right_click": {
+    "message": "AI Detect phrase"
+  },
+  "Blacklist": {
+    "message": "ON Quick actions on all sites, except those listed "
+  },
+  "Blacklist_desc": {
+    "message": "Enable popup display when selecting text on all websites, except for the ones listed below."
+  },
+  "Whitelist": {
+    "message": "OFF Quick actions on all sites, except those listed"
+  },
+  "Whitelist_desc": {
+    "message": "Disable popup display when selecting text on all websites, except for the ones listed below."
+  },
+  "What_are_quick_actions": {
+    "message": "What are quick actions?"
+  },
+  "What_are_quick_actions_desc": {
+    "message": "eJOY AI can be easily accessed through Quick Actions, which offers an easy way to process selected text. <br />As soon as you select any text on a web page, a float button appears, enabling you to instantly translate, rewrite or explain the text with just one click. In addition, you can rearrange the order of the tools for even more convenience."
+  },
+  "What_are_sidebar_functions": {
+    "message": "What are sidebar functions?"
+  },
+  "What_are_sidebar_functions_desc": {
+    "message": "It contains Summarise and Deep Dive feature:<br />1. The AI Summarise assists in summarizing videos or articles and extracting relevant information.<br />2. The AI Deep Dive  simplifies complex concepts or terms by providing clear explanations, real-life examples, quizzes, and prompting questions for better understanding."
+  },
+  "List_of_quick_actions": {
+    "message": "List of quick actions"
+  },
+  "Quick_actions": {
+    "message": "Quick actions"
+  },
+  "Sidebar_functions": {
+    "message": "Sidebar functions"
+  },
+  "Reply_desc": {
+    "message": "Reply to any selected text "
+  },
+  "summary_desc": {
+    "message": "Summarize selected text"
+  },
+  "Rewrite_desc": {
+    "message": "Rewrite any selected text with correct grammar"
+  },
+  "idioms_desc": {
+    "message": "Detect idioms and phrases in the selected text"
+  },
+  "DeepDaily_desc": {
+    "message": "Study the selected text with simple explanation, example and quizzes"
+  },
+  "Explain_desc": {
+    "message": "Explain any selected text in simple terms"
+  },
+  "Grammar_desc": {
+    "message": "Explain grammar structure in the selected text"
+  },
+  "desc_converted": {
+    "message": "This wordbook has been converted to eJOY 2. You can only view the word list here."
+  },
+  "AI_providers": {
+    "message": "AI providers"
+  },
+  "Grammar_Explanation": {
+    "message": "Grammar Explanation"
+  },
+  "OpenAI_API_desc": {
+    "message": "The official OpenAI API is more stable and charges are based on usage. Follow the guide to get the API key. You can find or create your API key here:"
+  },
+  "Azure_API_desc": {
+    "message": "eJOY AI has been constructed, developed, and tailored using Azure OpenAI services to provide an exceptional user experience for eJOY's users."
+  },
+  "ChatGPT_WebApp_desc": {
+    "message": "Staying logged in to your ChatGPT account on the website is essential. Due to OpenAI's limitations, both free and Plus users may experience unstable performance. ChatGPT Plus users are advised to use the service."
+  },
+  "disableQuickAction": {
+    "message": "Quick actions"
+  },
+  "disableQuickActionDesc": {
+    "message": "Once turned off, the eJOY AI Quick Actions will no longer appear when you select text."
+  },
+  "titleConfirmConvert": {
+    "message": "Are you sure you want to convert <i>{0}</i> ?"
+  },
+  "descConfirmConvert": {
+    "message": "After the conversion, you can not be able to save new words to <strong>{0}</strong> temporarily. We are working to solve this issue now."
+  },
+  "notNowConfirmConvert": {
+    "message": "Not now"
+  },
+  "convert": {
+    "message": "Convert"
+  },
+  "Cant_add_special_char": {
+    "message": "Can't add special characters"
+  }
+}

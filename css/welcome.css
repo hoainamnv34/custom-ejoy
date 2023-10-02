@@ -1,0 +1,194 @@
+body {
+  background: #f1f1f1;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #666;
+  font-size: 20px;
+  font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+  box-sizing: border-box;
+  padding-top: 24px;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.25em;
+  margin-bottom: 10px;
+}
+
+img {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #9b0103;
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  line-height: 1.5em;
+  margin-bottom: 1em;
+}
+
+.hidden {
+  display: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#logo {
+  width: 96px;
+  height: 96px;
+}
+
+.footer p {
+  font-size: 14px;
+  line-height: 14px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.header {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #9b0103;
+}
+
+sup {
+  font-size: 11px;
+  margin-left: 2px;
+  opacity: 0.5;
+  font-weight: normal;
+}
+
+.header .version {
+  font-size: 14px;
+  margin-left: 4px;
+  font-weight: normal;
+}
+
+
+.hr {
+  border-bottom: solid 1px #9b0103;
+  opacity: 0.5;
+  padding-bottom: 10px;
+}
+
+.footer {
+  margin: 0 16px;
+}
+
+.footer a {
+  line-height: 32px;
+}
+
+.close {
+  position: absolute;
+  right: 16px;
+  top: 8px;
+  width: 24px;
+  height: 24px;
+  background: url(/img/close.png) no-repeat;
+  background-size: contain;
+  opacity: 0.5;
+}
+
+.close:hover {
+  opacity: 1;
+}
+
+
+.close-btn {
+  font-size: 24px;
+  color: #fff !important;
+  outline: 0 !important;
+  padding: .25em 0.5em !important;
+  margin: 24px 0 20px 0 !important;
+  display: inline-block !important;
+  border: solid 1px #fff !important;
+  border-radius: 5px;
+  /*background-color: #9b0103 !important;*/
+  /*background: linear-gradient(to bottom,#b9090b,#9b0103) !important;*/
+  background: #D98384;
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0,0,0,0.25) !important;
+}
+
+.close-btn {
+  background: #9b0103;
+}
+
+.close-btn:hover {
+  background: #b9090b;
+  color: #fff !important;
+}
+
+.view-about {
+  text-align: left;
+}
+
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.settings-header {
+  color: #9b0103;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#toggle-extension {
+}
+
+.toggle-button {
+  display: inline-block;
+  background-image: url(/img/off.png);
+  width: 50px;
+  height: 19px;
+  margin-left: 15px;
+  position: relative;
+  top: 4px;
+  cursor: pointer;
+}
+
+.toggle-button[data-state=on] {
+  background-image: url(/img/on.png);
+
+}
+
+.toggle-button[data-state=off] {
+  background-image: url(/img/off.png);
+}
+
+.dir-container {
+  margin: 0 auto;
+}
+
+.dir-container .arrow {
+  font-size: 24px;
+  padding: 0px 8px;
+}
+
+select {
+  font-size: 24px;
+  padding: 5px;
+  width: 160px;
+}
